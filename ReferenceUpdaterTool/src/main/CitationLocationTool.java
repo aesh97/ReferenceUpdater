@@ -28,7 +28,6 @@ public class CitationLocationTool {
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
-		
 		String current_article = null;
 		try (BufferedReader br = new BufferedReader(new FileReader(referencePath))) {
             String line;
@@ -48,29 +47,20 @@ public class CitationLocationTool {
         } catch (IOException e) {
             e.printStackTrace();
         }
-		
-		System.out.println(this.id_to_citation.get(201));
 	}
 	
 	//TODO: Add Logic to update planetEating.texRefs before returning the output sentence
 	private String find_citation_by_id(Integer id) {
 		return this.id_to_citation.get(id);
 	}
-	
-	private class Citation {
-		public String author; 
-		public String title;
 
-		public Citation(String text) {	
-			String[] parts = text.split("(?<!\\..)[.?!]\\s+");
-			this.author = parts[0];
-			this.title = parts[1];
-		}
-	}
-	
 	private String find_title_by_id(Integer id) {
-		Citation citation = new Citation(this.find_citation_by_id(id));
-		return citation.title;
+		String citation = this.find_citation_by_id(id);
+		String[] parts = citation.split("(?<!\\..)[.?!]\\s+");
+		if (parts.length > 1) {
+			return parts[1];
+		}
+		return null;
 	}
 	
 	public String find_string_id_by_id(Integer id) {
