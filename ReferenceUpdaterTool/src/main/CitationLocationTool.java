@@ -9,6 +9,7 @@ import java.nio.file.Paths;
 import java.io.BufferedReader;
 import java.io.FileReader;
 
+//TODO: Add Logic to update planetEating.texRefs before returning the output sentence
 public class CitationLocationTool {
 	private Map<Integer, String> id_to_citation = new HashMap<>();
 	private Map<String, String> citation_to_string_id = new HashMap<>();
@@ -41,7 +42,9 @@ public class CitationLocationTool {
                 }
                 else if (line.length() >= 9 && line.substring(0,5).equals("title")) {
                 	String title = line.substring(9);
-                	this.citation_to_string_id.put(title.substring(0, title.length()-3), current_article);                	
+                	if (title.length()-3 > 0) {
+                		this.citation_to_string_id.put(title.substring(0, title.length()-3), current_article);                
+                	}
                 }
             }
         } catch (IOException e) {
@@ -49,7 +52,6 @@ public class CitationLocationTool {
         }
 	}
 	
-	//TODO: Add Logic to update planetEating.texRefs before returning the output sentence
 	private String find_citation_by_id(Integer id) {
 		return this.id_to_citation.get(id);
 	}
