@@ -2,18 +2,12 @@ package main;
 import java.util.ArrayList;
 import java.util.Objects;
 
+//TODO: Add unit tests for this class (low priority since this is purely to boost the coverage numbers)
 public class Reference {
 	private Integer left_bracket_location;
 	private Integer right_bracket_location;
 	private ArrayList<Integer> parens_locations;
 	private ArrayList<Tuple> element_locations;
-	
-	public Reference(Integer start, Integer end, ArrayList<Integer> parens_locations, ArrayList<Tuple> element_locations) {
-		this.left_bracket_location = start;
-		this.right_bracket_location = end;
-		this.parens_locations = parens_locations;
-		this.element_locations = element_locations;
-	}
 	
 	@Override
 	public boolean equals(Object obj) {

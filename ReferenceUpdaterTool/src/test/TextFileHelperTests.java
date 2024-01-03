@@ -1,9 +1,8 @@
 package test;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
-
+import java.lang.reflect.Method;
 import java.util.ArrayList;
-
 import main.Reference;
 import main.TextFileHelper;
 
@@ -22,7 +21,10 @@ public class TextFileHelperTests {
 		TextFileHelper line_parser = new TextFileHelper();
 		ArrayList<Reference> expected = new ArrayList<>();
 		expected.add(ref);
-		assertEquals(expected, line_parser.find_instances(line));
+		Method privateMethod = TextFileHelper.class.getDeclaredMethod("find_instances", String.class);
+		privateMethod.setAccessible(true); 
+		ArrayList<Reference> result = (ArrayList<Reference>)privateMethod.invoke(line_parser, line);
+		assertEquals(expected, result);
 	}
 	
 	@Test
@@ -36,9 +38,12 @@ public class TextFileHelperTests {
 		TextFileHelper line_parser = new TextFileHelper();
 		ArrayList<Reference> expected = new ArrayList<>();
 		expected.add(ref);
-		assertEquals(expected, line_parser.find_instances(line));
+		Method privateMethod = TextFileHelper.class.getDeclaredMethod("find_instances", String.class);
+		privateMethod.setAccessible(true); 
+		ArrayList<Reference> result = (ArrayList<Reference>)privateMethod.invoke(line_parser, line);
+		assertEquals(expected, result);
 	}
-	
+
 	@Test
 	void parse_test_case_3_test() throws Exception {
 		String line = "cooling. The message is clear: such thermodynamically challenged animals as humans [27, 127] or cattle [125, 564] depend";
@@ -57,15 +62,20 @@ public class TextFileHelperTests {
 		ArrayList<Reference> expected = new ArrayList<>();
 		expected.add(ref_1);
 		expected.add(ref_2);
-		assertEquals(expected, line_parser.find_instances(line));
+		Method privateMethod = TextFileHelper.class.getDeclaredMethod("find_instances", String.class);
+		privateMethod.setAccessible(true); 
+		ArrayList<Reference> result = (ArrayList<Reference>)privateMethod.invoke(line_parser, line);
+		assertEquals(expected, result);
 	}
 	
 	@Test
 	void parse_test_should_throw_exception_1() throws Exception {
 		String line = "[41, ";
 		TextFileHelper line_parser = new TextFileHelper();
+		Method privateMethod = TextFileHelper.class.getDeclaredMethod("find_instances", String.class);
+		privateMethod.setAccessible(true); 
 		assertThrows(Exception.class, () -> {
-			line_parser.find_instances(line);
+			privateMethod.invoke(line_parser, line);
 		});
 	}
 	
@@ -73,8 +83,10 @@ public class TextFileHelperTests {
 	void parse_test_should_throw_exception_2() throws Exception {
 		String line = "272]";
 		TextFileHelper line_parser = new TextFileHelper();
+		Method privateMethod = TextFileHelper.class.getDeclaredMethod("find_instances", String.class);
+		privateMethod.setAccessible(true); 
 		assertThrows(Exception.class, () -> {
-			line_parser.find_instances(line);
+			privateMethod.invoke(line_parser, line);
 		});
 	}
 }

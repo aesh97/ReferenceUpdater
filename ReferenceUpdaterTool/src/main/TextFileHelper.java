@@ -1,18 +1,14 @@
 package main;
-
 import java.util.ArrayList;
 
 public class TextFileHelper {
-	// TODO: Address edge case where text starts out with ",1, 10, 100]" or "1, 11,
-	// 12, 100]" or similar patterns or in the case where equations or tables are
-	// referenced in the pattern
-	// Note: This method only handles the cases where the pattern ([{number},
+	// Note: This method only handles the cases where the pattern ([{number}, 
 	// {number}, ... {number}]) holds, it will fail if there are referenced
 	// equations or tables
-	public ArrayList<Reference> find_instances(String text) throws Exception {
+	private ArrayList<Reference> find_instances(String text) throws Exception {
 		ArrayList<Reference> references = new ArrayList<>();
 		Reference in_progress_reference = null;
-		Integer index = 0;
+		Integer index = 0;  
 		while (index < text.length()) {
 			char current_character = text.charAt(index);
 			if (Character.isDigit(current_character) || current_character == ' ' || current_character == ','
