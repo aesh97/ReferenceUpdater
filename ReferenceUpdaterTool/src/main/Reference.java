@@ -1,39 +1,85 @@
 package main;
 import java.util.ArrayList;
+import java.util.Objects;
 
 public class Reference {
 	private Integer left_bracket_location;
 	private Integer right_bracket_location;
 	private ArrayList<Integer> parens_locations;
-	private Integer number_of_citations;
 	private ArrayList<Tuple> element_locations;
 	
-	public Reference(Integer start, Integer end, ArrayList<Integer> parens_locations, Integer number_of_citations, ArrayList<Tuple> element_locations) {
+	public Reference(Integer start, Integer end, ArrayList<Integer> parens_locations, ArrayList<Tuple> element_locations) {
 		this.left_bracket_location = start;
 		this.right_bracket_location = end;
 		this.parens_locations = parens_locations;
-		this.number_of_citations = number_of_citations;
 		this.element_locations = element_locations;
 	}
 	
-	public Integer getLeft_bracket_location() {
-		return left_bracket_location;
+	@Override
+	public boolean equals(Object obj) {
+		if (this == obj)
+			return true;
+		if (obj == null)
+			return false;
+		if (getClass() != obj.getClass())
+			return false;
+		Reference other = (Reference) obj;
+		return listsEqual(element_locations, other.element_locations)
+				&& Objects.equals(left_bracket_location, other.left_bracket_location)
+				&& Objects.equals(parens_locations, other.parens_locations)
+				&& Objects.equals(right_bracket_location, other.right_bracket_location);
+	}
+	
+	private boolean listsEqual(ArrayList<Tuple> list1, ArrayList<Tuple> list2) {
+	    if (list1 == list2)
+	        return true;
+	    if (list1 == null || list2 == null || list1.size() != list2.size())
+	        return false;
+	    for (int i = 0; i < list1.size(); i++) {
+	        if (!Objects.equals(list1.get(i), list2.get(i))) {
+	            return false;
+	        }
+	    }
+	    return true;
 	}
 
-	public Integer getRight_bracket_location() {
-		return right_bracket_location;
+	public Reference(Integer start) {
+		this.left_bracket_location = start;
+		this.parens_locations = new ArrayList<Integer>();
+		this.element_locations = new ArrayList<Tuple>();
+	}
+	
+	public Integer get_left_bracket_location() {
+		return this.left_bracket_location;
 	}
 
-	public ArrayList<Integer> getParens_locations() {
-		return parens_locations;
+	public Integer get_right_bracket_location() {
+		return this.right_bracket_location;
 	}
 
-	public Integer getNumber_of_citations() {
-		return number_of_citations;
+	public ArrayList<Integer> get_parens_locations() {
+		return this.parens_locations;
 	}
 
-	public ArrayList<Tuple> getElement_locations() {
-		return element_locations;
+	public Integer get_number_of_citations() {
+		return this.element_locations.size();
+	}
+
+	public ArrayList<Tuple> get_element_locations() {
+		return this.element_locations;
+	}
+	
+	public void add_parenthesis(Integer location) {
+		this.parens_locations.add(location);
+	}
+	
+	public void add_element(Integer start, Integer end) {
+		Tuple new_element = new Tuple(start, end);
+		this.element_locations.add(new_element);
+	}
+	
+	public void set_right_bracket_location(Integer location) {
+		this.right_bracket_location = location;
 	}
 
 	class Tuple {
@@ -52,5 +98,33 @@ public class Reference {
 		public Integer get_end() {
 			return this.end;
 		}
+		
+		@Override
+		public boolean equals(Object obj) {
+			if (this == obj)
+				return true;
+			if (obj == null)
+				return false;
+			if (getClass() != obj.getClass())
+				return false;
+			Tuple other = (Tuple) obj;
+			return Objects.equals(start, other.start)
+					&& Objects.equals(end, other.end);
+		}
+	}
+	
+	@Override
+	public String toString() {
+	    StringBuilder sb = new StringBuilder();
+	    sb.append("Reference{")
+	      .append("left_bracket_location=").append(left_bracket_location)
+	      .append(", right_bracket_location=").append(right_bracket_location)
+	      .append(", parens_locations=").append(parens_locations)
+	      .append(", element_locations=[");
+	    for (Tuple tuple : element_locations) {
+	        sb.append("(").append(tuple.start).append(",").append(tuple.end).append(")");
+	    }
+	    sb.append("]}");
+	    return sb.toString();
 	}
 }

@@ -9,7 +9,7 @@ import java.nio.file.Paths;
 import java.io.BufferedReader;
 import java.io.FileReader;
 
-//TODO: Add Logic to update planetEating.texRefs before returning the output sentence
+//TODO: Add Logic to update planetEating.texRefs before returning the output sentence 
 public class CitationLocationTool {
 	private Map<Integer, String> id_to_citation = new HashMap<>();
 	private Map<String, String> citation_to_string_id = new HashMap<>();
