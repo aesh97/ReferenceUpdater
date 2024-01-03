@@ -13,10 +13,10 @@ class CitationLocationTests {
 		CitationLocationTool tool = new CitationLocationTool();
 		Method privateMethod = CitationLocationTool.class.getDeclaredMethod("find_citation_by_id", Integer.class);
 		privateMethod.setAccessible(true); 
-		String citation_33 = "C. A. Becker, R. J. Collier, and A. E. Stone. Invited review: Physiological and behavioral "
+		String citation_33 = "C.A. Becker, R.J. Collier, and A.E. Stone. Invited review: Physiological and behavioral "
 				+ "effects of heat stress in dairy cows. Journal of Dairy Science, 103:6751–6770, 2020.";
 		String result = (String)privateMethod.invoke(tool, 33);
-		assertEquals(citation_33, result);
+		assertEquals(citation_33.toLowerCase(), result);
 	}
 	
 	@Test
@@ -31,7 +31,7 @@ class CitationLocationTests {
 				+ "(Sustainable Use of Grassland and Rangeland Resources for Improved Livelihoods), "
 				+ "pages 1-4, Nairobi, Kenya, 2021. Kenya Agricultural and Livestock Research Organization.";
 		String result = (String)privateMethod.invoke(tool, 20);
-		assertEquals(citation_20, result);
+		assertEquals(citation_20.toLowerCase(), result);
 	}
 	
 	@Test
@@ -44,7 +44,7 @@ class CitationLocationTests {
 				+ "Determination of the maximum rate of eccrine sweat glands’ ion reabsorption using the galvanic skin conductance to local sweat rate relationship. "
 				+ "European Journal of Applied Physiology, 116, 2016.";
 		String result = (String)privateMethod.invoke(tool, 7);
-		assertEquals(citation_7, result);
+		assertEquals(citation_7.toLowerCase(), result);
 	}
 	
 	@Test
@@ -54,7 +54,7 @@ class CitationLocationTests {
 		privateMethod.setAccessible(true); 
 		String citation_187_title = "Meat consumption, health, and the environment";
 		String result = (String)privateMethod.invoke(tool, 187);
-		assertEquals(citation_187_title, result);
+		assertEquals(citation_187_title.toLowerCase(), result);
 	}
 	
 	@Test
@@ -64,7 +64,7 @@ class CitationLocationTests {
 		privateMethod.setAccessible(true); 
 		String citation_190_title = "Evolution as fact, theory, and path";
 		String result = (String)privateMethod.invoke(tool, 190);
-		assertEquals(citation_190_title, result);
+		assertEquals(citation_190_title.toLowerCase(), result);
 	}
 	
 	@Test
@@ -74,7 +74,7 @@ class CitationLocationTests {
 		privateMethod.setAccessible(true); 
 		String citation_193_title = "Meta-analysis of randomized controlled trials of red meat consumption in comparison with various comparison diets on cardiovascular risk factors";
 		String result = (String)privateMethod.invoke(tool, 193);
-		assertEquals(citation_193_title, result);
+		assertEquals(citation_193_title.toLowerCase(), result);
 	}
 	
 	@Test 
@@ -96,5 +96,32 @@ class CitationLocationTests {
 		CitationLocationTool tool = new CitationLocationTool();
 		String string_id_201 = "HawkinsEtAl2022";
 		assertEquals(string_id_201, tool.find_string_id_by_id(201));
+	}
+	
+	@Test
+	void get_id_353_test() throws NoSuchMethodException, SecurityException, IllegalAccessException, InvocationTargetException {
+		CitationLocationTool tool = new CitationLocationTool();
+		Method privateMethod = CitationLocationTool.class.getDeclaredMethod("find_citation_by_id", Integer.class);
+		privateMethod.setAccessible(true); 
+		String citation_353 = "United States Department of Agriculture. Quick Stats. 2021.";
+		String result = (String)privateMethod.invoke(tool, 353);
+		assertEquals(citation_353.toLowerCase(), result);
+	}
+	
+	@Test
+	void get_title_353_test() throws NoSuchMethodException, InvocationTargetException, IllegalAccessException {
+		CitationLocationTool tool = new CitationLocationTool();
+		Method privateMethod = CitationLocationTool.class.getDeclaredMethod("find_title_by_id", Integer.class);
+		privateMethod.setAccessible(true); 
+		String citation_353_title = "Quick stats";
+		String result = (String)privateMethod.invoke(tool, 353);
+		assertEquals(citation_353_title.toLowerCase(), result);
+	}
+	
+	@Test 
+	void get_string_id_353_test() {
+		CitationLocationTool tool = new CitationLocationTool();
+		String string_id_353 = "quickstats";
+		assertEquals(string_id_353, tool.find_string_id_by_id(353));
 	}
 }

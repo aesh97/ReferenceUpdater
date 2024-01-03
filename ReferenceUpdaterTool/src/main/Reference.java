@@ -8,6 +8,7 @@ public class Reference {
 	private Integer right_bracket_location;
 	private ArrayList<Integer> parens_locations;
 	private ArrayList<Tuple> element_locations;
+	private ArrayList<Integer> elements;
 	
 	@Override
 	public boolean equals(Object obj) {
@@ -41,6 +42,7 @@ public class Reference {
 		this.left_bracket_location = start;
 		this.parens_locations = new ArrayList<Integer>();
 		this.element_locations = new ArrayList<Tuple>();
+		this.elements = new ArrayList<Integer>();
 	}
 	
 	public Integer get_left_bracket_location() {
@@ -67,9 +69,14 @@ public class Reference {
 		this.parens_locations.add(location);
 	}
 	
-	public void add_element(Integer start, Integer end) {
+	public void add_element(Integer start, Integer end, String text) {
 		Tuple new_element = new Tuple(start, end);
+		this.elements.add(Integer.valueOf(text.substring(start, end+1)));
 		this.element_locations.add(new_element);
+	}
+	
+	public ArrayList<Integer> get_elements() {
+		return this.elements;
 	}
 	
 	public void set_right_bracket_location(Integer location) {
