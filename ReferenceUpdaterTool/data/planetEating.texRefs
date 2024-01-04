@@ -182,7 +182,7 @@ doi = {10.1029/2009RG000302}
 
 
 @article{CorbinEtAl2023,
-title = {Host-diet-gut microbiome interactions influence human energy balance: a randomized clinical trial},
+title = {Host-diet-gut microbiome interactions influence human energy balance: a randomized clinical trial.},
 author = {Karen D. Corbin and Elvis A. Carnero and Blake Dirks and
 Daria Igudesman and Fanchao Yi and Andrew Marcus and
 Taylor L. Davis and Richard E. Pratley and Bruce
@@ -199,7 +199,7 @@ doi = {10.1038/s41467-023-38778-x}
 
 @article{BerdingCryan2022,
 author = {Kirsten Berding and John F. Cryan},
-title = {Microbiota-targeted interventions for mental health},
+title = {Microbiota-targeted interventions for mental health.},
 journal = {Current Opinion in psychiatry},
 year = {2022},
 VOLUME = {35},
@@ -212,7 +212,7 @@ doi = {10.1097/YCO.0000000000000758}
 
 @article{KunyeitEtAl2023,
 author = {Lohith Kunyeit and Reeta P. Rao and K. A. Anu-Appaiah},
-title = {Yeasts originating from fermented foods, their potential as probiotics and therapeutic implication for human health and disease},
+title = {Yeasts originating from fermented foods, their potential as probiotics and therapeutic implication for human health and disease.},
 journal = {Critical Reviews in Food Science and Nutrition},
 volume = {63},
 pages = {1-12},
@@ -223,7 +223,7 @@ doi = {10.1080/10408398.2023.2172546},
 
 
 @article{LeeuwendaalEtAl2022,
-title = {Fermented foods, health and the gut microbiome},
+title = {Fermented foods, health and the gut microbiome.},
 author = {Natasha K. Leeuwendaal and Catherine Stanton and Paul
 W. O’Toole and Tom P. Beresford},
 journal = {Nutrients},
@@ -298,7 +298,7 @@ pages = {1098–1108}
 
 @article{BeckerEtAl2020,
 author = {C. A. Becker and R. J. Collier and A. E. Stone},
-title = {Invited review: Physiological and behavioral effects of heat stress in dairy cows},
+title = {Invited review: Physiological and behavioral effects of heat stress in dairy cows.},
 journal = {Journal of Dairy Science},
 volume = {103},
 issue = {8},
@@ -1969,8 +1969,7 @@ doi = {10.5694/mjao11.12492}
 
 
 @article{RotichEtAl2018,
-title = {Soil Organic Carbon Content and Stocks in Relation to Grazing
-Management in Semi-Arid Grasslands of Kenya},
+title = {Soil Organic Carbon Content and Stocks in Relation to Grazing Management in Semi-Arid Grasslands of Kenya},
 author = {Hillary Kipngetich Rotich and Richard Onwonga and Judith
 Syombua Mbau and Oscar Kipchirchir Koech},
 journal = {Journal of Rangeland Science},
@@ -6022,9 +6021,7 @@ doi = {10.7326/M19-0622}
 
 
 @article{JohnstonEtAl2019,
-title = {Unprocessed Red Meat and Processed Meat Consumption: Dietary
-Guideline Recommendations From the Nutritional
-Recommendations (NutriRECS) Consortium},
+title = {Unprocessed Red Meat and processed meat consumption: Dietary guideline recommendations from the nutritional recommendations (nutrirecs) consortium.},
 author = {Bradley C. Johnston and Dena Zeraatkar abd Mi Ah Han and
 Robin W. M. Vernooij and Claudia Valli and Regina El
 Dib and Catherine Marshall and Patrick J. Stover and
@@ -6804,7 +6801,7 @@ date = {january 19, 2023}
 
 
 @misc{Heid2016,
-title = {Experts Say Lobbying Skewed the U.S. Dietary Guidelines},
+title = {Experts Say Lobbying Skewed the U.S. Dietary Guidelines.},
 author = {Markham Heid},
 jurnal = {Time},
 date = {January 8, 2016}
@@ -6814,8 +6811,7 @@ date = {January 8, 2016}
 
 @misc{Moodie2016,
 author = {Alison Moodie},
-title = {Before you read another health study, check who's funding the
-research},
+title = {Before you read another health study, check who's funding the research.},
 journal = {The Guardian},
 year = {2016},
 date = {Decemeber 12 2016}
@@ -6894,7 +6890,7 @@ doi = {10.1093/ajcn/83.4.780}
 
 @article{Niman2009,
 author = {Nicolette Hahn Niman},
-title = {The Carnivore’s Dilemma},
+title = {The Carnivore’s Dilemma.},
 year = {2009},
 journal = {The New York TImes},
 date = {October 30 2009}
@@ -6913,8 +6909,7 @@ date = {February 17 2011}
 
 
 @misc{Arends2020,
-title = {‘Totally bizarre!’ — nutritionists see red over study
-downplaying the serious health risks of red meat},
+title = {‘Totally bizarre!’ — nutritionists see red over study downplaying the serious health risks of red meat.},
 year = {2020},
 author = {Brett Arends},
 journal = {Market Watch},
@@ -9280,7 +9275,7 @@ doi = {10.1016/j.rama.2019.03.001}
 Author = {United States Department of Agriculture},
 Howpublished = {\url{https://quickstats.nass.usda.gov/}},
 Publisher = {United States Department of Agriculture},
-Title = {Quick Stats},
+title = {Quick Stats.},
 Year = {2021}
 }
 
@@ -9341,7 +9336,7 @@ year = {2013}
 
 
 @misc{SavoryTedTalk2013,
-title = {How to fight desertification and reverse climate change},
+title = {How to fight desertification and reverse climate change.},
 author = {Allan Savory},
 year = {2013},
 publisher = {TED2013, Technology, Entertainment, Design},
@@ -9399,7 +9394,7 @@ address = {New York NY}
 
 
 @book{Niman2014,
-title = {Defending Beef: The Case for Sustainable Meat Production},
+title = {Defending Beef: The Case for Sustainable Meat Production.},
 author = {Nicolette Hahn Niman},
 year = {2014},
 isbn = {9781603585378},
@@ -10038,7 +10033,7 @@ isbn = {978-0143135968}
 
 
 @book{Vallis2006,
-title = {Atmospheric and Oceanic Fluid Dynamics: Fundamentals and Large-scale Circulation},
+title = {Atmospheric and Oceanic Fluid Dynamics: Fundamentals and Large-scale Circulation.},
 author = {Geoffrey K. Vallis},
 edition = {1st},
 year = {2006},

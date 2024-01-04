@@ -13,7 +13,7 @@
 [13] David Archer. Fate of fossil fuel co2 in geologic time. Journal of Geophysical Research, 110(C09S05), 2005.
 [14] David Archer and Victor Brovkin. The millennial atmospheric lifetime of anthropogenic co2. Climatic Change, 90:283?297, 2008.
 [15] David Archer, Michael Eby, Victor Brovkin, Andy Ridgwell, Long Cao, Uwe Mikolajewicz, Ken Caldeira, Katsumi Matsumoto, Guy Munhoven, Alvaro Montenegro, and Kathy Tokos. Atmospheric lifetime of fossil fuel carbon dioxide. Annual Review of Earth and Planetary Sciences, 37:117?134, 2009.
-[16] Brett Arends. ?totally bizarre!? ? nutritionists see red over study downplaying the serious health risks of red meat, 2020.
+[16] Brett Arends. ‘Totally bizarre!’ — nutritionists see red over study downplaying the serious health risks of red meat. 2020.
 [17] Deb Raj Aryal. Grazing intensity in grassland ecosystems: implications for carbon storage and functional properties. CABI Reviews, 17(032):1?12, 2022.
 [18] P. Ashwin and A. S. von der Heydt. Extreme sensitivity and climate tipping points. Journal of Statistical Physics, 179:1531?1552, 2020.
 [19] Santiananda Arta Asmarasari, Nurul Azizah, Sutikno Sutikno, Wisri Puastuti, Azhar Amir, Lisa Praharani, Supardi Rusdiana, Cecep Hidayat, Anita Hafid, Diana Andrianita Kusumaningrum, Ferdy Saputra, Chalid Talib, Agustin Herliatika, Mohammad Ikhsan Shiddieqy, and Sari Yanti Hayanti. A review of dairy cattle heat stress mitigation in indonesia. Veterinary World, 16:1098?1108, 2023.
@@ -30,14 +30,14 @@
 [30] Pete Bauman and Allen Williams. Grass-fed beef: Market share of grass-fed beef. Technical report, South Dakota State Unoversity Extension, June 28 2021.
 [31] K. A. Beauchemin and S. M. McGinn. Methane emissions from feedlot cattle fed barley or corn diets. Journal of Animal Science, 83:653?661, 3 2005.
 [32] Nerea Becerra-Tomas, Nancy Babio, Miguel? Angel Mart? ??nez-Gonzalez, Dolores Corella, Ra-? mon Estruch, Emilio Ros, Montserrat Fito, Llu? ??s Serra-Majem, Itziar Salaverria, Rosa M. Lamuela-Raventos, Jos? e Lapetra, Enrique G? omez-Gracia, Miguel Fiol, Estefan? ??a Toledo, Jose V. Sorl? ??, Maria Roser Pedret-Llaberia, and Jordi Salas-Salvado.? Replacing red meat and processed red meat for white meat, fish, legumes or eggs is associated with lower risk of incidence of metabolic syndrome. Clinical Nutrition, 35(6):1442?1449, 2016.
-[33] C. A. Becker, R. J. Collier, and A. E. Stone. Invited review: Physiological and behavioral effects of heat stress in dairy cows. Journal of Dairy Science, 103:6751–6770, 2020.
+[33] C.A. Becker, R.J. Collier, and A.E. Stone. Invited review: Physiological and behavioral effects of heat stress in dairy cows. Journal of Dairy Science, 103:6751–6770, 2020.
 [34] G. Bedenham, A. Kirk, U. Luhano, and A. Shields. The importance of biodiversity risks: Link to zoonotic diseases. British Actuarial Journal, 27(E10), 2022.
 [35] Eduardo Bellosi, Jorge F. Genise, Alejandro Zucol, Mariano Bond, Alejandro Kramarz, M. Victoria Sanchez, and J. Marcelo Krause. Diverse evidence for grasslands since the eocene? in patagonia. Journal of South American Earth Sciences, 108(103357), 2021.
 [36] A. J. Belsky. Does herbivory benefit plants? a review of the evidence. The American Naturalist, 127:870?892, 1986.
 [37] Pia Benaud, Karen Anderson, Martin Evans, Luke Farrow, Miriam Glendell, Mike R. James, Timothy A. Quine, John N. Quinton, Barry Rawlins, R. Jane Rickson, and Richard E. Brazier. National-scale geodata describe widespread accelerated soil erosion. Geoderma, 371:114378, 2020.
 [38] Emelia J Benjamin, Paul Muntner, Alvaro Alonso, Marcio S Bittencourt, Clifton W Callaway, April P Carson, Alanna M Chamberlain, Alexander R Chang, Susan Cheng, Sandeep R Das, et al. Heart disease and stroke statistics-2019 update: a report from the american heart association. Circulation, 139(10):e56?e528, 2019.
 [39] Meredith Bennett-Smith. From model t to prius: 13 big moments in fuel efficiency history, 2012.
-[40] Kirsten Berding and John F. Cryan. Microbiota-targeted interventions for mental health. Current Opinion in psychiatry, 35:3?9, 2022.
+[40] Kirsten Berding and John F.Cryan. Microbiota-targeted interventions for mental health. Current Opinion in psychiatry, 35:3?9, 2022.
 [41] A. Berman. Effects of body surface area estimates on predicted energy requirements and heat stress. Journal of Dairy Science, 86(11):3605?3610, 2003.
 [42] Adam M. Bernstein, Qi Sun, Frank B. Hu, Meir J. Stampfer, JoAnn E. Manson, , and Walter C. Willett. Major dietary protein sources and the risk of coronary heart disease in women. Circulation, 122(9):876?883, 2010.
 [43] Wendell Berry. The Unsettling of America: Culture & Agriculture. Counterpoint Press, Berkeley CA, 2004.
@@ -102,7 +102,7 @@ Fabrice Lambert, Sander van der Leeuw, Hannah Liddy, Marie-France Loutre, David 
 [100] Adam Anderson Cook. Measuring methane emissions from american bison (bison bison l.) using eddy covariance. Master?s thesis, Montana State University - Bozeman, College of Agriculture, 2019.
 [101] Benjamin I. Cook. Drought: An Interdisciplinary Perspective. Columbia University Press, 2019.
 [102] Stella M. Copeland, Kirk W. Davies, Chad S. Boyd, and Jonathan D. Bates. Recovery of the herbaceous component of degraded sagebrush steppe is unimpeded by 75 years of moderate cattle grazing. Ecospghere, 12(e03445), 2021.
-[103] Karen D. Corbin, Elvis A. Carnero, Blake Dirks, Daria Igudesman, Fanchao Yi, Andrew Marcus, Taylor L. Davis, Richard E. Pratley, Bruce E. Rittmann, Rosa Krajmalnik-Brown, and Steven R. Smith. Host-diet-gut microbiome interactions influence human energy balance: a randomized clinical trial. Nature Communications, 14(3161), 2023.
+[103] Karen D.Corbin, Elvis A.Carnero, Blake Dirks, Daria Igudesman, Fanchao Yi, Andrew Marcus, Taylor L.Davis, Richard E.Pratley, Bruce E.Rittmann, Rosa Krajmalnik-Brown, and Steven R.Smith. Host-diet-gut microbiome interactions influence human energy balance: a randomized clinical trial. Nature Communications, 14(3161), 2023.
 [104] Abelardo Correa-Calderon, Leonel Avendano-Reyes, M. Angeles Lopez-Baca, and Ulises Mac??as-Cruz. Heat stress in dairy cattle with emphasis on milk production and feed and water intake habits. review. Revista Mexicana de Ciencias Pecuarias, 13:488?509, 2022.
 [105] Daniela F. Cusack, Clare E. Kazanski, Alexandra Hedgpeth, Kenyon Chow, Amanda L. Cordeiro, Jason Karpman, and Rebecca Ryals. Reducing climate impacts of beef production: A synthesis of life cycle assessments across management systems and global regions. Global Change Biology, 27:1721?1736, 2021.
 [106] Adolpho Emanuel Quintela da Rocha, Eduardo Alvarez Santos, and Clenton Owensby. Partitioning evapotranspiration and carbon flux in ungrazed and grazed tallgrass prairie. Agriculture, Ecosystems and Environment, 343(108285), 2023.
@@ -207,7 +207,7 @@ Lucchesi, Dagmar Merkova, Jon Eric Nielsen, Gary Partyka, Steven Pawson, William
 [202] Matthew N. Hayek and Rachael D. Garrett. Nationwide shift to grass-fed beef requires larger cattle population. Environmental Research Letters, 13(084005), 2018.
 [203] Robert M. Hazen. The Story of Earth: The First 4.5 Billion Years, from Stardust to Living Planet. Penguin Books, New York NY, 2013.
 [204] Thomas Van Hecke, Louise M. A. Jakobsen, Els Vossen, Francoise Gueraud, Filip De Vos, Fabrice Pierre, Hanne C. S. Bertram, and Stefaan De Smet. Short-term beef consumption promotes systemic oxidative stress, tmao formation and inflammation in rats, and dietary fat content modulates these effects. Food & Function, 7:3760?3771, 2016.
-[205] Markham Heid. Experts say lobbying skewed the u.s. dietary guidelines.
+[205] Markham Heid. Experts Say Lobbying Skewed the U.S. Dietary Guidelines. 
 [206] Christoph Heinze, Thorsten Blenckner, Helena Martins, Dagmara Rusiecka, Ralf Doscher,? Marion Gehlen, Nicolas Gruber, Elisabeth Holland, ?ystein Hov, Fortunat Joos, John Brian Robin Matthews, Rolf R?dven, and Simon Wilson. The quiet crossing of ocean tipping points. Proceedings of the National Academy of Sciences, 118(e2008478118), 2021.
 [207] Ernest Hemingway. Islands in the Stream. Scribner?s, New York NY, 1970.
 [208] Benjamin B. Henderson, Pierre J. Gerber, Tom E. Hilinski, Alessandra Falcucci, Dennis S. Ojima, Mirella Salvatore, and Richard T. Conant. Greenhouse gas mitigation potential of the world?s grazing lands: Modeling soil carbon and nitrogen fluxes of mitigation practices. Agriculture, Ecosystems & Environment, 207:91?100, 2015.
@@ -237,7 +237,7 @@ C. A. Johnson, editors. Climate Change 2001: The Scientific Basis. Contribution 
 2021. Online at https://www.washingtonpost.com/outlook/ditchingmeat-isnt-the-answer-for-climate-change-better-farmingis/2021/05/14/86001c36-b426-11eb-ab43-bebddc5a0f65_story.html; accessed 23 June 2021.
 [231] Clinton N. Jenkins, Kyle S. Van Houtan, Stuart L. Pimm, and Joseph O. Sexton. Us protected lands mismatch biodiversity priorities. Proceedings of the National Academy of Sciences, 112:5081?5086, 2015.
 [232] Paul Jepson and Cain Blythe. Rewilding: The radical new science of ecological recovery. Icon Books, London, England, 2020.
-[233] Bradley C. Johnston, Dena Zeraatkar abd Mi Ah Han, Robin W. M. Vernooij, Claudia Valli, Regina El Dib, Catherine Marshall, Patrick J. Stover, Susan Fairweather-Taitt, Grzegorz Wojcik, Faiz Bhatia, Russell de Souza, Carlos Brotons, Joerg J. Meerpohl, Chirag J. Patel,? Benjamin Djulbegovic, Pablo Alonso-Coello, Malgorzata M. Bala, and Gordon H. Guyatt. Unprocessed red meat and processed meat consumption: Dietary guideline recommendations from the nutritional recommendations (nutrirecs) consortium. Annals of Internal Medicine, 171(10):756?764, 2019.
+[233] Bradley C.Johnston, Dena Zeraatkar abd Mi Ah Han, Robin W.M. Vernooij, Claudia Valli, Regina El Dib, Catherine Marshall, Patrick J.Stover, Susan Fairweather-Taitt, Grzegorz Wojcik, Faiz Bhatia, Russell de Souza, Carlos Brotons, Joerg J.Meerpohl, Chirag J.Patel, Benjamin Djulbegovic, Pablo Alonso-Coello, Malgorzata M.Bala, and Gordon H.Guyatt. Unprocessed Red Meat and processed meat consumption: Dietary guideline recommendations from the nutritional recommendations (nutrirecs) consortium. Annals of Internal Medicine, 171(10):756?764, 2019.
 [234] E. Raymond Hunt Jr., Robert D. Kelly, William K. Smith, Jace T. Fahnestock, Jeffrey M. Welker, , and William A. Reiners. Estimation of carbon sequestration by combining remote sensing and net ecosystem exchange data for northern mixed-grass prairie and sagebrush?steppe ecosystems. Environmental Management, 33:S432?S441, 2004.
 [235] Scott Jurek. Eat & Run: My Unlikely Journey to Ultramarathon Greatness. Houghton Mifflin Harcourt, Boston MA and New York NY, 2012.
 [236] Orestis Kairis, Christos Karavitis, Luca Salvati, Aikaterini Kounalaki, and Kostas Kosmas. Exploring the impact of overgrazing on soil erosion and land degradation in a dry mediterranean agro-forest landscape (crete, greece). Arid Land Research and Management, 29(3):360?374, 2015.
@@ -267,7 +267,7 @@ C. A. Johnson, editors. Climate Change 2001: The Scientific Basis. Contribution 
 [260] Aneta A. Koronowicz and Paula Banks. Antitumor properties of cla-enriched food products. Nutrition and Cancer, 70:529?545, 2018.
 [261] Clarisse T. Kraamwinkel, Anne Beaulieu, Teresa Dias, and Ruth A. Howison. Planetary limits to soil degradation. Communications Earth & Environment, 2(249), 2021.
 [262] Thomas S. Kuhn. The Structure of Scientific Revolutions. University of Chicago Press, Chicago IL, 1962.
-[263] Lohith Kunyeit, Reeta P. Rao, and K. A. Anu-Appaiah. Yeasts originating from fermented foods, their potential as probiotics and therapeutic implication for human health and disease. Critical Reviews in Food Science and Nutrition, 63:1?12, 2023.
+[263] Lohith Kunyeit, Reeta P.Rao, and K.A. Anu-Appaiah. Yeasts originating from fermented foods, their potential as probiotics and therapeutic implication for human health and disease. Critical Reviews in Food Science and Nutrition, 63:1?12, 2023.
 [264] R. Lal. Soil carbon sequestration to mitigate climate change. Geoderma, pages 1?22, 2004.
 [265] Rattan Lal. Digging deeper: A holistic perspective of factors affecting soil organic carbon sequestration in agroecosystems. Global Change Biology, 24:3285?3301, 2018.
 [266] Rattan Lal. Regenerative agriculture for food and climate. Journal of Soil and Water Conservation, 75:123A?124A, 2020.
@@ -278,7 +278,7 @@ C. A. Johnson, editors. Climate Change 2001: The Scientific Basis. Contribution 
 [271] Frances Moore Lappe.? Diet for a Small Planet. Ballantine Books, New York NY, 1971.
 [272] Y. Le Cozler, C. Allain, C. Xavier, L. Depuille, A. Caillot, J.M. Delouard, L. Delattre, T. Luginbuhl, and P. Faverdin. Volume and surface area of holstein dairy cows calculated from complete 3d shapes acquired using a high-precision scanning system: Interest for body weight estimation. Computers and Electronics in Agriculture, 165(104977), 2019.
 [273] H. Lee, D.P. Schrag, M. Bunn, M. Davidson, W. Peng, W. Pu, and M. Zhimin. Foundations for a Low-Carbon Energy System in China. Cambridge University Press, Cambridge, United Kingdom and New York, NY, USA, 2021.
-[274] Natasha K. Leeuwendaal, Catherine Stanton, Paul W. O?Toole, and Tom P. Beresford. Fermented foods, health and the gut microbiome. Nutrients, 14(1527):1?26, 2022.
+[274] Natasha K.Leeuwendaal, Catherine Stanton, Paul W.O'Toole, and Tom P.Beresford. Fermented foods, health and the gut microbiome. Nutrients, 14(1527):1?26, 2022.
 [275] Clara Lefevre, Fatma Rekik, Viridiana Alcantara, and Liesl Wiese. Soil organic carbon: the hidden potential. Technical report, Food and Agriculture Organization of the United Nations, Rome, Italy, 2017.
 [276] J. Leshy. America?s public lands: sketch of their political history and future challenges. Natural Resources Journal, pages 341?360, 2022.
 [277] Stephan Lewandowsky, Ullrich K.H. Ecker, and John Cook. Beyond misinformation: Understanding and coping with the ?post-truth? era. Journal of Applied Research in Memory and Cognition, 6:353?369, 2017.
@@ -335,7 +335,7 @@ C. A. Johnson, editors. Climate Change 2001: The Scientific Basis. Contribution 
 [328] Amy Molotoks, Pete Smith, and Terence P. Dawson. Impacts of land use, population, and climate change on global food security. Food and Energy Security, 10(e261), 2021.
 [329] Nicolas Monjotin, Marie Josephe Amiot, Jacques Fleurentin, Jean Michel Morel, and Sylvie` Raynal. Clinical evidence of the benefits of phytonutrients in human healthcare. Nutrients, 14(1712), 2022.
 [330] David R. Montgomery. Soil erosion and agricultural sustainability. Proceedings of the National Academy of Sciences, 104(33):13268?13272, 2007.
-[331] Alison Moodie. Before you read another health study, check who?s funding the research, 2016.
+[331] Alison Moodie. Before you read another health study, check who's funding the research. 2016.
 [332] David Moon. The Grasslands of North America and Russia, chapter Fourteen, pages 245?262. John Wiley & Sons, Blackwell Publishing, Hoboken NJ, USA, 2012.
 [333] C. M. Moore, M. M. Mills, K. R. Arrigo, I. Berman-Frank, L. Bopp, P. W. Boyd, E. D. Galbraith, R. J. Geider, C. Guieu, S. L. Jaccard, T. D. Jickells, J. La Ro che, T. M. Lenton, N. M. Mahowald, E. Maranon, I. Marinov, J. K. Moore, T. Nakatsuka, A. Oschlies, M. A. Saito, T. F. Thingstad, A. Tsuda, and O. Ulloa. Processes and patterns of oceanic nutrient limitation. Nature Geoscience, 6:701?710, 2013.
 [334] Tiago G. Morais, Ricardo F. M. Teixeira, and Tiago Domingos. Detailed global modelling of soil organic carbon in cropland, grassland and forest soils. PLoS One, 14(e0222604), 2019.
@@ -350,7 +350,7 @@ C. A. Johnson, editors. Climate Change 2001: The Scientific Basis. Contribution 
 [343] Alison G. Nelson, Sylvie A. Quideau, Brenda Frick, Pierre J. Hucl, Dil Thavarajah, M. Jill Clapperton, and Dean M. Spaner. The soil microbial community and grain micronutrient concentration of historical and modern hard red spring wheat cultivars grown organically and conventionally in the black soil zone of the canadian prairies. Sustainability, 3(3):500?517, 2011.
 [344] Marion Nestle. Paleolithic diets: a sceptical view. Nutrition Bulletin, 25(1):43?47, 2000.
 [345] Thu Lan T. Nguyen, John E. Hermansen, and Lisbeth Mogensen. Environmental consequences of different beef production systems in the eu. Journal of Cleaner Production, 18:756?766, 2010.
-[346] Nicolette Hahn Niman. The carnivore?s dilemma. The New York TImes, 2009.
+[346] Nicolette Hahn Niman. The Carnivore’s Dilemma. The New York TImes. 2009.
 [347] Nicolette Hahn Niman. Defending ?foodies?: A rancher takes a bite out of b. r. myers. The Atlantic, 2011.
 [348] Nicolette Hahn Niman. Defending Beef: The Case for Sustainable Meat Production. Chelsea Green Publishing, White River Junction, VT, 2014.
 [349] Kim Margarette C. Nogoy, Bin Sun, Sangeun Shin, Yeonwoo Lee, Xiang Zi Li, Seong Ho Choi, and Sungkwon Park. Fatty acid composition of grain- and grass-fed beef and their nutritional value and health implication. Food Science Animal Resource, 42:18?33, 2022.
@@ -361,7 +361,7 @@ N. Che, D. Chen, H. Droz-Georget, P. Ekins, M. Fischer-Kowalski, M. Florke, S. F
 A. Froemelt, A. Geschke, M. Haupt, P. Havlik, R. Hufner, M. Lenzen, M. Lieber, B. Liu,
 Y. Lu, S. Lutter, J. Mehr, A. Miatto, D. Newth, C. Oberschelp, M. Obersteiner, S. Pfister,
 E. Piccoli, R. Schaldach, J. Schungel, T. Sonderegger, A. Sudheshwar, H. Tanikawa, E. van der Voet, C. Walker, J. West, Z. Wang, and B. Zhu. Global Resources Outlook 2019: Natural Resources for the Future We Want. The International Resource Panel, United Nations Environment Programme, Nairobi, Kenya, 2019.
-[353] United States Department of Agriculture. Quick stats. https://quickstats.nass. usda.gov/, 2021.
+[353] United States Department of Agriculture. Quick Stats. 2021.
 [354] Department of Economic and Social Affairs Population Dynamics. World population prospects 2019, 2021. Online at https://population.un.org/wpp/Graphs/ DemographicProfiles/Line/900; accessed 1 June 2021.
 [355] S. Ogle, R. Conant, and K. Paustian. Deriving grassland management factors for a carbon accounting method developed by the intergovernmental panel on climate change. Environmental Management, 33:474?484, 2004.
 [356] S.M. Ogle, P.R. Adler, F.J. Breidt, S. Del Grosso, J. Derner, A. Franzluebbers, M. Liebig,
@@ -444,7 +444,7 @@ Seabloom, and Arshad Ali. Grazing intensity alters the plant diversity?ecosystem
 [430] Ambika Satija, Shilpa N. Bhupathiraju, Donna Spiegelman, Stephanie E. Chiuve, JoAnn E. Manson, Walter Willett, Kathryn M. Rexrode, Eric B. Rimm, and Frank B. Hu. Healthful and unhealthful plant-based diets and the risk of coronary heart disease in u.s. adults. Journal of the American College of Cardiology, 70(4):411?422, 2017.
 [431] Ambika Satija and Frank B. Hu. Plant-based diets and cardiovascular health. Trends in Cardiovascular Medicine, 28:437?441, 2018.
 [432] Annalisa Savaresi. The paris agreement: a new beginning? Journal of Energy & Natural Resources Law, 34(1):16?26, 2016.
-[433] Allan Savory. How to fight desertification and reverse climate change, 2013.
+[433] Allan Savory. How to fight desertification and reverse climate change. 2013.
 [434] Allan Savory. Response to request for information on the ?science? and ?methodology? underpinning holistic management and holistic planned grazing, 2013.
 [435] Allan Savory and Jody Butterfield. Holistic Management: A New Framework for Decision Making. Island Press, Washington DC, 1998.
 [436] Mohammed N. Sawalhah, Jerry L. Holechek, Andres F. Cibils, Hatim M. E. Geli, and Ashraf. Zaied. Rangeland livestock production in relation to climate and vegetation trends in new mexico. Rangeland Ecology and Management, 72:832?845, 2019.
@@ -537,7 +537,7 @@ Panel on Climate Change, page 1535. Cambridge University Press, Cambridge, Unite
 [512] USDA-ERS. Labor used to produce field crops: Estimates by states, 1964. Online at https://ageconsearch.umn.edu/bitstream/153771/2/sb346.pdf; accessed 18 August 2021.
 [513] USDA-NASS. Meat animals production, disposition, and income 2020 summary. report ISSN: 0748-0318, United States Department of Agriculture, National Agricultural Statistics Service, Washington, DC, April 2021. ISSN: 0748-0318.
 [514] Sarah O. Valerio, Jurgen Hummel, Daryl Codron, Jean-Michel Hatt, and Marcus Clauss. The ruminant sorting mechanism protects teeth from abrasives. Proceedings of the National Academy of Sciences, 119(e2212447119), 2022.
-[515] Geoffrey K. Vallis. Atmospheric and Oceanic Fluid Dynamics: Fundamentals and Largescale Circulation. Cambridge University Press, Cambridge, UK, New York, USA, 1st edition, 2006.
+[515] Geoffrey K.Vallis. Atmospheric and Oceanic Fluid Dynamics: Fundamentals and Large-scale Circulation. Cambridge University Press, Cambridge, UK, New York, USA, 1st edition, 2006.
 [516] H. Valls-Fox, S. Chamaille-Jammes, M. de Garine-Wichatitsky, A. Perrotton, N. Courbin, E. Miguel, C. Guerbois, A. Caron, A. Loveridge, B. Stapelkamp, M. Muzamba, and H. Fritz. Water and cattle shape habitat selection by wild herbivores at the edge of a protected area. Animal Conservation, 21(5):365?375, 2018.
 [517] Kees C H van Ginkel, W J Wouter Botzen, Marjolijn Haasnoot, Gabriel Bachner, Karl W Steininger, Jochen Hinkel, Paul Watkiss, Esther Boere, Ad Jeuken, Elisa Sainz de Murieta, and Francesco Bosello. Climate change induced socio-economic tipping points: review and stakeholder consultation for policy relevant research. Environmental Research Letters, 15(2):023001, 1 2020.
 [518] Ellen J. Van Loo, Vincenzina Caputo, and Jayson L. Lusk. Consumer preferences for farmraised meat, lab-grown meat, and plant-based meat alternatives: Does information or brand matter? Food Policy, 95:101931, 2020.
