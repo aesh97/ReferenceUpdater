@@ -1,5 +1,11 @@
 package main;
+import java.io.BufferedReader;
+import java.io.BufferedWriter;
+import java.io.FileReader;
+import java.io.FileWriter;
+import java.io.IOException;
 import java.util.ArrayList;
+import java.util.List;
 
 public class TextFileHelper {
 	// Note: This method only handles the cases where the pattern ([{number}, 
@@ -25,9 +31,6 @@ public class TextFileHelper {
 				} else {
 					if (current_character == '[') {
 						throw new Exception("Nested [ characters at location: " + String.valueOf(index));
-					} else if (current_character == ',') {
-						in_progress_reference.add_parenthesis(index);
-						index += 1;
 					} else if (Character.isDigit(current_character)) {
 						Integer saved_start = index;
 						Integer saved_end = index;
@@ -73,7 +76,7 @@ public class TextFileHelper {
 						new_reference = new_reference.concat(String.valueOf(citation));
 						new_reference = new_reference.concat(", ");
 					}
-				}
+				} 
 				new_reference = new_reference.substring(0, new_reference.length()-2);
 				new_reference = new_reference.concat("}");
 				updated_references.add(new_reference);
@@ -95,6 +98,40 @@ public class TextFileHelper {
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
-		return new_text;
+		 
+		if (new_text == "") {
+			return text;
+		}
+ 		return new_text;
+	}
+	
+	public void generate_output_document(String input_filepath, String output_filepath, Integer num_lines_to_scan) {
+		try (BufferedReader br = new BufferedReader(new FileReader(input_filepath))) {
+            List<String> lines = new ArrayList<>();
+            String line;
+            while ((line = br.readLine()) != null) {
+                lines.add(replace_text(line));
+                if (lines.size() == num_lines_to_scan) {
+                    this.write_lines(lines,output_filepath); 
+                    lines.clear(); 
+                }
+            }
+            if (!lines.isEmpty()) {
+                this.write_lines(lines,output_filepath);
+            }
+        } catch (IOException e) {
+            e.printStackTrace(); 
+        }
+	}
+	
+	private void write_lines(List<String> lines, String filePath) {
+		try (BufferedWriter writer = new BufferedWriter(new FileWriter(filePath, true))) {
+			for (String line: lines) {
+				writer.write(line);
+				writer.newLine();
+			}
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
 	}
 }

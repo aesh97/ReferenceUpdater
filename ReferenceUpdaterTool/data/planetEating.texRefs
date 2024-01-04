@@ -182,7 +182,7 @@ doi = {10.1029/2009RG000302}
 
 
 @article{CorbinEtAl2023,
-title = {Host-diet-gut microbiome interactions influence human energy balance: a randomized clinical trial},
+title = {Host-diet-gut microbiome interactions influence human energy balance: a randomized clinical trial.},
 author = {Karen D. Corbin and Elvis A. Carnero and Blake Dirks and
 Daria Igudesman and Fanchao Yi and Andrew Marcus and
 Taylor L. Davis and Richard E. Pratley and Bruce
@@ -199,7 +199,7 @@ doi = {10.1038/s41467-023-38778-x}
 
 @article{BerdingCryan2022,
 author = {Kirsten Berding and John F. Cryan},
-title = {Microbiota-targeted interventions for mental health},
+title = {Microbiota-targeted interventions for mental health.},
 journal = {Current Opinion in psychiatry},
 year = {2022},
 VOLUME = {35},
@@ -212,7 +212,7 @@ doi = {10.1097/YCO.0000000000000758}
 
 @article{KunyeitEtAl2023,
 author = {Lohith Kunyeit and Reeta P. Rao and K. A. Anu-Appaiah},
-title = {Yeasts originating from fermented foods, their potential as probiotics and therapeutic implication for human health and disease},
+title = {Yeasts originating from fermented foods, their potential as probiotics and therapeutic implication for human health and disease.},
 journal = {Critical Reviews in Food Science and Nutrition},
 volume = {63},
 pages = {1-12},
@@ -223,7 +223,7 @@ doi = {10.1080/10408398.2023.2172546},
 
 
 @article{LeeuwendaalEtAl2022,
-title = {Fermented foods, health and the gut microbiome},
+title = {Fermented foods, health and the gut microbiome.},
 author = {Natasha K. Leeuwendaal and Catherine Stanton and Paul
 W. O’Toole and Tom P. Beresford},
 journal = {Nutrients},
@@ -10033,7 +10033,7 @@ isbn = {978-0143135968}
 
 
 @book{Vallis2006,
-title = {Atmospheric and Oceanic Fluid Dynamics: Fundamentals and Large-scale Circulation},
+title = {Atmospheric and Oceanic Fluid Dynamics: Fundamentals and Large-scale Circulation.},
 author = {Geoffrey K. Vallis},
 edition = {1st},
 year = {2006},
