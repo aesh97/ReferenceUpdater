@@ -52,7 +52,7 @@ public class CitationLocationTool {
             e.printStackTrace();
         }
 	}
-	
+	 
 	private String find_citation_by_id(Integer id) {
 		return this.id_to_citation.get(id).toLowerCase();
 	}
@@ -64,7 +64,7 @@ public class CitationLocationTool {
 			return parts[1];
 		}
 		return null;
-	}
+	} 
 	
 	public String find_string_id_by_id(Integer id) {
 		String title = this.find_title_by_id(id);

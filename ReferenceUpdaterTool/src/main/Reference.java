@@ -24,7 +24,7 @@ public class Reference {
 	public Reference(Integer start) {
 		this.left_bracket_location = start;
 		this.elements = new ArrayList<Integer>();
-	}
+	} 
 	
 	public Integer get_left_bracket_location() {
 		return this.left_bracket_location;

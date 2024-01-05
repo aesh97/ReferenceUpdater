@@ -26,7 +26,7 @@ public class TextFileHelper {
 					} else if (current_character == ']') {
 						throw new Exception("Partial Reference Detected");
 					} else {
-						index += 1;
+						index += 1; 
 					}
 				} else {
 					if (current_character == '[') {
@@ -119,7 +119,7 @@ public class TextFileHelper {
             if (!lines.isEmpty()) {
                 this.write_lines(lines,output_filepath);
             }
-        } catch (IOException e) {
+        } catch (IOException e) { 
             e.printStackTrace(); 
         }
 	}
