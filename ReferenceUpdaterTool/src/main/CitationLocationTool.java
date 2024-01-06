@@ -44,7 +44,7 @@ public class CitationLocationTool {
                 else if (line.length() >= 9 && line.substring(0,5).equals("title")) {
                 	String title = line.substring(9);
                 	if (title.length()-3 > 0) {
-                		this.citation_to_string_id.put(title.substring(0, title.length()-3).toLowerCase(), current_article);                
+                		this.citation_to_string_id.put(title.substring(0, title.length()-2).toLowerCase(), current_article);                
                 	}
                 }
             }
