@@ -5,6 +5,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 
 public class ReferenceTests {
+	
 	@Test 
 	void equality_test() {
 		Reference reference = new Reference(15);

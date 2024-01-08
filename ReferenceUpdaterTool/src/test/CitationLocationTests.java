@@ -39,8 +39,8 @@ class CitationLocationTests {
 		Method privateMethod = CitationLocationTool.class.getDeclaredMethod("find_citation_by_id", Integer.class);
 		privateMethod.setAccessible(true); 
 		String citation_7 = "Tatsuro Amano, Nicola Gerrett, Yoshimitsu Inoue, Takeshi Nishiyasu, "
-				+ "George Havenith, and Narihiko Kondo. "
-				+ "Determination of the maximum rate of eccrine sweat glands’ ion reabsorption using the galvanic skin conductance to local sweat rate relationship. "
+				+ "George Havenith, and Narihiko Kondo. Determination of the maximum rate of eccrine sweat glands' "
+				+ "ion reabsorption using the galvanic skin conductance to local sweat rate relationship. "
 				+ "European Journal of Applied Physiology, 116, 2016.";
 		String result = (String)privateMethod.invoke(tool, 7);
 		assertEquals(citation_7.toLowerCase(), result);

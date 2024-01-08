@@ -80,7 +80,7 @@ doi = {10.1007/s11069-016-2207-2}
 
 @article{KeppelAleksWashenfelder2016,
 author = {G. Keppel-Aleks and R. A. Washenfelder},
-title = {The effect of atmospheric sulfate reductions on diffuse radiation and photosynthesis in the United States during 1995–2013},
+title = {The effect of atmospheric sulfate reductions on diffuse radiation and photosynthesis in the United States during 1995-2013},
 journal = {Geophysical Research Letters},
 volume = {43},
 year = {2016},
@@ -93,7 +93,7 @@ doi = {10.1002/2016GL070052}
 
 
 @article{ShahMerlo2023,
-title = {Personal and Planetary Health— The Connection With Dietary Choices|},
+title = {Personal and Planetary Health- The Connection With Dietary Choices},
 author = {Urvi A. Shah and Gia Merlo},
 journal = {JAMA, the Journal of the American medical Association},
 year = {2023},
@@ -182,7 +182,7 @@ doi = {10.1029/2009RG000302}
 
 
 @article{CorbinEtAl2023,
-title = {Host-diet-gut microbiome interactions influence human energy balance: a randomized clinical trial.},
+title = {Host-diet-gut microbiome interactions influence human energy balance: a randomized clinical trial},
 author = {Karen D. Corbin and Elvis A. Carnero and Blake Dirks and
 Daria Igudesman and Fanchao Yi and Andrew Marcus and
 Taylor L. Davis and Richard E. Pratley and Bruce
@@ -199,7 +199,7 @@ doi = {10.1038/s41467-023-38778-x}
 
 @article{BerdingCryan2022,
 author = {Kirsten Berding and John F. Cryan},
-title = {Microbiota-targeted interventions for mental health.},
+title = {Microbiota-targeted interventions for mental health},
 journal = {Current Opinion in psychiatry},
 year = {2022},
 VOLUME = {35},
@@ -212,7 +212,7 @@ doi = {10.1097/YCO.0000000000000758}
 
 @article{KunyeitEtAl2023,
 author = {Lohith Kunyeit and Reeta P. Rao and K. A. Anu-Appaiah},
-title = {Yeasts originating from fermented foods, their potential as probiotics and therapeutic implication for human health and disease.},
+title = {Yeasts originating from fermented foods, their potential as probiotics and therapeutic implication for human health and disease},
 journal = {Critical Reviews in Food Science and Nutrition},
 volume = {63},
 pages = {1-12},
@@ -223,7 +223,7 @@ doi = {10.1080/10408398.2023.2172546},
 
 
 @article{LeeuwendaalEtAl2022,
-title = {Fermented foods, health and the gut microbiome.},
+title = {Fermented foods, health and the gut microbiome},
 author = {Natasha K. Leeuwendaal and Catherine Stanton and Paul
 W. O’Toole and Tom P. Beresford},
 journal = {Nutrients},
@@ -267,7 +267,7 @@ doi = {10.1073/pnas.87.6.2324}
 @article{CorreaCalderonEtAl2022,
 author = {Abelardo Correa-Calderon and Leonel Avendano-Reyes and
 M. Angeles Lopez-Baca and Ulises Macías-Cruz},
-title = {Heat stress in dairy cattle with emphasis on milk production and feed and water intake habits. Review},
+title = {Heat stress in dairy cattle with emphasis on milk production and feed and water intake habits Review},
 journal = {Revista Mexicana de Ciencias Pecuarias},
 volume = {13},
 issue = {2},
@@ -298,7 +298,7 @@ pages = {1098–1108}
 
 @article{BeckerEtAl2020,
 author = {C. A. Becker and R. J. Collier and A. E. Stone},
-title = {Invited review: Physiological and behavioral effects of heat stress in dairy cows.},
+title = {Invited review: Physiological and behavioral effects of heat stress in dairy cows},
 journal = {Journal of Dairy Science},
 volume = {103},
 issue = {8},
@@ -742,7 +742,7 @@ doi = {10.1016/j.rala.2022.05.003}
 
 @article{KelliherClark2010,
 author = {Francis M. Kelliher and Harry Clark},
-title = {Methane emissions from bison—An historic herd estimate for the North American Great Plains},
+title = {Methane emissions from bison-An historic herd estimate for the North American Great Plains},
 journal = {Agricultural and Forest Meteorology},
 volume = {150},
 issue = {3},
@@ -879,7 +879,7 @@ doi = {10.1071/RJ12016}
 
 
 @article{LewandowskyEtAl2017,
-title = {Beyond Misinformation: Understanding and Coping with the “Post-Truth” Era},
+title = {Beyond Misinformation: Understanding and Coping with the "Post-Truth" Era},
 author = {Stephan Lewandowsky and Ullrich K.H. Ecker and John Cook},
 journal = {Journal of Applied Research in Memory and Cognition},
 volume = {6},
@@ -892,7 +892,7 @@ doi = {10.1016/j.jarmac.2017.07.008}
 
 
 @article{CharneyEtAl1977,
-title = {A Comparative Study of the Effects of Albedo Change on Drought in Semi–Arid Regions},
+title = {A Comparative Study of the Effects of Albedo Change on Drought in Semi-Arid Regions},
 author = {Jule Charney and William J. Quirk and Shu–hsien Chow and
 Jack Kornfield},
 year = {1977},
@@ -1008,7 +1008,7 @@ doi = {10.1007/s00203-023-03421-2}
 
 
 @article{VanLooEtAl2020,
-title = {Consumer preferences for farm-raised meat, lab-grown meat, and plant-based meat alternatives: Does information or brand matter?},
+title = {Consumer preferences for farm-raised meat, lab-grown meat, and plant-based meat alternatives: Does information or brand matter},
 author = {Ellen J. {Van Loo} and Vincenzina Caputo and Jayson L. Lusk},
 journal = {Food Policy},
 volume = {95},
@@ -1020,7 +1020,7 @@ doi = {10.1016/j.foodpol.2020.101931}
 
 
 @article{MichelEtAl2021,
-title = {Consumers’ associations, perceptions and acceptance of meat and plant-based meat alternatives},
+title = {Consumers' associations, perceptions and acceptance of meat and plant-based meat alternatives},
 author = {Fabienne Michel and Christina Hartmann and Michael Siegrist},
 journal = {Food Quality and Preference},
 volume = {87},
@@ -1133,9 +1133,7 @@ doi = {10.1073/pnas.1918373117},
 @article{MuhammadEtAl2022,
 author = {Adil, Muhammad and Zhang, Shaohong and Wang, Jun and Shah,
 Adnan Noor and Tanveer, Mohsin and Fiaz, Sajid},
-title = {Effects of fallow management practices on soil water, crop
-yield and water use efficiency in winter wheat
-monoculture system: A meta-analysis},
+title = {Effects of fallow management practices on soil water, crop yield and water use efficiency in winter wheat monoculture system: A meta-analysis},
 
 journal = {Frontiers in Plant Science},
 volume = {13},
@@ -1188,7 +1186,7 @@ doi = {10.1016/j.geoderma.2017.01.032}
 
 @article{Kaiser2004,
 author = {Jocelyn Kaiser},
-title = {Wounding Earth’s fragile skin},
+title = {Wounding Earth's fragile skin},
 year = {2004},
 journal = {Science},
 volume = {304},
@@ -1209,9 +1207,7 @@ Taboada and Frances C. Manning and Dorothy
 Nampanzira and Cristina Arias-Navarro and Matteo
 Vizzarri and Jo House and Stephanie Roe and Annette
 Cowie and Mark Rounsevell and Almut Arneth},
-title = {Which practices co-deliver food security, climate change
-mitigation and adaptation, and combat land
-degradation and desertification?},
+title = {Which practices co-deliver food security, climate change mitigation and adaptation, and combat land degradation and desertification},
 journal = {Global Change Biology},
 volume = {26},
 issue = {3},
@@ -1223,8 +1219,7 @@ doi = {10.1111/gcb.14878}
 
 
 @article{GardnerEngelhardt2008,
-title = {Spatial processes that maintain biodiversity in plant
-communities},
+title = {Spatial processes that maintain biodiversity in plant communities},
 author = {Robert H. Gardner and Katharina A.M. Engelhardt},
 journal = {Perspectives in Plant Ecology, Evolution and Systematics},
 volume = {9},
@@ -1237,10 +1232,7 @@ doi = {10.1016/j.ppees.2007.08.003}
 
 
 @article{ContostaEtAl,
-title = {Management intensive grazing on New England dairy farms
-enhances soil nitrogen stocks and elevates soil
-nitrous oxide emissions without increasing soil
-carbon},
+title = {Management intensive grazing on New England dairy farms enhances soil nitrogen stocks and elevates soil nitrous oxide emissions without increasing soil carbon},
 author = {Alexandra R. Contosta and Kyle A. Arndt and Eleanor
 E. Campbell and A. Stuart Grandy and Apryl Perry and
 Ruth K. Varner},
@@ -1258,8 +1250,7 @@ author = {André L. C. Franco and Laureano A. Gherardi and Cecilia
 M. de Tomasel and Walter S. Andriuzzi and Katharine
 E. Ankrom and E. Ashley Shaw and Elizabeth M. Bach
 and Osvaldo E. Sala and Diana H. Wall },
-title = {Drought suppresses soil predators and promotes root
-herbivores in mesic, but not in xeric grasslands},
+title = {Drought suppresses soil predators and promotes root herbivores in mesic, but not in xeric grasslands},
 journal = {Proceedings of the National Academy of Sciences},
 volume = {116},
 number = {26},
@@ -1271,9 +1262,7 @@ doi = {10.1073/pnas.1900572116}
 
 
 @article{DaviesEtAl2010,
-title = {Effects of Long-Term Livestock Grazing on Fuel
-Characteristics in Rangelands: An Example From the
-Sagebrush Steppe},
+title = {Effects of Long-Term Livestock Grazing on Fuel Characteristics in Rangelands: An Example From the Sagebrush Steppe},
 author = {Kirk W. Davies and Jonathan D. Bates and Tony J. Svejcar and
 Chad S. Boyd},
 journal = {Rangeland Ecology \& Management},
@@ -1287,8 +1276,7 @@ doi = {10.2111/REM-D-10-00006.1}
 
 
 @article{OrrEtAl2022,
-title = {Grazing Intensity Effects on Fire Ignition Risk and Spread in
-Sagebrush Steppe},
+title = {Grazing Intensity Effects on Fire Ignition Risk and Spread in Sagebrush Steppe},
 author = {Devyn A.Orr and Jonathan D.Bates and Kirk W.Davies},
 journal = {Rangeland Ecology \& Management},
 year = {2022},
@@ -1298,8 +1286,7 @@ doi = {10.1016/j.rama.2022.08.004}
 
 
 @article{ThomasDavies2022,
-title = {Grazing Effects on Fuels Vary by Community State in Wyoming
-Big Sagebrush Steppe},
+title = {Grazing Effects on Fuels Vary by Community State in Wyoming Big Sagebrush Steppe},
 author = {T. W. Thomas and K. W. Davies},
 journal = {Rangeland Ecology \& Management},
 year = {2022},
@@ -1309,9 +1296,7 @@ doi = {10.1016/j.rama.2022.07.004}
 
 
 @article{DiamondEtAl2009,
-title = {Effects of targeted cattle grazing on fire behavior of
-cheatgrass-dominated rangeland in the northern Great
-Basin, USA},
+title = {Effects of targeted cattle grazing on fire behavior of cheatgrass-dominated rangeland in the northern Great Basin, USA},
 author = {Diamond, Joel M. and Call. Christopher A. and Devoe, Nora},
 year = {2009},
 journal = {International Journal of Wildland Fire},
@@ -1325,8 +1310,7 @@ doi = {10.1071/WF08075}
 @article{CastillioniEtAl2022,
 author = {Castillioni, Karen and Newman, Gregory S. and Souza, Lara
 and Iler, Amy M.},
-title = {Effects of drought on grassland phenology depend on
-functional types},
+title = {Effects of drought on grassland phenology depend on functional types},
 journal = {New Phytologist},
 volume = {236},
 number = {4},
@@ -1341,8 +1325,7 @@ doi = {10.1111/nph.18462}
 @article{WilliamsonEtAl2014,
 author = {Williamson, Grant J. and Murphy, Brett P. and Bowman, David
 M. J. S.},
-title = {Cattle grazing does not reduce fire severity in eucalypt
-forests and woodlands of the Australian Alps},
+title = {Cattle grazing does not reduce fire severity in eucalypt forests and woodlands of the Australian Alps},
 journal = {Austral Ecology},
 volume = {39},
 issue = {4},
@@ -1354,9 +1337,7 @@ doi = {10.1111/aec.12104}
 
 
 @article{WangEtAl2022,
-title = {Evaluation of survey and remote sensing data products used to
-estimate land use change in the United States:
-Evolving issues and emerging opportunities},
+title = {Evaluation of survey and remote sensing data products used to estimate land use change in the United States: Evolving issues and emerging opportunities},
 author = {Minzi Wang and Michelle Wander and Steffen Mueller and Nico
 Martin and Jennifer B. Dunn},
 journal = {Environmental Science  and Policy},
@@ -1369,8 +1350,7 @@ doi = {10.1016/j.envsci.2021.12.021}
 
 
 @article{RochaEtAl2023,
-title = {Partitioning evapotranspiration and carbon flux in ungrazed
-and grazed tallgrass prairie},
+title = {Partitioning evapotranspiration and carbon flux in ungrazed and grazed tallgrass prairie},
 author = {Adolpho Emanuel Quintela da Rocha and Eduardo Alvarez Santos
 and Clenton Owensby},
 journal = {Agriculture, Ecosystems and Environment},
@@ -1388,9 +1368,7 @@ Saiz, Hugo and Delgado-Baquerizo, Manuel and
 Sadeghinia, Majid and Ashouri, Parvaneh and Ghafari,
 Sahar and Kaboli, Hasan and Kargar, Mansoureh and
 Seabloom, Eric W. and Ali, Arshad},
-title = {Grazing intensity alters the plant diversity–ecosystem carbon
-storage relationship in rangelands across
-topographic and climatic gradients},
+title = {Grazing intensity alters the plant diversity-ecosystem carbon storage relationship in rangelands across topographic and climatic gradients},
 journal = {Functional Ecology},
 year = {2023},
 volume = {37},
@@ -1430,8 +1408,7 @@ doi = {10.1073/pnas.2212447119}
 
 
 @article{HankelTziperman2021,
-title = {The Role of Atmospheric Feedbacks in Abrupt Winter Arctic Sea
-Ice Loss in Future Warming Scenarios},
+title = {The Role of Atmospheric Feedbacks in Abrupt Winter Arctic Sea Ice Loss in Future Warming Scenarios},
 author = {Camille Hankel and Eli Tziperman},
 year = {2021},
 journal = {Journal of Climate},
@@ -1447,8 +1424,7 @@ doi = {10.1175/JCLI-D-20-0558.1}
 author = {Simonson, J. M. and Birkel, S. D. and Maasch, K. A. and
 Mayewski, P. A. and Lyon, B. and Carleton,
 A. M.},
-title = {Association between recent U.S. northeast precipitation
-trends and Greenland blocking},
+title = {Association between recent U.S. northeast precipitation trends and Greenland blocking},
 journal = {International Journal of Climatology},
 year = {2022},
 volume = {42},
@@ -1461,10 +1437,7 @@ doi = {10.1002/joc.7555}
 
 @article{Malerba2022,
 author = {Daniele Malerba},
-title = {The Effects of Social Protection and Social Cohesion on the
-Acceptability of Climate Change Mitigation Policies:
-What Do We (Not) Know in the Context of Low- and
-Middle-Income Countries?},
+title = {The Effects of Social Protection and Social Cohesion on the Acceptability of Climate Change Mitigation Policies: What Do We (Not) Know in the Context of Low- and Middle-Income Countries},
 journal = {The European Journal of Development Research volume},
 volume = {34},
 pages = {1358–1382},
@@ -1476,8 +1449,7 @@ doi = {10.1057/s41287-022-00537-x }
 
 @article{FrankeKotze2022,
 author = {A. C. Franke and E. Kotze},
-title = {High-density grazing in southern Africa: Inspiration by
-nature leads to conservation?},
+title = {High-density grazing in southern Africa: Inspiration by nature leads to conservation},
 year = {2022},
 journal = {Outlook on Agriculture},
 volume = {51},
@@ -1489,9 +1461,7 @@ doi = {10.1177/00307270221075060}
 
 
 @article{LezineEtAl2010,
-title = {Climate change and human occupation in the Southern Arabian
-lowlands during the last deglaciation and the
-Holocene},
+title = {Climate change and human occupation in the Southern Arabian lowlands during the last deglaciation and the Holocene},
 author = {Anne-Marie Lezine and Christian Robert and Serge Cleuziou
 and Marie-Louise Inizan and Frank Braemer and
 Jean-François Saliege and Florence Sylvestre and
@@ -1512,8 +1482,7 @@ doi = {10.1016/j.gloplacha.2010.01.016}
 author = { D. M. Schwindt and R. K. Bocinsky and S. G. Ortman and
 D. M. Glowacki and M. D. Varien and T. A. Kohler},
 year = {2016},
-title = {The Social Consequences of Climate Change in the Central Mesa
-Verde Region},
+title = {The Social Consequences of Climate Change in the Central Mesa Verde Region},
 journal = {American Antiquity},
 volume = {81},
 issue = {1},
@@ -1537,8 +1506,7 @@ doi = {10.1175/1520-0469(1990)047<2986:ECD>2.0.CO;2}
 
 
 @article{WangEtAl2008,
-title = {Modeling SOC and NPP responses of meadow steppe to different
-grazing intensities in Northeast China},
+title = {Modeling SOC and NPP responses of meadow steppe to different grazing intensities in Northeast China},
 author = {Yuhui Wang and Guangsheng Zhou and BingruiJia},
 journal = {Ecological Modelling},
 volume = {217},
@@ -1551,8 +1519,7 @@ doi = {10.1016/j.ecolmodel.2008.05.010}
 
 
 @article{Aryal2022,
-title = {Grazing intensity in grassland ecosystems: implications for
-carbon storage and functional properties},
+title = {Grazing intensity in grassland ecosystems: implications for carbon storage and functional properties},
 author = {Deb Raj Aryal},
 year = {2022},
 journal = {CABI Reviews},
@@ -1599,8 +1566,7 @@ doi = {10.1001/jamanetworkopen.2022.3849}
 
 
 @article{MusicuEtAl2022,
-title = {Health and environmental impacts of plant-rich dietary
-patterns: a US prospective cohort study},
+title = {Health and environmental impacts of plant-rich dietary patterns: a US prospective cohort study},
 author = {Aviva A Musicus and Dong D Wang and Marie Janiszewski and
 Gidon Eshel and Stacy A Blondin and Walter Willett
 and Meir J Stampfer},
@@ -1615,7 +1581,7 @@ doi = {10.1016/S2542-5196(22)00243-1}
 
 @article{GanguliORourke2022,
 author = {Amy C. Ganguli  and Megan E. O’Rourke},
-title = {How vulnerable are rangelands to grazing?},
+title = {How vulnerable are rangelands to grazing},
 journal = {Science},
 volume = {378},
 number = {6622},
@@ -1696,7 +1662,7 @@ doi = {10.1126/science.abq4062},
 @article{Polly2022,
 author = {Polly, P. D.},
 year = {2022},
-title = {The politics of palaeontology: the creation, reduction, and restoration of Grand Staircase–Escalante and Bears Ears national monuments},
+title = {The politics of palaeontology: the creation, reduction, and restoration of Grand Staircase-Escalante and Bears Ears national monuments},
 journal = {Geological Curator},
 volume = {11},
 issue = {7},
@@ -1722,7 +1688,7 @@ url = {\url{https://www.jstor.org/stable/27143840}}
 @article{Vandenbroucke2008,
 author = {Vandenbroucke, G.},
 year = {2008},
-title = {The U.S. westward expansion},
+title = {The US westward expansion},
 journal = {International Economic Review},
 volume = {49},
 pages = {81-110},
@@ -1732,8 +1698,7 @@ doi = {10.1111/j.1468-2354.2008.00474.x}
 
 
 @article{EshelEtAl2022,
-title = {Grass fed beef is more carbon intensive than industrial beef
-and animal and plant based alternatives},
+title = {Grass fed beef is more carbon intensive than industrial beef and animal and plant based alternatives},
 author = {Gidon Eshel and Avi I. Flamholz and Alon Shepon, Ron Milo},
 year = {2022},
 journal = {Proceedings of the National Academy of Sciences},
@@ -1755,8 +1720,7 @@ doi = {10.1016/j.hydroa.2018.100009},
 
 
 @article{SunEtAl2022,
-title = {Shared and environmentally just responsibility for global
-biodiversity loss},
+title = {Shared and environmentally just responsibility for global biodiversity loss},
 author = {Zhongxiao Sun and Paul Behrens and Arnold Tukker and Martin
 Bruckner and Laura Scherer},
 journal = {Ecological Economics},
@@ -1769,10 +1733,7 @@ doi = {10.1016/j.ecolecon.2022.107339},
 
 
 @article{Donovan2022,
-title = {Modelling soil loss from surface erosion at high-resolution
-to better understand sources and drivers across land
-uses and catchments; a national-scale assessment of
-Aotearoa, New Zealand},
+title = {Modelling soil loss from surface erosion at high-resolution to better understand sources and drivers across land uses and catchments; a national-scale assessment of Aotearoa, New Zealand},
 author = {Mitchell Donovan},
 journal = {Environmental Modelling \& Software},
 volume = {147},
@@ -1825,8 +1786,7 @@ doi = {10.1007/978-3-031-09023-3_7}
 
 @inbook{LorenzLal2018,
 author = {Lorenz, K. and Lal, R.},
-title = {Carbon Sequestration in Grassland Soils, Carbon Sequestration
-in Agricultural Ecosystems},
+title = {Carbon Sequestration in Grassland Soils, Carbon Sequestration in Agricultural Ecosystems},
 bookTitle = {Carbon Sequestration in Agricultural Ecosystems},
 publisher = {Springer International Publishing},
 address = {Cham},
@@ -1841,8 +1801,7 @@ doi = {10.1007/978-3-319-92318-5_4}
 @article{DybalaEtAl2019,
 author = {Dybala, K. E. and Matzek, V. and Gardali, T. and Seavy,
 N. E.},
-title = {Carbon sequestration in riparian forests: A global synthesis
-and meta-analysis},
+title = {Carbon sequestration in riparian forests: A global synthesis and meta-analysis},
 journal = {Global Change Biology},
 year = {2019},
 volume = {25},
@@ -1869,8 +1828,7 @@ doi = {10.1111/j.1654-109X.2002.tb00545.x}
 
 
 @article{Teague2014,
-title = {Deficiencies in the Briske et al. Rebuttal of the Savory
-Method},
+title = {Deficiencies in the Briske et al Rebuttal of the Savory Method},
 author = {Richard Teague},
 journal = {Rangelands},
 volume = {36},
@@ -1883,8 +1841,7 @@ doi = {10.2111/1551-501X-36.1.37}
 
 
 @article{CibilsEtAl2014,
-title = {Is Holistic Management Really Saving Patagonian Rangelands
-From Degradation? A Response to Teague},
+title = {Is Holistic Management Really Saving Patagonian Rangelands From Degradation A Response to Teague},
 author = {Andres F. Cibils and Raul J. Lira Fernandez and Gabriel
 E. Oliva and Juan M. Escobar},
 journal = {Rangelands},
@@ -1911,8 +1868,7 @@ doi = {10.1016/j.jenvman.2009.04.023}
 
 
 @article{CarterEtAl2014,
-title = {Holistic Management: Misinformation on the Science of Grazed
-Ecosystems},
+title = {Holistic Management: Misinformation on the Science of Grazed Ecosystems},
 author = {John Carter and Allison Jones and Mary O’Brien and Jonathan
 Ratner and George Wuerthner},
 journal = {International Journal of Biodiversity},
@@ -1928,8 +1884,7 @@ doi = {10.1155/2014/163431}
 @article{BuissonEtAl2022,
 author = {Elise Buisson and Sally Archibald and Alessandra Fidelis and
 Katharine N. Suding },
-title = {Ancient grasslands guide ambitious goals in grassland
-restoration},
+title = {Ancient grasslands guide ambitious goals in grassland restoration},
 journal = {Science},
 volume = {377},
 number = {6606},
@@ -1944,8 +1899,7 @@ doi = {10.1126/science.abo4605}
 author = {Bartosz Grudzinski and Claire M. Ruffing and Melinda
 D. Daniels and Michael Rawitch},
 year = {2018},
-title = {Bison and Cattle Grazing Impacts on Baseflow Suspended
-Sediment Concentrations within Grassland Streams},
+title = {Bison and Cattle Grazing Impacts on Baseflow Suspended Sediment Concentrations within Grassland Streams},
 journal = {Annals of the American Association of Geographers},
 volume = {108},
 issue = {6},
@@ -1982,9 +1936,7 @@ pages = {143-154}
 
 
 @article{ChenFrank2020,
-title = {Herbivores stimulate respiration from labile and recalcitrant
-soil carbon pools in grasslands of Yellowstone
-National Park},
+title = {Herbivores stimulate respiration from labile and recalcitrant soil carbon pools in grasslands of Yellowstone National Park},
 author = {Ji Chen and Douglas A. Frank},
 journal = {Land Degradation \& Development},
 year = {2020},
@@ -1998,8 +1950,7 @@ doi = {10.1002/ldr.3656}
 @article{PalazzesiEtAl2022,
 author = {Luis Palazzesi and Oriane Hidalgo and Viviana D. Barreda and
 Felix Forest and Sebastian Hohna},
-title = {The rise of grasslands is linked to atmospheric CO$_2$
-decline in the late Palaeogene},
+title = {The rise of grasslands is linked to atmospheric CO2 decline in the late Palaeogene},
 journal = {Nature Communications},
 volume = {13},
 number = {293},
@@ -2012,8 +1963,7 @@ doi = {10.1038/s41467-021-27897-y}
 
 @article{FeurdeanVasiliev2019,
 author = {Angelica Feurdean and Iuliana Vasiliev},
-title = {The contribution of fire to the late Miocene spread of
-grasslands in eastern Eurasia (Black Sea region)},
+title = {The contribution of fire to the late Miocene spread of grasslands in eastern Eurasia (Black Sea region)},
 journal = {Scientific Reports},
 volume = {9},
 number = {6750},
@@ -2031,7 +1981,7 @@ George M.  and Nanjarisoa, Olinirina P.  and
 Razanatsoa, Jacqueline and Randriatsara, Fetra O.
 and Kimeu, John M.  and Luke, W. R. Quentin and
 Kayombo, Canisius and Linder, H. Peter },
-title = {Madagascar's grasses and grasslands: anthropogenic or natural?},
+title = {Madagascar's grasses and grasslands: anthropogenic or natural},
 journal = {Proceedings of the Royal Society B: Biological Sciences},
 volume = {283},
 number = {1823},
@@ -2046,8 +1996,7 @@ doi = {10.1098/rspb.2015.2262}
 author = {Zak Ratajczak and Scott L. Collins and John M. Blair and
 Sally E. Koerner and Allison M. Louthan and Melinda
 D. Smith and Jeffrey H. Taylor and Jesse B. Nippert},
-title = {Reintroducing bison results in long-running and resilient
-increases in grassland diversity},
+title = {Reintroducing bison results in long-running and resilient increases in grassland diversity},
 journal = {Proceedings of the National Academy of Sciences},
 volume = {119},
 issue = {36},
@@ -2059,8 +2008,7 @@ doi = {10.1073/pnas.2210433119}
 
 
 @article{BaiCotrufo2022,
-title = {Grassland soil carbon sequestration: Current understanding,
-challenges, and solutions},
+title = {Grassland soil carbon sequestration: Current understanding, challenges, and solutions},
 author = {Yongfei Bai and M. Francesca Cotrufo},
 journal = {Science},
 year = {2022},
@@ -2088,8 +2036,7 @@ doi = {10.1146/annurev.earth.031208.100206}
 
 
 @article{BoersEtAl2022,
-title = {Theoretical and paleoclimatic evidence for abrupt transitions
-in the Earth system},
+title = {Theoretical and paleoclimatic evidence for abrupt transitions in the Earth system},
 author = {Niklas Boers and Michael Ghil and Thomas F Stocker},
 year = {2022},
 journal = {Environmental Research Letters},
@@ -2134,8 +2081,7 @@ doi = {10.1038/ngeo2234}
 
 @article{SimmondsMuyuan2021,
 author = {Simmonds, Ian and Li, Muyuan},
-title = {Trends and variability in polar sea ice, global atmospheric
-circulations, and baroclinicity},
+title = {Trends and variability in polar sea ice, global atmospheric circulations, and baroclinicity},
 journal = {Annals of the New York Academy of Sciences},
 year = {2021},
 volume = {1504},
@@ -2147,8 +2093,7 @@ doi = {10.1111/nyas.14673}
 
 
 @article{Overland2021,
-title = {Causes of the Record-Breaking Pacific Northwest Heatwave,
-Late June 2021},
+title = {Causes of the Record-Breaking Pacific Northwest Heatwave, Late June 2021},
 author = {James E. Overland},
 journal = {Atmosphere},
 year = {2021},
@@ -2160,9 +2105,7 @@ doi = {10.3390/atmos12111434}
 
 
 @article{OverlandEtAl2021,
-title = {How do intermittency and simultaneous processes obfuscate the
-Arctic influence on midlatitude winter extreme
-weather events?},
+title = {How do intermittency and simultaneous processes obfuscate the Arctic influence on midlatitude winter extreme weather events},
 author = {James E. Overland and T. J. Ballinger and J. Cohen and J. A. Francis
 and E. Hanna and R. Jaiser and B. -M. Kim and S. -J. Kim
 and J. Ukita and T. Vihma and M. Wang and X. Zhang},
@@ -2178,8 +2121,7 @@ doi = {10.1088/1748-9326/abdb5d}
 
 
 @article{ConwayJonesWhite2022,
-title = {Paleogene buried landscapes and climatic aberrations
-triggered by mantle plume activity},
+title = {Paleogene buried landscapes and climatic aberrations triggered by mantle plume activity},
 author = {Benedict W. Conway-Jones and Nicky White},
 journal = {Earth and Planetary Science Letters},
 volume = {593},
@@ -2194,8 +2136,7 @@ doi = {10.1016/j.epsl.2022.117644}
 author = {Markus Sudermann and Jennifer M. Galloway and David
 R. Greenwood and Christopher K. West and Lutz
 Reinhardt},
-title = {Palynostratigraphy of the lower Paleogene Margaret Formation
-at Stenkul Fiord, Ellesmere Island, Nunavut, Canada},
+title = {Palynostratigraphy of the lower Paleogene Margaret Formation at Stenkul Fiord, Ellesmere Island, Nunavut, Canada},
 journal = {Palynology},
 volume = {45},
 number = {3},
@@ -2210,8 +2151,7 @@ doi = {10.1080/01916122.2020.1861121}
 author = {Soong-Ki Kim and Jongsoo Shin and Soon-Il An and Hyo-Jeong
 Kim and Nari Im and Shang-Ping Xie and Jong-Seong
 Kug and Sang-Wook Yeh},
-title = {Widespread irreversible changes in surface temperature and
-precipitation in response to CO2 forcing},
+title = {Widespread irreversible changes in surface temperature and precipitation in response to CO2 forcing},
 journal = {Nature Climate Change},
 volume = {12},
 pages = {834–840},
@@ -2222,9 +2162,7 @@ doi = {10.1038/s41558-022-01452-z}
 
 
 @article{KimEtAl2022,
-title = {Slow and soft passage through tipping point of the Atlantic
-Meridional Overturning Circulation in a changing
-climate},
+title = {Slow and soft passage through tipping point of the Atlantic Meridional Overturning Circulation in a changing climate},
 author = {Soong-Ki Kim and Hyo-Jeong Kim and Henk A. Dijkstra and
 Soon-Il An},
 journal = {npj Climate and Atmospheric Science},
@@ -2240,8 +2178,7 @@ doi = {10.1038/s41612-022-00236-8}
 author = {Richard E. Fewster and Paul J. Morris and Ruza F. Ivanovic
 and Graeme T. Swindles and Anna M. Peregon and
 Christopher J. Smith },
-title = {Imminent loss of climate space for permafrost peatlands in
-Europe and Western Siberia},
+title = {Imminent loss of climate space for permafrost peatlands in Europe and Western Siberia},
 journal = {Nature Climate Change},
 volume = {12},
 pages = {373-379},
@@ -2257,9 +2194,7 @@ Haasnoot and Gabriel Bachner and Karl W Steininger
 and Jochen Hinkel and Paul Watkiss and Esther Boere
 and Ad Jeuken and Elisa Sainz de Murieta and
 Francesco Bosello},
-title = {Climate change induced socio-economic tipping points: review
-and stakeholder consultation for policy relevant
-research},
+title = {Climate change induced socio-economic tipping points: review and stakeholder consultation for policy relevant research},
 year = {2020},
 month = {1},
 volume = {15},
@@ -2289,9 +2224,7 @@ doi = {10.1073/pnas.2008478118}
 
 
 @article{ZouEtAl2022,
-title = {Spatial-Temporal Changes of Carbon Source/Sink in Terrestrial
-Vegetation Ecosystem and Response to Meteorological
-Factors in Yangtze River Delta Region (China)},
+title = {Spatial-Temporal Changes of Carbon Source/Sink in Terrestrial Vegetation Ecosystem and Response to Meteorological Factors in Yangtze River Delta Region (China)},
 author = {Chen Zou and Hu Li and Donghua Chen and Jingwei Fan and
 Zhihong Liu and Xuelian Xu and Jiani Li and Zuo
 Wang},
@@ -2335,9 +2268,7 @@ doi = {10.1016/j.geoderma.2022.115844}
 @article{KauffmanEtAl2022a,
 author = {J. Boone Kauffman and Robert L. Beschta and Peter M. Lacy
 and Marc Liverman},
-title = {Livestock Use on Public Lands in the Western USA Exacerbates
-Climate Change: Implications for Climate Change
-Mitigation and Adaptation},
+title = {Livestock Use on Public Lands in the Western USA Exacerbates Climate Change: Implications for Climate Change Mitigation and Adaptation},
 year = {2022},
 journal = {Environmental Management},
 volume = {69},
@@ -2348,9 +2279,7 @@ doi = {10.1007/s00267-022-01633-8}
 
 
 @article{KauffmanEtAl2022,
-title = {Riparian vegetation composition and diversity shows
-resilience following cessation of livestock grazing
-in northeastern Oregon, USA},
+title = {Riparian vegetation composition and diversity shows resilience following cessation of livestock grazing in northeastern Oregon, USA},
 author = { J. Boone Kauffman and Greg Coleman and Nick Otting and
 Danna Lytjen and Dana Nagy and Robert L. Beschta},
 year = {2022},
@@ -2367,8 +2296,7 @@ doi = {10.1371/journal.pone.0250136}
 author = {Kauffman, J. Boone and Cummings, Dian Lyn and Kauffman,
 Cimarron and Beschta, Robert L. and Brooks, Jeremy
 and MacNeill, Keeley and Ripple, William J.},
-title = {Bison influences on composition and diversity of riparian
-plant communities in Yellowstone National Park},
+title = {Bison influences on composition and diversity of riparian plant communities in Yellowstone National Park},
 journal = {Ecosphere},
 year = {2023},
 volume = {14},
@@ -2380,8 +2308,7 @@ doi = {10.1002/ecs2.4406}
 
 
 @article{BrovkinEtAl2021,
-title = {Past abrupt changes, tipping points and cascading impacts in
-the Earth system},
+title = {Past abrupt changes, tipping points and cascading impacts in the Earth system},
 author = {Victor Brovkin and Edward Brook and John W. Williams and
 Sebastian Bathiany and Timothy M. Lenton and Michael
 Barton and Robert M. DeConto and Jonathan F. Donges
@@ -2422,9 +2349,7 @@ and Araujo, Rafael Canonenco de and Kishi, Luciano
 Takeshi and Berchielli, Telma Teresinha and Resende,
 Flávio Dutra de and Berndt, Alexandre and Siqueira,
 Gustavo Rezende},
-title = {Long-Term Encapsulated Nitrate Supplementation Modulates
-Rumen Microbial Diversity and Rumen Fermentation to
-Reduce Methane Emission in Grazing Steers},
+title = {Long-Term Encapsulated Nitrate Supplementation Modulates Rumen Microbial Diversity and Rumen Fermentation to Reduce Methane Emission in Grazing Steers},
 journal = {Frontiers in Microbiology},
 volume = {10},
 year = {2019},
@@ -2435,8 +2360,7 @@ doi = {10.3389/fmicb.2019.00614}
 
 @article{EscobarBahamondesEtAl2017,
 author = {Escobar-Bahamondes, P. and Oba, M. and Beauchemin, K.A.},
-title = {Universally applicable methane prediction equations for beef
-cattle fed high- or low-forage diets},
+title = {Universally applicable methane prediction equations for beef cattle fed high- or low-forage diets},
 journal = {Canadian Journal of Animal Science},
 volume = {97},
 number = {1},
@@ -2465,10 +2389,7 @@ doi = {10.2527/2005.833653x. PMID: 15705762}
 author = {Smith, Paul E and Waters, Sinead M and Kenny, David A and
 Kirwan, Stuart F and Conroy, Stephen and Kelly, Alan
 K},
-title = "{Effect of divergence in residual methane emissions on feed
-intake and efficiency, growth and carcass
-performance, and indices of rumen fermentation and
-methane emissions in finishing beef cattle}",
+title = {Effect of divergence in residual methane emissions on feed intake and efficiency, growth and carcass performance, and indices of rumen fermentation and methane emissions in finishing beef cattle},
 journal = {Journal of Animal Science},
 volume = {99},
 number = {11},
@@ -2481,9 +2402,7 @@ doi = {10.1093/jas/skab275}
 
 @article{RoyBagchi2022,
 author = {Roy, S. and Bagchi, S.},
-title = {Large Mammalian Herbivores and the Paradox of Soil Carbon in
-Grazing Ecosystems: Role of Microbial Decomposers
-and Their Enzymes},
+title = {Large Mammalian Herbivores and the Paradox of Soil Carbon in Grazing Ecosystems: Role of Microbial Decomposers and Their Enzymes},
 journal = {Ecosystems},
 volume = {25},
 pages = {976-988},
@@ -2497,8 +2416,7 @@ doi = {10.1007/s10021-021-00696-8}
 author = {Zhang, Zihe and Gong, Jirui and Wang, Biao and Li, Xiaobing
 and Ding, Yong and Yang, Bo and Zhu, Chenchen and
 Liu, Min and Zhang, Wei},
-title = {Regrowth strategies of Leymus chinensis in response to
-different grazing intensities},
+title = {Regrowth strategies of Leymus chinensis in response to different grazing intensities},
 journal = {Ecological Applications},
 volume = {30},
 issue = {5},
@@ -2573,9 +2491,7 @@ doi = {10.1186/s40645-019-0286-x}
 
 
 @article{NicklasEtAl2019,
-title = {Secular mantle oxidation across the Archean-Proterozoic
-boundary: Evidence from V partitioning in komatiites
-and picrites},
+title = {Secular mantle oxidation across the Archean-Proterozoic boundary: Evidence from V partitioning in komatiites and picrites},
 author = {Robert W. Nicklas and Igor S. Puchtel and Richard D. Ash and
 Philip M. Piccoli and Eero Hanski and Euan G. Nisbet
 and Pedro Waterton and D. Graham Pearson and Ariel
@@ -2905,8 +2821,7 @@ doi = {10.1073/pnas.0803533105},
 
 
 @article{JaroszQazi2000,
-title = {The geography of Washington's world apple: global expressions
-in a local landscape},
+title = {The geography of Washington's world apple: global expressions in a local landscape},
 author = {Lucy Jarosz and Joan Qazi},
 journal = {Journal of Rural Studies},
 volume = {16},
@@ -2991,8 +2906,7 @@ doi = {10.2527/jas.2014-7557}
 
 
 @article{ReederSchuman2002,
-title = {Influence of livestock grazing on C sequestration in
-semi-arid mixed-grass and short-grass rangelands},
+title = {Influence of livestock grazing on C sequestration in semi-arid mixed-grass and short-grass rangelands},
 author = {J.D. Reeder and G.E. Schuman},
 journal = {Environmental Pollution},
 volume = {116},
@@ -3005,8 +2919,7 @@ doi = {10.1016/S0269-7491(01)00223-8}
 
 
 @article{SherrenKent2017,
-title = {Who’s afraid of Allan Savory? Scientometric polarization on
-Holistic Management as competing understandings},
+title = {Who's afraid of Allan Savory Scientometric polarization on Holistic Management as competing understandings 2017},
 author = {Kate Sherren and Carlisle Kent},
 journal = {Renewable Agriculture and Food Systems},
 volume = {34},
@@ -3019,10 +2932,7 @@ doi = {10.1017/S1742170517000308}
 
 
 @article{ZugravuEtAl2021,
-title = {Efficacy of supplementation with methylcobalamin and
-cyancobalamin in maintaining the level of serum
-holotranscobalamin in a group of plant based diet
-(vegan) adults},
+title = {Efficacy of supplementation with methylcobalamin and cyancobalamin in maintaining the level of serum holotranscobalamin in a group of plant based diet (vegan) adults},
 author = {Zugravu, C. and Macri, A. and Belc, N. and Bohiltea, R.},
 year = {2021},
 journal = {Experimental and Therapeutic Medicine},
@@ -3049,8 +2959,7 @@ doi = {10.3390/nu13010143}
 @article{MonjotinEtAl2022,
 author = {Monjotin, Nicolas and Amiot, Marie Josèphe and Fleurentin,
 Jacques and Morel, Jean Michel and Raynal, Sylvie},
-title = {Clinical Evidence of the Benefits of Phytonutrients in Human
-Healthcare},
+title = {Clinical Evidence of the Benefits of Phytonutrients in Human Healthcare},
 journal = {Nutrients},
 volume = {14},
 year = {2022},
@@ -3070,9 +2979,7 @@ Umapathy, Vidhya Rekha and Jaffer Hussain, Shazia
 Fathima and Krishnamoorthy, Kalaiselvi and Sekar,
 Durairaj and Palanisamy, Chella Perumal and Mohan,
 Surapaneni Krishna and Rajagopal, Ponnulakshmi},
-title = {A Comprehensive Review on Therapeutic Perspectives of
-Phytosterols in Insulin Resistance: A Mechanistic
-Approach},
+title = {A Comprehensive Review on Therapeutic Perspectives of Phytosterols in Insulin Resistance: A Mechanistic Approach},
 journal = {Molecules},
 volume = {27},
 year = {2022},
@@ -3087,9 +2994,7 @@ doi = {10.3390/molecules27051595}
 author = {E. Raymond Hunt Jr. and Robert D. Kelly and William K. Smith
 and Jace T. Fahnestock and Jeffrey M. Welker and and
 William A. Reiners},
-title = {Estimation of carbon sequestration by combining remote
-sensing and net ecosystem exchange data for northern
-mixed-grass prairie and sagebrush–steppe ecosystems},
+title = {Estimation of carbon sequestration by combining remote sensing and net ecosystem exchange data for northern mixed-grass prairie and sagebrush-steppe ecosystems},
 journal = {Environmental Management},
 volume = {33},
 year = {2004},
@@ -3101,9 +3006,7 @@ doi = {10.1007/s00267-003-9151-0}
 
 
 @article{HendersonEtAl2015,
-title = {Greenhouse gas mitigation potential of the world’s grazing
-lands: Modeling soil carbon and nitrogen fluxes of
-mitigation practices},
+title = {Greenhouse gas mitigation potential of the world's grazing lands: Modeling soil carbon and nitrogen fluxes of mitigation practices},
 author = {Benjamin B. Henderson and Pierre J. Gerber and Tom
 E. Hilinski and Alessandra Falcucci and Dennis
 S. Ojima and Mirella Salvatore and Richard
@@ -3118,7 +3021,7 @@ doi = {10.1016/j.agee.2015.03.029}
 
 
 @article{HawkinsEtAl2022,
-title = {A holistic view of Holistic Management: What do farm-scale, carbon, and social studies tell us?},
+title = {A holistic view of Holistic Management: What do farm-scale, carbon, and social studies tell us},
 author = {H.-J. Hawkins and Z.-S. Venter and M.D. Cramer},
 journal = {Agriculture, Ecosystems \& Environment},
 volume = {323},
@@ -3136,9 +3039,7 @@ Obersteiner and Bertrand Guenet and Daniel S. Goll
 and Wei Li and Victoria Naipal and Shushi Peng and
 Chunjing Qiu and Hanqin Tian and Nicolas Viovy and
 Chao Yue and Dan Zhu},
-title = {Climate warming from managed grasslands cancels the cooling
-effect of carbon sinks in sparsely grazed and
-natural grasslands},
+title = {Climate warming from managed grasslands cancels the cooling effect of carbon sinks in sparsely grazed and natural grasslands},
 journal = {Nature Communications},
 volume = {12},
 number = {118},
@@ -3149,8 +3050,7 @@ doi = {10.1038/s41467-020-20406-7}
 
 
 @article{McDermotElavarthi2014,
-title = {Rangelands as Carbon Sinks to Mitigate Climate Change: A
-Review},
+title = {Rangelands as Carbon Sinks to Mitigate Climate Change: A Review},
 author = {McDermot C. and Elavarthi, S.},
 year = {2014},
 journal = {Journal of Earth Science \& Climatic Change},
@@ -3164,8 +3064,7 @@ doi = {10.4172/2157-7617.1000221}
 
 @article{Batjes2019,
 author = {Batjes, N. H.},
-title = {Technologically achievable soil organic carbon sequestration
-in world croplands and grasslands},
+title = {Technologically achievable soil organic carbon sequestration in world croplands and grasslands},
 year = {2019},
 journal = {Land Degradation \& Development},
 volume = {30},
@@ -3179,8 +3078,7 @@ doi = {10.1002/ldr.3209}
 @misc{NCARds604.0,
 author = {Daran L. Rife and James O. Pinto and Andrew J. Monaghan and
 Chris A. Davis and John R. Hannan},
-title = {NCAR Global Climate Four-Dimensional Data Assimilation
-(CFDDA) Hourly 40 km Reanalysis},
+title = {NCAR Global Climate Four-Dimensional Data Assimilation (CFDDA) Hourly 40 km Reanalysis},
 publisher = {Research Data Archive at the National Center for
 Atmospheric Research, Computational and Information
 Systems Laboratory},
@@ -3223,8 +3121,7 @@ url = {\url{https://www.fao.org/faostat/en/#data/FBS}}
 @article{SombroeketAl1993,
 author = {Sombroek, W. G. and Nachtergaele, F. O. and Hebel, A.},
 year = {1993},
-title = {Amounts, dynamics and sequestering of carbon in tropical and
-subtropical soils},
+title = {Amounts, dynamics and sequestering of carbon in tropical and subtropical soils},
 journal = {Ambio},
 volume = {22},
 issue = {7},
@@ -3236,9 +3133,7 @@ pages = {417-426}
 @article{SchumanEtAl1999,
 author = {G. E. Schuman and J. D. Reeder and J. T. Manley and
 R. H. Hart and W. A. Manley},
-title = {Impact of grazing management
-on the carbon and nitrogen balance of a mixed-grass
-rangeland},
+title = {Impact of grazing management on the carbon and nitrogen balance of a mixed-grass rangeland},
 journal = {Ecological Applications},
 volume = {9},
 year = {1999},
@@ -3249,8 +3144,7 @@ doi = {10.1890/1051-0761(1999)009[0065:IOGMOT]2.0.CO;2}
 
 
 @article{SchumanEtAl2002,
-title = {Soil carbon dynamics and potential carbon sequestration by
-rangelands},
+title = {Soil carbon dynamics and potential carbon sequestration by rangelands},
 author = {G.E. Schuman and H.H. Janzen and J.E. Herrick},
 journal = {Environmental Pollution},
 volume = {116},
@@ -3293,8 +3187,7 @@ doi = {10.1016/j.cosust.2020.09.005}
 
 
 @article{WolfMitchell2021,
-title = {Leveraging Historic Cattle Exclosures to Detect Evidence of
-State Change in an Arid Rangeland},
+title = {Leveraging Historic Cattle Exclosures to Detect Evidence of State Change in an Arid Rangeland},
 author = {Ashlee Wolf and Rachel M. Mitchell},
 journal = {Rangeland Ecology \& Management},
 volume = {78},
@@ -3361,8 +3254,7 @@ doi = {10.1016/j.agee.2018.11.023}
 
 
 @article{SkinnerDell2016,
-title = {Yield and soil carbon sequestration in grazed pastures sown
-with two or five forage species},
+title = {Yield and soil carbon sequestration in grazed pastures sown with two or five forage species},
 author = {R. Howard Skinner and Curtis J. Dell},
 journal = {Crop Science},
 volume = {56},
@@ -3375,9 +3267,7 @@ doi = {10.2135/cropsci2015.11.0711}
 
 
 @article{EzeEtAl2018,
-title = {Soil organic carbon stock in grasslands: Effects of inorganic
-fertilizers, liming and grazing in different climate
-settings},
+title = {Soil organic carbon stock in grasslands: Effects of inorganic fertilizers, liming and grazing in different climate settings},
 author = {Samuel Eze and Sheila M. Palmer and Pippa J. Chapman},
 journal = {Journal of Environmental Management},
 volume = {223},
@@ -3415,8 +3305,7 @@ doi = {10.1111/gcb.12144}
 
 
 @article{HoldoEtAl2007,
-title = {Plant productivity and soil nitrogen as a function of
-grazing, migration and fire in an African savanna},
+title = {Plant productivity and soil nitrogen as a function of grazing, migration and fire in an African savanna},
 author = {R. M. Holdo and R. D. Holt and M. B. Coughenour and
 M. E. Ritchie},
 journal = {Journal of Ecology},
@@ -3430,9 +3319,7 @@ doi = {10.1111/j.1365-2745.2006.01192.x}
 
 
 @article{PineiroEtAl2009,
-title = {Grazing effects on belowground C and N stocks along a network
-of cattle exclosures in temperate and subtropical
-grasslands of South America},
+title = {Grazing effects on belowground C and N stocks along a network of cattle exclosures in temperate and subtropical grasslands of South America},
 author = {Gervasio Pineiro and Jose M. Paruelo and Esteban G. Jobbagy
 and Robert B. Jackson and Martin Oesterheld},
 journal = {Global Biogeochemical Cycles},
@@ -3503,8 +3390,7 @@ doi = {10.1111/gcb.15023}
 @article{SittersEtAl2020b,
 author = {J. Sitters and D. M. Kimuyu and T. P.  Young and P. Claeys
 and H. O. Venterink},
-title = {Negative effects of cattle on soil carbon and nutrient pools
-reversed by megaherbivores},
+title = {Negative effects of cattle on soil carbon and nutrient pools reversed by megaherbivores},
 journal = {Nature Sustainability},
 volume = {3},
 pages = {360–366},
@@ -3547,8 +3433,7 @@ doi = {10.1016/j.ecolind.2021.108433}
 
 @article{MilchunasLauenroth1993,
 author = {D. G. Milchunas and W. K. Lauenroth},
-title = {Quantitative Effects of Grazing on Vegetation and Soils Over
-a Global Range of Environments},
+title = {Quantitative Effects of Grazing on Vegetation and Soils Over a Global Range of Environments},
 year = {1993},
 journal = {Ecological Monographs},
 volume = {63},
@@ -3560,8 +3445,7 @@ doi = {10.2307/2937150}
 
 
 @article{MilchunasEtAl1988,
-title = {A Generalized Model of the Effects of Grazing by Large
-Herbivores on Grassland Community Structure},
+title = {A Generalized Model of the Effects of Grazing by Large Herbivores on Grassland Community Structure},
 author = {D. G. Milchunas and O. E. Sala and W. K. Lauenroth},
 journal = {The American Naturalist},
 volume = {132},
@@ -3573,8 +3457,7 @@ pages = {87-106},
 
 
 @article{BondKeeley2005,
-title = {Fire as a global ‘herbivore’: the ecology and evolution of
-flammable ecosystems},
+title = {Fire as a global ‘herbivore’: the ecology and evolution of flammable ecosystems},
 author = {William J. Bond and Jon E. Keeley},
 journal = {Trends in Ecology \& Evolution},
 year = {2005},
@@ -3587,8 +3470,7 @@ doi = {10.1016/j.tree.2005.04.025}
 
 
 @article{StewartEtAl2008,
-title = {Soil carbon saturation: Evaluation and corroboration by
-long-term incubations},
+title = {Soil carbon saturation: Evaluation and corroboration by long-term incubations},
 author = {Catherine E. Stewart and Keith Paustian and Richard
 T. Conant and Alain F. Plante and Johan Six},
 journal = {Soil Biology and Biochemistry},
@@ -3602,8 +3484,7 @@ doi = {10.1016/j.soilbio.2008.02.014}
 
 
 @article{Osborne2008,
-title = {Atmosphere, ecology and evolution: what drove the Miocene
-expansion of C4 grasslands?},
+title = {Atmosphere, ecology and evolution: what drove the Miocene expansion of C4 grasslands},
 author = {Osborne, C. P.},
 year = {2008},
 journal = {Journal of Ecology},
@@ -3615,9 +3496,7 @@ doi = {10.1111/j.1365-2745.2007.01323.x}
 
 
 @article{OverbeckEtAl2018,
-title = {The South Brazilian grasslands – A South American tallgrass
-prairie? Parallels and implications of fire
-dependency},
+title = {The South Brazilian grasslands - A South American tallgrass prairie Parallels and implications of fire dependency},
 author = {G. E. Overbeck and J. D. Scasta and F. F. Furquim and
 I. I. Boldrini and J. R. Weir},
 journal = {Perspectives in Ecology and Conservation},
@@ -3644,8 +3523,7 @@ doi = {10.1038/s43247-021-00323-3}
 
 
 @article{HessHolechek1995,
-title = {Policy roots of land degradation in the arid region of the
-United States: An overview},
+title = {Policy roots of land degradation in the arid region of the United States: An overview},
 author = {Hess, K. and Holechek, J. L.},
 journal = {Environmental Monitoring and Assessment},
 year = {1995},
@@ -3657,8 +3535,7 @@ doi = {10.1007/BF00546885}
 
 
 @article{Butzer1996,
-title = {Ecology in the Long View: Settlement Histories, Agrosystemic
-Strategies, and Ecological Performance},
+title = {Ecology in the Long View: Settlement Histories, Agrosystemic Strategies, and Ecological Performance},
 author = {Karl W. Butzer},
 journal = {Journal of Field Archaeology},
 year = {1996},
@@ -3671,8 +3548,7 @@ doi = {10.1179/009346996791973909}
 
 
 @article{ConantEtAl2017,
-title = {Grassland management impacts on soil carbon stocks: a new
-synthesis},
+title = {Grassland management impacts on soil carbon stocks: a new synthesis},
 author = {Richard T. conant and Carlos E. P. Cerri and Brooke
 B. Osborne and Keith Paustian},
 journal = {Ecological Applications},
@@ -3686,8 +3562,7 @@ Doi = {10.1002/eap.1473}
 
 
 @article{YuEtAl2021,
-title = {Grazing exclusion enhances plant and topsoil carbon stocks in
-arid and semiarid grasslands},
+title = {Grazing exclusion enhances plant and topsoil carbon stocks in arid and semiarid grasslands},
 author = {Lingfei Yu and Wenjuan Sun and Yao Huang},
 journal = {Agriculture, Ecosystems \& Environment},
 volume = {320},
@@ -3699,8 +3574,7 @@ doi = {10.1016/j.agee.2021.107605}
 
 
 @article{WadeEtAl2022,
-title = {Does Grazing Affect Soil Carbon in Subtropical Humid
-Seminatural Grasslands?},
+title = {Does Grazing Affect Soil Carbon in Subtropical Humid Seminatural Grasslands},
 author = {Caroline Wade and Grégory Sonnier and Elizabeth H. Boughton},
 journal = {Rangeland Ecology \& Management},
 volume = {80},
@@ -3741,8 +3615,7 @@ doi = {10.1016/j.iswcr.2017.01.004}
 
 
 @article{ShresthaStahl2008,
-title = {Carbon accumulation and storage in semi-arid sagebrush
-steppe: Effects of long-term grazing exclusion},
+title = {Carbon accumulation and storage in semi-arid sagebrush steppe: Effects of long-term grazing exclusion},
 author = {Gyami Shrestha and Peter D.Stahl},
 journal = {Agriculture, Ecosystems \& Environment},
 volume = {125},
@@ -3755,9 +3628,7 @@ doi = {10.1016/j.agee.2007.12.007}
 
 
 @article{StrombergEtAl2007,
-title = {The spread of grass-dominated habitats in Turkey and
-surrounding areas during the Cenozoic: Phytolith
-evidence},
+title = {The spread of grass-dominated habitats in Turkey and surrounding areas during the Cenozoic: Phytolith evidence},
 author = {Caroline Stromberg and Lars Werdelin and Else Marie Friis
 and Gercek Sarac},
 journal = {Palaeogeography, Palaeoclimatology, Palaeoecology},
@@ -3771,8 +3642,7 @@ doi = {10.1016/j.palaeo.2007.02.012}
 
 
 @article{Stromberg2006,
-title = {Evolution of Hypsodonty in Equids: Testing a Hypothesis of
-Adaptation},
+title = {Evolution of Hypsodonty in Equids: Testing a Hypothesis of Adaptation},
 author = {Caroline A. E. Stromberg},
 journal = {Paleobiology},
 volume = {32},
@@ -3785,8 +3655,7 @@ doi = {10.1666/0094-8373(2006)32[236:EOHIET]2.0.CO;2}
 
 
 @article{StrombergEtAl2013,
-title = {Decoupling the spread of grasslands from the evolution of
-grazer-type herbivores in South America},
+title = {Decoupling the spread of grasslands from the evolution of grazer-type herbivores in South America},
 author = {Stromberg, C. and Dunn, R. and Madden, R. and Matthew
 J. Kohn and Alfredo A. Carlini},
 journal = {Nature Communications},
@@ -3800,7 +3669,7 @@ doi = {10.1038/ncomms2508}
 
 
 @article{Belsky1986,
-title = {Does Herbivory Benefit Plants? A Review of the Evidence},
+title = {Does Herbivory Benefit Plants A Review of the Evidence},
 author = {A. J. Belsky},
 journal = {The American Naturalist},
 volume = {127},
@@ -3812,8 +3681,7 @@ pages = {870-892},
 
 
 @article{LiuEtAl2012,
-title = {Plants Can Benefit from Herbivory: Stimulatory Effects of
-Sheep Saliva on Growth of Leymus chinensis},
+title = {Plants Can Benefit from Herbivory: Stimulatory Effects of Sheep Saliva on Growth of Leymus chinensis},
 author = {Jushan Liu and Ling Wang and Deli Wang and Stephen P. Bonser
 and Fang Sun and Yifa Zhou and Ying Gao and Xing
 Teng},
@@ -3881,8 +3749,7 @@ doi = {10.1086/284437}
 
 
 @article{Anderson2006,
-title = {Evolution and origin of the Central Grassland of North
-America: climate, fire, and mammalian grazers},
+title = {Evolution and origin of the Central Grassland of North America: climate, fire, and mammalian grazers},
 author = {Roger C. Anderson},
 journal = {Journal of the Torrey Botanical Society},
 volume = {133},
@@ -4019,9 +3886,7 @@ doi = {10.1073/pnas.1706103114}
 
 
 @article{WestSix2007,
-title = {Considering the influence of sequestration duration and
-carbon saturation on estimates of soil carbon
-capacity},
+title = {Considering the influence of sequestration duration and carbon saturation on estimates of soil carbon capacity},
 author = {Tristram O. West and Johan Six},
 journal = {Climatic Change},
 year = {2007},
@@ -4033,8 +3898,7 @@ doi = {10.1007/s10584-006-9173-8}
 
 
 @article{ZomerEtAl2017,
-title = {Global Sequestration Potential of Increased Organic Carbon in
-Cropland Soils},
+title = {Global Sequestration Potential of Increased Organic Carbon in Cropland Soils},
 author = {Robert J. Zomer and Deborah A. Bossio and Rolf Sommer and
 Louis V. Verchot},
 journal = {Scientific Reports},
@@ -4060,8 +3924,7 @@ doi = {10.1073/pnas.1815901115}
 
 
 @article{NagyEtAl2021,
-title = {A synthesis of the effects of cheatgrass invasion on US Great
-Basin carbon storage},
+title = {A synthesis of the effects of cheatgrass invasion on US Great Basin carbon storage},
 author = {R. Chelsea Nagy and Emily J. Fusco and Jennifer K. Balch and
 John T. Finn and Adam Mahood and Jenica M. Allen and
 Bethany A. Bradley},
@@ -4092,9 +3955,7 @@ doi = {10.1016/j.ecolind.2021.107484}
 
 
 @article{UmairEtAl2020,
-title = {Evaluation of atmospheric and terrestrial effects in the
-carbon cycle for forest and grassland ecosystems
-using a remote sensing and modeling approach},
+title = {Evaluation of atmospheric and terrestrial effects in the carbon cycle for forest and grassland ecosystems using a remote sensing and modeling approach},
 author = {Muhammad Umair and Daeun Kim and Ram L. Ray and Minha Choi},
 journal = {Agricultural and Forest Meteorology},
 volume = {295},
@@ -4118,9 +3979,7 @@ doi = {10.1002/cft2.20048}
 
 
 @article{AugustineEtAl2020,
-title = {Adaptive, Multipaddock Rotational Grazing Management: A
-Ranch-Scale Assessment of Effects on Vegetation and
-Livestock Performance in Semiarid Rangeland},
+title = {Adaptive, Multipaddock Rotational Grazing Management: A Ranch-Scale Assessment of Effects on Vegetation and Livestock Performance in Semiarid Rangeland},
 author = {David J. Augustine and Justin D. Derner and Maria
 E. Fernandez-Gimenez and Lauren M. Porensky and
 Hailey Wilmer and David D. Brisk and the CARM
@@ -4136,9 +3995,7 @@ doi = {10.1016/j.rama.2020.07.005}
 
 
 @inproceedings{AugustineEtAl2021,
-title = {Adaptive, multi-paddock, rotational grazing management: An
-experimental, ranch-scale assessment of effects on
-multiple ecosystem services},
+title = {Adaptive, multi-paddock, rotational grazing management: An experimental, ranch-scale assessment of effects on multiple ecosystem services},
 author = {D. J. Augustine and J. D. Derner and L. M. Porensky and
 H. Wilmer and M. Fernandez-Gimenez and D. D. Briske},
 year = {2021},
@@ -4156,8 +4013,7 @@ url = {\url{https://uknowledge.uky.edu/cgi/viewcontent.cgi?article=4352&context=
 
 
 @inproceedings{ZhangEtAl2008,
-title = {Carbon Dynamics (2000-2006) over the Northern Great Plains
-Grasslands},
+title = {Carbon Dynamics (2000-2006) over the Northern Great Plains Grasslands},
 author = {Li Zhang and Bruce Wylie and Lei Ji and Tagir Gilmanov and
 Larry L. Tieszen},
 year = {2008},
@@ -4208,8 +4064,7 @@ doi = {10.1111/j.1365-2486.2007.01512.x}
 
 
 @article{HooverEtAl2022,
-title = {Compound hydroclimatic extremes in a semi-arid grassland:
-Drought, deluge, and the carbon cycle},
+title = {Compound hydroclimatic extremes in a semi-arid grassland: Drought, deluge, and the carbon cycle},
 author = {David L. Hoover and Olivia L. Hajek and Melinda D. Smith and
 Kate Wilkins and Ingrid J. Slette and Alan K. Knapp},
 journal = {Global Change Biology},
@@ -4221,8 +4076,7 @@ doi = {10.1111/gcb.16081}
 
 @article{YangEtAl2019,
 author = {Yang, Y. and Tilman, D. and Furey, G. and Lehman, C.},
-title = {Soil carbon sequestration accelerated by restoration of
-grassland biodiversity},
+title = {Soil carbon sequestration accelerated by restoration of grassland biodiversity},
 journal = {Nature Communications},
 volume = {10},
 number = {718},
@@ -4233,9 +4087,7 @@ doi = {10.1038/s41467-019-08636-w}
 
 
 @article{ManzanoNavar2000,
-title = {Processes of desertification by goats overgrazing in the
-Tamaulipan thornscrub (matorral) in north-eastern
-Mexico},
+title = {Processes of desertification by goats overgrazing in the Tamaulipan thornscrub (matorral) in north-eastern Mexico},
 author = {Mario G. Manzano and Jose Navar},
 journal = {Journal of Arid Environments},
 volume = {44},
@@ -4248,8 +4100,7 @@ doi = {10.1006/jare.1999.0577}
 
 
 @article{BasantEtAl2020,
-title = {When savannas recover from overgrazing, ecohydrological
-connectivity collapses},
+title = {When savannas recover from overgrazing, ecohydrological connectivity collapses},
 author = {Shishir Basant and Bradford P. Wilcox and Pedro M. Leite and
 Cristine L Morgan},
 year = {2020},
@@ -4265,9 +4116,7 @@ doi = {10.1088/1748-9326/ab71a1}
 @article{KairisEtAl2015,
 author = {Orestis Kairis and Christos Karavitis and Luca Salvati and
 Aikaterini Kounalaki and Kostas Kosmas},
-title = {Exploring the Impact of Overgrazing on Soil Erosion and Land
-Degradation in a Dry Mediterranean Agro-Forest
-Landscape (Crete, Greece)},
+title = {Exploring the Impact of Overgrazing on Soil Erosion and Land Degradation in a Dry Mediterranean Agro-Forest Landscape (Crete, Greece)},
 journal = {Arid Land Research and Management},
 volume = {29},
 number = {3},
@@ -4292,9 +4141,7 @@ doi = {10.1016/j.jenvman.2021.112417}
 
 
 @article{CopelandEtAl2021,
-title = {Recovery of the herbaceous component of degraded sagebrush
-steppe is unimpeded by 75 years of moderate cattle
-grazing},
+title = {Recovery of the herbaceous component of degraded sagebrush steppe is unimpeded by 75 years of moderate cattle grazing},
 author = {Stella M. Copeland and Kirk W. Davies and Chad S. Boyd and
 Jonathan D. Bates},
 journal = {Ecospghere},
@@ -4308,8 +4155,7 @@ doi = {10.1002/ecs2.3445}
 
 
 @article{ConantPaustian2002,
-title = {Potential soil carbon sequestration in overgrazed grassland
-ecosystems},
+title = {Potential soil carbon sequestration in overgrazed grassland ecosystems},
 author = {Richard T. Conant and Keith Paustian},
 journal = {Global Biogeochemical Cycles},
 volume = {16},
@@ -4322,8 +4168,7 @@ doi = {10.1029/2001GB001661}
 
 
 @article{SoussanaEtAl2007,
-title = {Full accounting of the greenhouse gas (CO$_2$, N$_2$O,
-CH$_4$) budget of nine European grassland sites},
+title = {Full accounting of the greenhouse gas (co2, n2o, ch4) budget of nine European grassland sites},
 journal = {Agriculture, Ecosystems \& Environment},
 volume = {121},
 issue = {1-2},
@@ -4344,8 +4189,7 @@ R. Valentini},
 
 
 @article{SoussanaEtAl2010,
-title = {Mitigating the greenhouse gas balance of ruminant production
-systems through carbon sequestration in grasslands},
+title = {Mitigating the greenhouse gas balance of ruminant production systems through carbon sequestration in grasslands},
 author = {J. F. Soussana and T. Tallec and V. Blanfort},
 journal = {Animal},
 year = {2010},
@@ -4358,8 +4202,7 @@ doi = {10.1017/S1751731109990784}
 
 
 @article{GoddeEtAl2020,
-title = {Soil carbon sequestration in grazing systems: managing
-expectations},
+title = {Soil carbon sequestration in grazing systems: managing expectations},
 author = {Cecile M. Godde and Imke J. M. de Boer and Erasmus zu
 Ermgassen and Mario Herrero and Corina E. van
 Middelaar and Adrian Muller and Elin Roos and Christian
@@ -4388,7 +4231,7 @@ doi = {10.1017/S0021859600073883}
 
 
 @article{HammarEtAl2022,
-title = {Time-dependent climate impact of beef production – can carbon sequestration in soil offset enteric methane emissions?},
+title = {Time-dependent climate impact of beef production - can carbon sequestration in soil offset enteric methane emissions},
 author = {Torun Hammar and Per-Anders Hansson and Elin Roos},
 journal = {Journal of Cleaner Production},
 volume = {331},
@@ -4400,8 +4243,7 @@ doi = {10.1016/j.jclepro.2021.129948}
 
 
 @article{ParueloEtAl2010,
-title = {Carbon stocks and fluxes in rangelands of the Rio de la Plata
-basin},
+title = {Carbon stocks and fluxes in rangelands of the Rio de la Plata basin},
 author = {Paruelo, J. M. and Pineiro, G. and Baldi, G. and Baeza,
 S. and Lezama, F. and Altesor, A. and Oesterheld,
 M.},
@@ -4429,9 +4271,7 @@ doi = {10.3390/agronomy11122466}
 
 
 @article{CareyEtAl2020,
-title = {Exploring variability in rangeland soil organic carbon stocks
-across California (USA) using a voluntary monitoring
-network},
+title = {Exploring variability in rangeland soil organic carbon stocks across California (USA) using a voluntary monitoring network},
 author = {Chelsea J. Carey and Jacob Weverka and Ryan DiGaudio and
 Thomas Gardali and Elizabeth L. Porzig},
 journal = {Geoderma Regional},
@@ -4444,8 +4284,7 @@ doi = {10.1016/j.geodrs.2020.e00304}
 
 
 @article{YangEtAl2010,
-title = {Soil carbon stock and its changes in northern China's
-grasslands from 1980s to 2000s},
+title = {Soil carbon stock and its changes in northern China's grasslands from 1980s to 2000s},
 author = {Yuanhe Yang and Jingyun Fang and Wenhong Ma and Pete Smith
 and Anwar Mohammat and Shaopeng Wang and Wei Wang},
 journal = {Global Change Biology},
@@ -4459,8 +4298,7 @@ doi = {10.1111/j.1365-2486.2009.02123.x}
 
 
 @article{ZhaoEtAl2019,
-title = {Global soil–climate–biome diagram: linking surface soil
-properties to climate and biota},
+title = {Global soil-climate-biome diagram: linking surface soil properties to climate and biota},
 author = {Xia Zhao and Yuanhe Yang and Haihua Shen and Xiaoqing Geng
 and and Jingyun Fang},
 journal = {Biogeosciences},
@@ -4473,10 +4311,7 @@ doi = {10.5194/bg-16-2857-2019}
 
 
 @article{OlsonEtAl2001,
-title = {Terrestrial Ecoregions of the World: A New Map of Life on
-Earth: A new global map of terrestrial ecoregions
-provides an innovative tool for conserving
-biodiversity},
+title = {Terrestrial Ecoregions of the World: A New Map of Life on Earth: A new global map of terrestrial ecoregions provides an innovative tool for conserving biodiversity},
 author = {David M. Olson and Eric Dinerstein and Eric D. Wikramanayake
 and Neil D. Burgess and George V. N. Powell and Emma
 C. Underwood and Jennifer A. D'amico and Illanga
@@ -4500,9 +4335,7 @@ author = {Marta Guasch-Ferre and Ambika Satija and Stacy A. Blondin
 and Marie Janiszewski and Ester Emlen and Lauren
 E. O’Connor and Wayne W. Campbell and Frank B. Hu
 and Walter C. Willett and Meir J. Stampfer },
-title = {Meta-Analysis of Randomized Controlled Trials of Red Meat
-Consumption in Comparison With Various Comparison
-Diets on Cardiovascular Risk Factors},
+title = {Meta-Analysis of Randomized Controlled Trials of Red Meat Consumption in Comparison With Various Comparison Diets on Cardiovascular Risk Factors},
 journal = {Circulation},
 volume = {139},
 number = {15},
@@ -4514,7 +4347,7 @@ doi = {10.1161/CIRCULATIONAHA.118.035225}
 
 
 @article{ColeyEtAl2011,
-title = {Food miles: time for a rethink?},
+title = {Food miles: time for a rethink},
 author = {David Coley and Mark Howard and Michael Winter},
 journal = {British Food Journal},
 volume = {113},
@@ -4527,8 +4360,7 @@ doi = {10.1108/00070701111148432}
 
 
 @article{WeberMatthews2008,
-title = {Food-Miles and the Relative Climate Impacts of Food Choices
-in the United States},
+title = {Food-Miles and the Relative Climate Impacts of Food Choices in the United States},
 author = {Christopher L. Weber and H. Scott Matthews},
 journal = {Environmental Science \& Technology},
 year = {2008},
@@ -4556,9 +4388,7 @@ doi = {10.3389/fsufs.2020.544984}
 
 
 @article{StanleyEtAl2018,
-title = {Impacts of soil carbon sequestration on life cycle greenhouse
-gas emissions in Midwestern USA beef finishing
-systems},
+title = {Impacts of soil carbon sequestration on life cycle greenhouse gas emissions in Midwestern USA beef finishing systems},
 author = {Paige L. Stanley and Jason E. Rowntree and David K. Beede
 and Marcia S. DeLonge and Michael W. Hamm},
 journal = {Agricultural Systems},
@@ -4571,10 +4401,7 @@ doi = {10.1016/j.agsy.2018.02.003}
 
 
 @article{McGeeEtAl2022,
-title = {Performance, meat quality, profitability, and greenhouse gas
-emissions of suckler bulls from pasture-based
-compared to an indoor high-concentrate
-weanling-to-beef finishing system},
+title = {Performance, meat quality, profitability, and greenhouse gas emissions of suckler bulls from pasture-based compared to an indoor high-concentrate weanling-to-beef finishing system},
 author = {M. McGee and C. Lenehan and P. Crosson and E.G. O'Riordan
 and A.K. Kelly and L. Moran and A.P. Moloney},
 journal = {Agricultural Systems},
@@ -4587,9 +4414,7 @@ doi = {10.1016/j.agsy.2022.103379}
 
 
 @article{RowntreeEtAl2016,
-title = {Potential mitigation of midwest grass-finished beef
-production emissions with soil carbon sequestration
-in the United States of America},
+title = {Potential mitigation of midwest grass-finished beef production emissions with soil carbon sequestration in the United States of America},
 author = {Jason E. Rowntree and Rebecca Ryals and Marcia DeLonge and
 W. Richard Teague and Marilia B. Chiavegato and
 Peter Byck and Tong Waang and Sutie Xu},
@@ -4606,7 +4431,7 @@ pages = {S31-38}
 @article{HarmoneyJaeger2018,
 author = {Harmoney, K. R. and Jaeger, J. R.},
 year = {2018},
-title = {Using Modified Intensive Early Stocking for Grazing Replacement Heifers.},
+title = {Using Modified Intensive Early Stocking for Grazing Replacement Heifers},
 journal = {Kansas Agricultural Experiment Station Research Reports},
 volume = {4},
 issue = {2},
@@ -4651,8 +4476,7 @@ doi = {10.1073/pnas.1019576108}
 
 @mastersthesis{Cook2019a,
 author = {Cook, Adam Anderson},
-title = {Measuring methane emissions from American bison (Bison
-bison L.) using eddy covariance},
+title = {Measuring methane emissions from American bison (Bison bison L.) using eddy covariance},
 school = {Montana State University - Bozeman, College of Agriculture},
 year = {2019},
 url = {\url{https://scholarworks.montana.edu/xmlui/handle/1/15531?show=full}}
@@ -4662,10 +4486,7 @@ url = {\url{https://scholarworks.montana.edu/xmlui/handle/1/15531?show=full}}
 
 @phdthesis{Shropshire2018,
 author = {Aaron Shropshire},
-title = {Grazing Strategy Effects on Utilization, Animal
-Performance, Aboveground Production, Species
-Composition, and Soil Properties on Nebraska
-Sandhills Meadow},
+title = {Grazing Strategy Effects on Utilization, Animal Performance, Aboveground Production, Species Composition, and Soil Properties on Nebraska Sandhills Meadow},
 school = {University of Nebraska},
 year = {2018},
 type = {Ms.C. thesis},
@@ -4679,8 +4500,7 @@ url = {\url{https://digitalcommons.unl.edu/agronhortdiss/157/}}
 @techreport{Henry2023,
 author = {Beverley Henry},
 year = {2023},
-title = {Potential for soil carbon sequestration in Northern
-Australian grazing lands: A review of the evidence},
+title = {Potential for soil carbon sequestration in Northern Australian grazing lands: A review of the evidence},
 institution = {Department of Agriculture and Fisheries, Queensland},
 url = {\url{https://www.futurebeef.com.au}},
 note = {Project AS10309\_6452}
@@ -4691,8 +4511,7 @@ note = {Project AS10309\_6452}
 @techreport{FryarEtAl2021,
 author = {Fryar, C. D. and Carroll, M. D. and Gu, Q. and Afful, J. and
 Ogden, C. L.},
-title = {Anthropometric reference data for children and adults: United
-States, 2015–2018},
+title = {Anthropometric reference data for children and adults: United States, 2015-2018},
 institution = {National Center for Health Statistics, U.S. Department
 of Health and Human Services, Centers for Disease
 Control and Prevention},
@@ -4768,9 +4587,7 @@ month = {June}
 author = {Liu, S. and Liu, J. and Wu, Y.; Young, C. J. and Werner,
 J. and Dahal, D. and Oeding, J. and Schmidt, G. L.},
 year = {2014},
-title = {Baseline and projected future carbon storage, carbon
-sequestration, and greenhouse-gas fluxes in
-terrestrial ecosystems of the eastern United States},
+title = {Baseline and projected future carbon storage, carbon sequestration, and greenhouse-gas fluxes in terrestrial ecosystems of the eastern United States},
 note = {In: Zhu, Z. and Reed, B. C., eds, Baseline and projected future
 carbon storage and greenhouse-gas fluxes in
 ecosystems of the eastern United States},
@@ -4786,8 +4603,7 @@ pages = {204}
 author = {Liu, S. and Wu, Y. and Young, C. J. and Dahal, D. and
 Werner, J. and Liu, J.},
 year = {2012},
-title = {Projected future carbon storage and greenhouse- gas fluxes of
-terrestrial ecosystems in the western United States},
+title = {Projected future carbon storage and greenhouse- gas fluxes of terrestrial ecosystems in the western United States},
 note = {In: Zhu, Z. and Reed, B. C., eds, Baseline and projected
 future carbon storage and greenhouse-gas fluxes in
 ecosystems of the western United States},
@@ -4814,8 +4630,7 @@ address = {Lexington, KY}
 
 
 @techreport{Hasha2002,
-title = {Livestock Feeding and Feed Imports in the European Union—A
-Decade of Change},
+title = {Livestock Feeding and Feed Imports in the European Union-A Decade of Change},
 author = {Gene Hasha},
 year = {2002},
 url = {\url{https://www.ers.usda.gov/webdocs/outlooks/36457/50311_fds060201.pdf?v=3580}},
@@ -4869,8 +4684,7 @@ J. Hatchett and Laurie S. Huning and Julia Szinai
 and Christina Tague and Peter S. Nico and Daniel
 R. Feldman and Andrew D. Jones and William
 D. Collins and Laurna Kaatz},
-title = {A low-to-no snow future and its impacts on water resources in
-the western United States},
+title = {A low-to-no snow future and its impacts on water resources in the western United States},
 journal = {Nature Reviews Earth \& Environment},
 volume = {2},
 pages = {800-819},
@@ -4882,8 +4696,7 @@ doi = {10.1038/s43017-021-00219-y}
 
 @article{WilliamsEtAl2022,
 author = {A. Park Williams and Benjamin I. Cook and Jason E. Smerdon},
-title = {Rapid intensification of the emerging southwestern North
-American megadrought in 2020–2021},
+title = {Rapid intensification of the emerging southwestern North American megadrought in 2020-2021},
 journal = {Nature Climate Change},
 year = {2022},
 doi = {10.1038/s41558-022-01290-z}
@@ -4906,10 +4719,7 @@ doi = {10.1353/aq.2020.0023}
 
 @article{PerrymanEtAl2021,
 author = {Barry L. Perryman and Brad W. Schultz and Paul J. Meimanab},
-title = {Forum: A Change in the Ecological Understanding of Rangelands
-in the Great Basin and Intermountain West and
-Implications for Management: Revisiting Mack and
-Thompson (1982)},
+title = {Forum: A Change in the Ecological Understanding of Rangelands in the Great Basin and Intermountain West and Implications for Management: Revisiting Mack and Thompson (1982)},
 journal = {Rangeland Ecology \& Management},
 volume = {76},
 issue = {5},
@@ -4934,8 +4744,7 @@ doi = {10.1017/epi.2018.23}
 
 
 @article{BakaloudiEtAl2021,
-title = {Intake and adequacy of the vegan diet. A systematic review of
-the evidence},
+title = {Intake and adequacy of the vegan diet: A systematic review of the evidence},
 author = {Dimitra Rafailia Bakaloudi and Afton Halloran and Holly
 L. Rippin and Artemis Christina Oikonomidou and
 Theodoros I. Dardavesis and Julianne Williams and
@@ -4952,9 +4761,7 @@ doi = {10.1016/j.clnu.2020.11.035}
 
 
 @article{Wirnitzer2020,
-title = {Vegan Diet in Sports and Exercise – Health Benefits and
-Advantag- es to Athletes and Physically Active
-People: A Narrative Review},
+title = {Vegan Diet in Sports and Exercise - Health Benefits and Advantages to Athletes and Physically Active People: A Narrative Review},
 author = {Katharina C Wirnitzer},
 journal = {International Journal of Open Access Sports and Exercise
 Medicine},
@@ -4981,8 +4788,7 @@ doi = {10.1186/s12970-017-0192-9}
 @article{vanVlietEtAl2021,
 author = {van Vliet, Stephan and Provenza, Frederick D. and Kronberg,
 Scott L.},
-title = {Health-Promoting Phytonutrients Are Higher in Grass-Fed Meat
-and Milk},
+title = {Health-Promoting Phytonutrients Are Higher in Grass-Fed Meat and Milk},
 journal = {Frontiers in Sustainable Food Systems},
 volume = {4},
 year = {2021},
@@ -4992,8 +4798,7 @@ doi = {10.3389/fsufs.2020.555426}
 
 
 @article{NogoyEtAl2022,
-title = {Fatty Acid Composition of Grain- and Grass-Fed Beef and Their
-Nutritional Value and Health Implication},
+title = {Fatty Acid Composition of Grain- and Grass-Fed Beef and Their Nutritional Value and Health Implication},
 author = {Kim Margarette C. Nogoy and Bin Sun and Sangeun Shin and
 Yeonwoo Lee and Xiang Zi Li and Seong Ho Choi and
 Sungkwon Park},journal = {Food Science Animal
@@ -5008,8 +4813,7 @@ doi = {10.5851/kosfa.2021.e73}
 
 
 @article{JafariaEtAl2021,
-title = {Plant-based diets and risk of disease mortality: a systematic
-review and meta-analysis of cohort studies},
+title = {Plant-based diets and risk of disease mortality: a systematic review and meta-analysis of cohort studies},
 author = {Sahar Jafari and Erfan Hezaveh and Yahya Jalilpiran and
 Ahmad Jayedi and Alexei Wong and Abdolrasoul
 Safaiyan and Ali Barzegar},
@@ -5024,9 +4828,7 @@ doi = {10.1080/10408398.2021.1918628}
 
 
 @article{RuleEtAl2002,
-title = {Comparison of muscle fatty acid profiles and cholesterol
-concentrations of bison, beef cattle, elk, and
-chicken},
+title = {Comparison of muscle fatty acid profiles and cholesterol concentrations of bison, beef cattle, elk, and chicken},
 author = {D. C. Rule and K. S. Broughton and S. M. Shellito and
 G. Maiorano},
 journal = {Journal of Animal Science},
@@ -5042,8 +4844,7 @@ doi = {10.2527/2002.8051202x}
 @article{MedawarEtAl2019,
 author = {Evelyn Medawar and Sebastian Huhn and Arno Villringer and
 A. Veronica Witte},
-title = {The effects of plant-based diets on the body and the brain: a
-systematic review},
+title = {The effects of plant-based diets on the body and the brain: a systematic review},
 journal = {Transllational Psychiatry},
 volume = {9},
 number = {226},
@@ -5055,8 +4856,7 @@ doi = {10.1038/s41398-019-0552-0}
 
 @article{Mozaffarian2016,
 author = {Dariush Mozaffarian},
-title = {Dietary and Policy Priorities for Cardiovascular Disease,
-Diabetes, and Obesity},
+title = {Dietary and Policy Priorities for Cardiovascular Disease, Diabetes, and Obesity},
 journal = {Circulation},
 volume = {133},
 number = {2},
@@ -5081,8 +4881,7 @@ doi = {10.1111/joim.12543}
 
 
 @article{SmallEtaL23016,
-title = {Livestock grazing limits beaver restoration in northern New
-Mexico},
+title = {Livestock grazing limits beaver restoration in northern New Mexico},
 author = {Brian A. Small and Jennifer K. Frey and Charlotte C Gard},
 year = {2016},
 journal = {Restoration Ecology},
@@ -5097,9 +4896,7 @@ doi = { 10.1111/rec.12364}
 @article{CharnleyEtAl2020,
 author = {Susan Charnley and Hannah Gosnell and Rachael Davee and
 Jesse Abrams},
-title = {Ranchers and Beavers: Understanding the Human Dimensions of
-Beaver-Related Stream Restoration on Western
-Rangelands},
+title = {Ranchers and Beavers: Understanding the Human Dimensions of Beaver-Related Stream Restoration on Western Rangelands},
 journal = {Rangeland Ecology and Management},
 volume = {73},
 issue = {5},
@@ -5112,8 +4909,7 @@ doi = {10.1016/j.rama.2020.04.008}
 
 @article{FesenmyerDauwalter2018,
 author = {Kurt A. Fesenmyer and Daniel C. Dauwalter},
-title = {Livestock management, beaver, and climate influences on
-riparian vegetation in a semi-arid landscape},
+title = {Livestock management, beaver, and climate influences on riparian vegetation in a semi-arid landscape},
 journal = {PLoS One},
 year = {2018},
 volume = {13},
@@ -5125,8 +4921,7 @@ doi = {10.1371/journal.pone.0208928}
 
 
 @article{ChavezGese2005,
-title = {Food Habits of Wolves in Relation to Livestock Depredations
-in Northwestern Minnesota},
+title = {Food Habits of Wolves in Relation to Livestock Depredations in Northwestern Minnesota},
 author = {Andreas S. Chavez and Eric M. Gese},
 journal = {The American Midland Naturalist},
 volume = {154},
@@ -5141,8 +4936,7 @@ doi = {10.1674/0003-0031(2005)154[0253:FHOWIR]2.0.CO;2}
 @article{GrimaEtAl2021,
 author = {Grima, N. and Brainard, J. and Fisher, B.},
 year = {2021},
-title = {Are wolves welcome? Hunters' attitudes towards wolves in
-Vermont, USA},
+title = {Are wolves welcome Hunters' attitudes towards wolves in Vermont, USA},
 journal = {Oryx},
 volume = {55},
 issue = {2},
@@ -5153,9 +4947,7 @@ doi = {10.1017/S0030605319000061}
 
 
 @article{ChaudharyEtAl2016,
-title = {Spatially Explicit Analysis of Biodiversity Loss Due to
-Global Agriculture, Pasture and Forest Land Use from
-a Producer and Consumer Perspective},
+title = {Spatially Explicit Analysis of Biodiversity Loss Due to Global Agriculture, Pasture and Forest Land Use from a Producer and Consumer Perspective},
 author = {Abhishek Chaudhary and Stephan Pfister and Stefanie Hellweg},
 journal = {Environmental Science \& Technology},
 volume = {50},
@@ -5176,8 +4968,7 @@ and Heyes, Chris and Purohit, Pallav and
 Borken-Kleefeld, Jens and Wagner, Fabian and Sander,
 Robert and Fagerli, Hilde and Nyiri, Agnes and
 Cozzi, Laura and Pavarini, Claudia },
-title = {Reducing global air pollution: the scope for further policy
-interventions},
+title = {Reducing global air pollution: the scope for further policy interventions},
 journal = {Philosophical Transactions of the Royal Society A:
 Mathematical, Physical and Engineering Sciences},
 volume = {378},
@@ -5191,8 +4982,7 @@ doi = {10.1098/rsta.2019.0331}
 
 
 @article{KelleyEtAl2015,
-title = {Climate change in the Fertile Crescent and implications of
-the recent Syrian drought},
+title = {Climate change in the Fertile Crescent and implications of the recent Syrian drought},
 author = {Colin P. Kelley and Shahrzad Mohtadi and Mark A. Cane and
 Richard Seager and Yochanan Kushnir},
 journal = {Proceedings of the National Academy of Sciences},
@@ -5206,8 +4996,7 @@ doi = {10.1073/pnas.1421533112}
 
 
 @article{FalcoEtAl2019,
-title = {Climate change and migration: Is agriculture the main
-channel?},
+title = {Climate change and migration: Is agriculture the main channel},
 author = {Chiara Falcoa and Marzio Galeotti and Alessandro Olperac},
 journal = {Global Environmental Change},
 year = {2019},
@@ -5233,8 +5022,7 @@ doi = {10.1080/14888386.2017.1351892}
 
 
 @article {Eshel2021regen,
-title = {Small-scale integrated farming systems can abate
-continental-scale nutrient leakage},
+title = {Small-scale integrated farming systems can abate continental-scale nutrient leakage},
 author = {Eshel, Gidon},
 journal = {PLOS Biology},
 volume = {19},
@@ -5248,8 +5036,7 @@ doi = {10.1371/journal.pbio.3001264}
 
 @article {Eshel2021air,
 author = {Eshel, Gidon},
-title = {Disproportionate contributions to air quality-related deaths:
-The latest case against red meat},
+title = {Disproportionate contributions to air quality-related deaths: The latest case against red meat},
 journal = {Proceedings of the National Academy of Sciences},
 volume = {118},
 number = {22},
@@ -5278,8 +5065,7 @@ doi = {10.1073/pnas.2013637118}
 
 
 @article{MeenaEtAl2020,
-title = {Impact of agrochemicals on soil microbiota and management: A
-review},
+title = {Impact of agrochemicals on soil microbiota and management: A review},
 author = {Meena, Ram Swaroop and Kumar, Sandeep and Datta, Rahul and
 Lal, Rattan and Vijayakumar, Vinod and Brtnicky,
 Martin and Sharma, Mahaveer Prasad and Yadav, Gulab
@@ -5300,9 +5086,7 @@ doi = {10.3390/land9020034}
 author = {Daniela F. Cusack and Clare E. Kazanski and Alexandra
 Hedgpeth and Kenyon Chow and Amanda L. Cordeiro and
 Jason Karpman and Rebecca Ryals},
-title = {Reducing climate impacts of beef production: A synthesis of
-life cycle assessments across management systems and
-global regions},
+title = {Reducing climate impacts of beef production: A synthesis of life cycle assessments across management systems and global regions},
 journal = {Global Change Biology},
 volume = {27},
 issue = {9},
@@ -5340,8 +5124,7 @@ doi = {10.2489/jswc.2020.0620A}
 
 
 @article{Lal2018,
-title = {Digging deeper: A holistic perspective of factors affecting
-soil organic carbon sequestration in agroecosystems},
+title = {Digging deeper: A holistic perspective of factors affecting soil organic carbon sequestration in agroecosystems},
 author = {Rattan Lal},
 journal = {Global Change Biology},
 volume = {24},
@@ -5366,8 +5149,7 @@ doi = {10.1016/j.geoderma.2004.01.032}
 
 
 @article{BianEtAl2021,
-title = {Production and application of manure nitrogen and phosphorus
-in the United States since 1860},
+title = {Production and application of manure nitrogen and phosphorus in the United States since 1860},
 author = {Zihao Bian and Hanqin Tian and Qichun Yang and Rongting Xu
 and Shufen Pan and Bowen Zhang},
 journal = {Earth System Science Data},
@@ -5381,9 +5163,7 @@ doi = {10.5194/essd-13-515-2021}
 
 
 @article{WeiEtAl2013,
-title = {Where Does the Irrigation Water Go? An Estimate of the
-Contribution of Irrigation to Precipitation Using
-MERRA},
+title = {Where Does the Irrigation Water Go An Estimate of the Contribution of Irrigation to Precipitation Using MERRA},
 author = {Jiangfeng Weim and Paul A. Dirmeyer and Dominik Wisser and
 Michael G. Bosilovich and David M. Mocko},
 year = {2013},
@@ -5398,10 +5178,7 @@ issue = {1}
 
 @article{SorooshianEtAl2011,
 journal = {Journal of Geophysical Research Atmospheres},
-title = {How significant is the impact of irrigation on the local
-hydroclimate in California’s Central Valley?
-Comparison of model results with ground and
-remote-sensing data},
+title = {How significant is the impact of irrigation on the local hydroclimate in California's Central Valley Comparison of model results with ground and remote-sensing data},
 author = {Soroosh Sorooshian and Jialun Li and Kuo-lin Hsu and
 Xiaogang Gao},
 year = {2011},
@@ -5426,8 +5203,7 @@ doi = {10.1007/s00382-008-0445-z}
 
 
 @article{DeAngelisEtAl2010,
-title = {Evidence of enhanced precipitation due to irrigation over the
-Great Plains of the United States},
+title = {Evidence of enhanced precipitation due to irrigation over the Great Plains of the United States},
 author = {Anthony DeAngelis and Francina Dominguez and Ying Fan and
 Alan Robock and M. Deniz Kustu and David Robinson},
 journal = {Journal of Geophysical Research Atmospheres},
@@ -5453,9 +5229,7 @@ doi = {10.1029/TR029i002p00202}
 
 
 @article{AllenEtAl2018,
-title = {A solution to the misrepresentations of CO2-equivalent
-emissions of short-lived climate pollutants under
-ambitious mitigation},
+title = {A solution to the misrepresentations of CO2-equivalent emissions of short-lived climate pollutants under ambitious mitigation},
 author = {Myles R. Allen and Keith P. Shine and Jan S. Fuglestvedt and
 Richard J. Millar and Michelle Cain and David J. Frame and
 Adrian H. Macey},
@@ -5481,7 +5255,7 @@ year = {2015}
 
 
 @article{SchreelSteppe2020,
-title = {Foliar Water Uptake in Trees: Negligible or Necessary?},
+title = {Foliar Water Uptake in Trees: Negligible or Necessary},
 author = {Jeroen D.M. Schreel and Kathy Steppe},
 journal = {Trends in Plant Science},
 volume = {25},
@@ -5498,9 +5272,7 @@ author = {Ek del-Val and Juan J. Armesto and Olga Barbosa and Duncan
 A. Christie and Alvaro G. Gutierrez and Clive
 G. Jones and Pablo A. Marquet and Kathleen
 C. Weathers},
-title = {Rain Forest Islands in the Chilean Semiarid Region:
-Fog-dependency, Ecosystem Persistence and Tree
-Regeneration},
+title = {Rain Forest Islands in the Chilean Semiarid Region: Fog-dependency, Ecosystem Persistence and Tree Regeneration},
 journal = {Ecosystems},
 volume = {9},
 number = {598},
@@ -5514,9 +5286,7 @@ doi = {10.1007/s10021-006-0065-6}
 author = {McCarthy, Benjamin and Anex, Robert and Wang, Yong and
 Kendall, Anthony D. and Anctil, Annick and Haacker,
 Erin M. K. and Hyndman, David W.},
-title = {Trends in Water Use, Energy Consumption, and Carbon Emissions
-from Irrigation: Role of Shifting Technologies and
-Energy Sources},
+title = {Trends in Water Use, Energy Consumption, and Carbon Emissions from Irrigation: Role of Shifting Technologies and Energy Sources},
 journal = {Environmental Science \& Technology},
 volume = {54},
 number = {23},
@@ -5528,7 +5298,7 @@ doi = {10.1021/acs.est.0c02897}
 
 
 @article{ArcherBrovkin2008,
-title = {The millennial atmospheric lifetime of anthropogenic CO$_2$},
+title = {The millennial atmospheric lifetime of anthropogenic CO2},
 author = {David Archer and Victor Brovkin},
 journal = {Climatic Change},
 year = {2008},
@@ -5540,7 +5310,7 @@ doi = {10.1007/s10584-008-9413-1}
 
 
 @article{Archer2005,
-title = {Fate of fossil fuel CO$_2$ in geologic time},
+title = {Fate of fossil fuel CO2 in geologic time},
 author = {David Archer},
 year = {2005},
 journal = {Journal of Geophysical Research},
@@ -5569,8 +5339,7 @@ urldate = {2021-07-18}
 
 
 @techreport{Hoppe2014,
-title = {Structure and Finances of U.S. Farms: Family Farm Report,
-2014 Edition},
+title = {Structure and Finances of U.S. Farms: Family Farm Report, 2014 Edition},
 author = {Hoppe, Robert A.},
 institution = {United States Department of Agriculture, Economic
 Research Service},
@@ -5586,7 +5355,7 @@ address = {Washington, DC}
 
 
 @techreport{MaupinEtAl2018,
-title = {Estimates of Water Use and Trends in the Colorado River Basin, Southwestern United States, 1985–2010},
+title = {Estimates of Water Use and Trends in the Colorado River Basin, Southwestern United States, 1985-2010},
 author = {Molly A. Maupin and Tamara Ivahnenko and Breton Bruce},
 institution = {United States Department of the Interior, United States
 Geologival Survey},
@@ -5603,8 +5372,7 @@ address = {Reston, VA}
 @article{McCabeWolock2007,
 author = {McCabe, G. J. and Wolock, D. M.},
 year = {2007},
-title = {Warming may create substantial water supply shortages in the
-Colorado River basin},
+title = {Warming may create substantial water supply shortages in the Colorado River basin},
 journal = {Geophysical Research Letters},
 volume = {34},
 issue = {22},
@@ -5614,8 +5382,7 @@ doi = {10.1029/2007GL031764}
 
 
 @article{MillyDunne2020,
-title = {Colorado River flow dwindles as warming-driven loss of
-reflective snow energizes evaporation},
+title = {Colorado River flow dwindles as warming-driven loss of reflective snow energizes evaporation},
 author = {P. C. D. Milly and K. A. Dunne},
 journal = {Science},
 year = {2020},
@@ -5627,17 +5394,8 @@ doi = {10.1126/science.aay9187}
 
 
 
-@article{PooreNemececk2018,
-title = {Reducing food’s environmental impacts through producers and
-consumers},
-author = {Poore, J.  and T. Nemecek},
-journal = {Science},
-year = {2018},
-volume = {360},
-issue = {6392},
-pages = {987-992},
-doi = {10.1126/science.aaq0216}
-}
+
+
 
 
 
@@ -5645,8 +5403,7 @@ doi = {10.1126/science.aaq0216}
 author = {Selinske, Matthew J. and Fidler, Fiona and Gordon, Ascelin
 and Garrard, Georgia E. and Kusmanoff, Alexander
 M. and Bekessy, Sarah A.},
-title = {We have a steak in it: Eliciting interventions to reduce beef
-consumption and its impact on biodiversity},
+title = {We have a steak in it: Eliciting interventions to reduce beef consumption and its impact on biodiversity},
 journal = {Conservation Letters},
 year = {2020},
 volume = {13},
@@ -5685,8 +5442,7 @@ isbn = {978-0848825904}
 @book{Masonland2017,
 author = {Mason, P. and Lang, T.},
 year = {2017},
-title = {Sustainable Diets: How Ecological Nutrition Can Transform
-Consumption and the Food System},
+title = {Sustainable Diets: How Ecological Nutrition Can Transform Consumption and the Food System},
 publisher = {Routledge, Taylor \& Francis},
 pages = {368},
 isbn = {978131777003},
@@ -5714,8 +5470,7 @@ doi = {10.4060/cb4474en}
 
 
 @techreport{USDA-NASSirrig2019,
-title = {Census of Agriculture, 2018 Irrigation and Water Management
-Survey},
+title = {Census of Agriculture, 2018 Irrigation and Water Management Survey},
 author = {DataLab},
 institution = {United States Department of Agriculture, National
 Agricultural Statistics Service},
@@ -5757,8 +5512,7 @@ url = {\url{https://www.ers.usda.gov/data-products/milk-cost-of-production-estim
 
 
 @techreport{USDAnas2021beef,
-title = {Meat Animals Production, Disposition, and Income 2020
-Summary},
+title = {Meat Animals Production, Disposition, and Income 2020 Summary},
 author = {USDA-NASS},
 institution = {United States Department of Agriculture, National
 Agricultural Statistics Service},
@@ -5802,9 +5556,7 @@ doi = {10.1080/08989621.2013.788383}
 
 
 @article{SeaquistEtAl2014,
-title = {Architecture of the global land acquisition system: applying
-the tools of network science to identify key
-vulnerabilities},
+title = {Architecture of the global land acquisition system: applying the tools of network science to identify key vulnerabilities},
 author = {J. W. Seaquist and Emma Li Johansson and Kimberly A Nicholas},
 year = {2014},
 journal = {Environmental Research Letters},
@@ -5817,8 +5569,7 @@ doi = {10.1088/1748-9326/9/11/114006}
 
 
 @article{ChenEtAl2018,
-title = {Global land-water nexus: Agricultural land and freshwater use
-embodied in worldwide supply chains},
+title = {Global land-water nexus: Agricultural land and freshwater use embodied in worldwide supply chains},
 author = {B. Chen and M.Y. Han and K. Peng and S.L. Zhou and L. Shao
 and X.F. Wu and W.D. Wei and S.Y. Liu and Z. Li and
 J.S. Li and G.Q. Chen},
@@ -5859,9 +5610,7 @@ doi = {10.1007/s12052-007-0001-z}
 
 
 @article{PaffenbargerEtAl2001,
-title = {A history of physical activity, cardiovascular health and
-longevity: the scientific contributions of Jeremy N
-Morris, DSc, DPH, FRCP},
+title = {A history of physical activity, cardiovascular health and longevity: the scientific contributions of Jeremy N Morris, DSc, DPH, FRCP},
 author = {Ralph S Paffenbarger, Jr and Steven N Blair, I-Min Lee},
 journal = {International Journal of Epidemiology},
 volume = {30},
@@ -5889,9 +5638,7 @@ doi = {10.1016/j.agee.2017.02.012}
 
 
 @article{LiebigEtAl2010,
-title = {Grazing Management Contributions to Net Global Warming
-Potential: A Long-term Evaluation in the Northern
-Great Plains},
+title = {Grazing Management Contributions to Net Global Warming Potential: A Long-term Evaluation in the Northern Great Plains},
 author = {M. A. Liebig and J. R. Gross and S. L. Kronberg and
 R. L. Phillips},
 journal = {Journal of Environmental Quality},
@@ -5971,9 +5718,7 @@ doi = {10.1016/j.scitotenv.2017.08.125}
 
 
 @article{WangEtAl2015,
-title = {Red and processed meat consumption and mortality:
-dose–response meta-analysis of prospective cohort
-studies},
+title = {Red and processed meat consumption and mortality: dose-response meta-analysis of prospective cohort studies},
 year = {2015},
 author = {Xia Wang and Xinying Lin and Ying Y Ouyang and Jun Liu and
 Gang Zhao and An Pan and Frank B Hu},
@@ -5987,8 +5732,7 @@ doi = {10.1017/S1368980015002062}
 
 
 @article{QianEtAl2020,
-title = {Red and Processed Meats and Health Risks: How Strong Is the
-Evidence?},
+title = {Red and Processed Meats and Health Risks: How Strong Is the Evidence},
 author = {Frank Qian and Matthew C. Riddle and Judith Wylie-Rosett and Frank B. Hu},
 journal = {Diabetes Care},
 year = {2020},
@@ -6008,8 +5752,7 @@ Kirolos Milio and Behnam Sadeghirad and Arnav
 Agarwal and Adriana M. Zea and Yung Lee and Mi Ah
 Han and Robin W. M. Vernooij and Pablo Alonso-Coello
 and Gordon H. Guyatt and Regina El Dib},
-title = {Effect of Lower Versus Higher Red Meat Intake on
-Cardiometabolic and Cancer Outcomes},
+title = {Effect of Lower Versus Higher Red Meat Intake on Cardiometabolic and Cancer Outcomes},
 journal = {Annals of Internal Medicine},
 volume = {171},
 number = {10},
@@ -6021,7 +5764,7 @@ doi = {10.7326/M19-0622}
 
 
 @article{JohnstonEtAl2019,
-title = {Unprocessed Red Meat and processed meat consumption: Dietary guideline recommendations from the nutritional recommendations (nutrirecs) consortium.},
+title = {Unprocessed Red Meat and processed meat consumption: Dietary guideline recommendations from the nutritional recommendations (nutrirecs) consortium},
 author = {Bradley C. Johnston and Dena Zeraatkar abd Mi Ah Han and
 Robin W. M. Vernooij and Claudia Valli and Regina El
 Dib and Catherine Marshall and Patrick J. Stover and
@@ -6041,7 +5784,7 @@ doi = {10.7326/M19-1621},
 
 
 @article{StephensEtAl2019,
-title = {Archaeological assessment reveals Earth’s early transformation through land use},
+title = {Archaeological assessment reveals Earth's early transformation through land use},
 author = {Lucas Stephens and Dorian Fuller and Nicole Boivin and
 Torben Rick and Nicolas Gauthier and Andrea Kay and
 Ben Marwick and Chelsey Geralda Armstrong and
@@ -6103,8 +5846,7 @@ doi = {10.1126/science.aax1192}
 
 
 @article{SatijaEtAl2017,
-title = {Healthful and Unhealthful Plant-Based Diets and the Risk of
-Coronary Heart Disease in U.S. Adults},
+title = {Healthful and Unhealthful Plant-Based Diets and the Risk of Coronary Heart Disease in U.S. Adults},
 author = {Ambika Satija and Shilpa N. Bhupathiraju and Donna
 Spiegelman and Stephanie E. Chiuve and JoAnn
 E. Manson and Walter Willett and Kathryn M. Rexrode
@@ -6120,8 +5862,7 @@ doi = {10.1016/j.jacc.2017.05.047}
 
 
 @article{WillettEtAl2019,
-title = {Food in the Anthropocene: the EAT--Lancet Commission on
-healthy diets from sustainable food systems},
+title = {Food in the Anthropocene: the EAT--Lancet Commission on healthy diets from sustainable food systems},
 author = {Willett, Walter and Rockström, Johan and Loken, Brent and
 Springmann, Marco and Lang, Tim and Vermeulen, Sonja
 and Garnett, Tara and Tilman, David and DeClerck,
@@ -6164,7 +5905,7 @@ doi = {10.1641/0006-3568(2003)053[0341:TNC]2.0.CO;2}
 
 
 @article{HenriksenEtAl1990,
-title = { Ultraviolet-radiation and skin cancer. Effect of an ozone layer depletion},
+title = {Ultraviolet-radiation and skin cancer Effect of an ozone layer depletion},
 author = {Henriksen T and Dahlback A and Larsen S H and Moan J.},
 journal = {Photochemistry and photobiology},
 year = {1990},
@@ -6191,8 +5932,7 @@ doi = {10.1073/pnas.94.25.13735}
 
 
 @article{dosSantosEtAl2018,
-title = {Sunlight-induced genotoxicity and damage in keratin
-structures decrease tadpole performance},
+title = {Sunlight-induced genotoxicity and damage in keratin structures decrease tadpole performance},
 author = {Caroline Peripolli {dos Santos} and James Eduardo Lago
 Londero and Maurício Beux {dos Santos} and Rayana
 dos Santos Feltrin and Luiza Loebens and Livia
@@ -6213,9 +5953,7 @@ author = {Würtz, Anne Mette L and Jakobsen, Marianne U and Bertoia,
 Monica L and Hou, Tao and Schmidt, Erik B and
 Willett, Walter C and Overvad, Kim and Sun, Qi and
 Manson, JoAnn E and Hu, Frank B and Rimm, Eric B},
-title = "{Replacing the consumption of red meat with other major
-dietary protein sources and risk of type 2 diabetes
-mellitus: a prospective cohort study}",
+title = {Replacing the consumption of red meat with other major dietary protein sources and risk of type 2 diabetes mellitus: a prospective cohort study},
 journal = {The American Journal of Clinical Nutrition},
 volume = {113},
 number = {3},
@@ -6228,9 +5966,7 @@ doi = {10.1093/ajcn/nqaa284}
 
 
 @article{BecerraTomasEtAl2016,
-title = {Replacing red meat and processed red meat for white meat,
-fish, legumes or eggs is associated with lower risk
-of incidence of metabolic syndrome},
+title = {Replacing red meat and processed red meat for white meat, fish, legumes or eggs is associated with lower risk of incidence of metabolic syndrome},
 journal = {Clinical Nutrition},
 volume = {35},
 number = {6},
@@ -6250,8 +5986,7 @@ and Jordi Salas-Salvadó},
 
 
 @article{BernsteinEtAl2010,
-title = {Major Dietary Protein Sources and the Risk of Coronary Heart
-Disease in Women},
+title = {Major Dietary Protein Sources and the Risk of Coronary Heart Disease in Women},
 author = {Adam M. Bernstein and Qi Sun and Frank B. Hu and Meir
 J. Stampfer and JoAnn E. Manson and and Walter
 C. Willett},
@@ -6295,8 +6030,7 @@ doi = {10.1073/pnas.0611508104}
 
 
 @article{NagaoEtAl2012,
-title = {Meat consumption in relation to mortality from cardiovascular
-disease among Japanese men and women},
+title = {Meat consumption in relation to mortality from cardiovascular disease among Japanese men and women},
 author = {M. Nagao and H. Iso and K. Yamagishi and C. Date and
 A. Tamakoshi},
 journal = {European Journal of  Clinical Nutrition},
@@ -6313,8 +6047,7 @@ doi = {10.1038/ejcn.2012.6}
 author = {Pan, An and Sun, Qi and Bernstein, Adam M. and Schulze,
 Matthias B. and Manson, JoAnn E.
 and Willett, Walter C and Hu, Frank B.},
-title = {Red meat consumption and risk of type 2 diabetes: 3 cohorts
-of US adults and an updated meta-analysis},
+title = {Red meat consumption and risk of type 2 diabetes: 3 cohorts of US adults and an updated meta-analysis},
 journal = {The American Journal of Clinical Nutrition},
 volume = {94},
 number = {4},
@@ -6330,8 +6063,7 @@ doi = {10.3945/ajcn.111.018978}
 author = {Pan, An and Sun, Qi and Bernstein, Adam M. and Schulze,
 Matthias B. and Manson, JoAnn E. and Stampfer, Meir
 J. and Willett, Walter C and Hu, Frank B.},
-title = {Red Meat Consumption and Mortality: Results From 2
-Prospective Cohort Studies},
+title = {Red Meat Consumption and Mortality: Results From 2 Prospective Cohort Studies},
 journal = {Archives of Internal Medicine},
 volume = {172},
 number = {7},
@@ -6357,8 +6089,7 @@ doi = {10.1093/af/vfy009}
 
 
 @article{Clapper2011,
-title = {The environmental impact of beef production in the United
-States: 1977 compared with 2007},
+title = {The environmental impact of beef production in the United States: 1977 compared with 2007},
 author = {Judith L. Capper},
 journal = {Journal of Animal Science},
 year = {2011},
@@ -6371,9 +6102,7 @@ doi = {10.2527/jas.2010-3784}
 
 
 @article{Clapper2012,
-title = {Is the Grass Always Greener? Comparing the Environmental
-Impact of Conventional, Natural and Grass-Fed Beef
-Production Systems},
+title = {Is the Grass Always Greener Comparing the Environmental Impact of Conventional, Natural and Grass-Fed Beef Production Systems},
 author = {Judith L. Capper},
 journal = {Animals},
 year = {2012},
@@ -6399,9 +6128,7 @@ doi = {:10.1016/j.jclepro.2009.12.023}
 
 @article{PierrehumbertEshel2015,
 author = {R. T. Pierrehumbert and Gidon Eshel},
-title = {Climate impact of beef: An analysis considering multiple time
-scales and production methods without use of global
-warming potentials},
+title = {Climate impact of beef: An analysis considering multiple time scales and production methods without use of global warming potentials},
 year = {2015},
 journal = {Environmental Research Letters},
 volume = {10},
@@ -6530,9 +6257,7 @@ urldate = {2021-1-10}
 @techreport{EPAsab2011,
 author = {Otto C. Doering III and James N. Galloway and Thomas
 L. Theis and Deborah L. Swackhamer},
-title = {Reactive Nitrogen in the United States: An Analysis of Inputs,
-Flows, Consequences, and Management Options: A
-Report of the EPA Science Advisory Board},
+title = {Reactive Nitrogen in the United States: An Analysis of Inputs, Flows, Consequences, and Management Options: A Report of the EPA Science Advisory Board},
 number = {EPA-SAB-11-013},
 institution = {U.S. Environmental Protection Agency, Science Advisory
 Board},
@@ -6559,9 +6284,7 @@ pages = {743-757}
 
 
 @article{AherEtAl2018,
-title = {Nutritional Quality of Soybean and Wheat under Organic,
-Biodynamic and Conventional Agriculture in Semi-Arid
-Tropical Conditions of Central India},
+title = {Nutritional Quality of Soybean and Wheat under Organic, Biodynamic and Conventional Agriculture in Semi-Arid Tropical Conditions of Central India},
 
 author = {Aher, S.B. and Lakaria, B.L. and Singh, A.B. and
 Kaleshananda, Swami and Yashona, D.S.},
@@ -6579,11 +6302,7 @@ doi = {10.5958/0974-4479.2018.00022.9}
 AUTHOR = {Nelson, Alison G. and Quideau, Sylvie A. and Frick, Brenda
 and Hucl, Pierre J. and Thavarajah, Dil and
 Clapperton, M. Jill and Spaner, Dean M.},
-TITLE = {The Soil Microbial Community and Grain Micronutrient
-Concentration of Historical and Modern Hard Red
-Spring Wheat Cultivars Grown Organically and
-Conventionally in the Black Soil Zone of the
-Canadian Prairies},
+title = {The Soil Microbial Community and Grain Micronutrient Concentration of Historical and Modern Hard Red Spring Wheat Cultivars Grown Organically and Conventionally in the Black Soil Zone of the Canadian Prairies},
 JOURNAL = {Sustainability},
 VOLUME = {3},
 YEAR = {2011},
@@ -6596,9 +6315,7 @@ DOI = {10.3390/su3030500}
 
 
 @article{HunterEtAl2011,
-title = {Evaluation of the Micronutrient Composition of Plant Foods
-Produced by Organic and Conventional Agricultural
-Methods},
+title = {Evaluation of the Micronutrient Composition of Plant Foods Produced by Organic and Conventional Agricultural Methods},
 author = {Duncan Hunter and Meika Foster and Jennifer O. McArthur and
 Rachel Ojha and Peter Petocz  and Samir Samman},
 journal = {Critical Reviews in Food Science and Nutrition},
@@ -6613,8 +6330,7 @@ doi = {10.1080/10408391003721701}
 
 @article{MoharebEtAl2018,
 author = {Eugene A. Mohareb and Martin C. Heller and Peter M. Guthrie},
-title = {Cities’ Role in Mitigating United States Food System
-Greenhouse Gas Emissions},
+title = {Cities' Role in Mitigating United States Food System Greenhouse Gas Emissions},
 year = {2018},
 journal = {Environmental Science and Technology},
 volume = {52},
@@ -6672,7 +6388,7 @@ pages = {142}
 
 @incollection{Wilson2000,
 author = "Edward O. Wilson",
-title = "A Personal Brief for The Wíldlands Project",
+title = "A Personal Brief for The Wildlands Project",
 booktitle = "The Wildlands Project",
 chapter = "0",
 editor = "Tom Butler and Reed Noss",
@@ -6702,8 +6418,7 @@ isbn = {978-1785786273}
 
 
 @book{Hazen2013,
-title = {The Story of Earth: The First 4.5 Billion Years, from
-Stardust to Living Planet},
+title = {The Story of Earth: The First 4.5 Billion Years, from Stardust to Living Planet},
 author = {Robert M. Hazen},
 year = {2013},
 pages = {320},
@@ -6715,8 +6430,7 @@ isbn = {978-0143123644}
 
 
 @book{Steinhardt2019,
-title = {The Second Kind of Impossible: The Extraordinary Quest for a
-New Form of Matter},
+title = {The Second Kind of Impossible: The Extraordinary Quest for a New Form of Matter},
 author = {Paul Steinhardt},
 year = {2019},
 pages = {400},
@@ -6728,8 +6442,7 @@ isbn = {978-1476729923}
 
 
 @book{Pimm1992,
-title = {The Balance of Nature?  Ecological Issues in the Conservation
-of Species and Communities},
+title = {The Balance of Nature Ecological Issues in the Conservation of Species and Communities},
 author = {Stuart L. Pimm},
 year = {1992},
 pages = {448},
@@ -6777,8 +6490,7 @@ address = {New York NY},
 
 
 @misc{Pollan2016,
-title = {Big Food Strikes Back: Why did the Obamas fail to take on
-corporate agriculture?},
+title = {Big Food Strikes Back: Why did the Obamas fail to take on corporate agriculture},
 author = {Michael Pollan},
 journal = {The New York TImes Magazine},
 publisher = {The New York TImes},
@@ -6789,8 +6501,7 @@ date = {October 9, 2016}
 
 
 @misc{Yee2023,
-title = {Tunisian Cave Village Empties Out in Face of Drought and
-Modernity’s Draw},
+title = {Tunisian Cave Village Empties Out in Face of Drought and Modernity's Draw},
 author = {Vivian Yee},
 journal = {The New York TImes},
 publisher = {The New York TImes},
@@ -6801,7 +6512,7 @@ date = {january 19, 2023}
 
 
 @misc{Heid2016,
-title = {Experts Say Lobbying Skewed the U.S. Dietary Guidelines.},
+title = {Experts Say Lobbying Skewed the U.S. Dietary Guidelines},
 author = {Markham Heid},
 jurnal = {Time},
 date = {January 8, 2016}
@@ -6811,7 +6522,7 @@ date = {January 8, 2016}
 
 @misc{Moodie2016,
 author = {Alison Moodie},
-title = {Before you read another health study, check who's funding the research.},
+title = {Before you read another health study, check who's funding the research},
 journal = {The Guardian},
 year = {2016},
 date = {Decemeber 12 2016}
@@ -6831,8 +6542,7 @@ isbn = {978-0870813863}
 
 
 @book{Foreman2004,
-title = {Rewilding North America A Vision For Conservation In The 21St
-Century},
+title = {Rewilding North America A Vision For Conservation In The 21St Century},
 author = {Dave Foreman},
 year = {2004},
 isbn = {9781559630610},
@@ -6858,9 +6568,7 @@ doi = {10.1038/s41558-018-0360-1}
 @article{SiriTarinoEtAl2015,
 author = {Siri-Tarino, Patty W. and Chiu, Sally and Bergeron, Nathalie
 and Krauss, Ronald M.},
-title = {Saturated Fats Versus Polyunsaturated Fats Versus
-Carbohydrates for Cardiovascular Disease Prevention
-and Treatment},
+title = {Saturated Fats Versus Polyunsaturated Fats Versus Carbohydrates for Cardiovascular Disease Prevention and Treatment},
 journal = {Annual Review of Nutrition},
 volume = {35},
 number = {1},
@@ -6874,9 +6582,7 @@ doi = {10.1146/annurev-nutr-071714-034449}
 @article{HodgsonEtAl2006,
 author = {Hodgson, Jonathan M and Burke, Valerie and Beilin, Lawrence
 J and Puddey, Ian B},
-title = {Partial substitution of carbohydrate intake with protein
-intake from lean red meat lowers blood pressure in
-hypertensive persons},
+title = {Partial substitution of carbohydrate intake with protein intake from lean red meat lowers blood pressure in hypertensive persons},
 journal = {The American Journal of Clinical Nutrition},
 volume = {83},
 number = {4},
@@ -6890,7 +6596,7 @@ doi = {10.1093/ajcn/83.4.780}
 
 @article{Niman2009,
 author = {Nicolette Hahn Niman},
-title = {The Carnivore’s Dilemma.},
+title = {The Carnivore’s Dilemma},
 year = {2009},
 journal = {The New York TImes},
 date = {October 30 2009}
@@ -6900,7 +6606,7 @@ date = {October 30 2009}
 
 @article{Niman2011,
 author = {Nicolette Hahn Niman},
-title = {Defending 'Foodies': A Rancher Takes a Bite out of B. R. Myers},
+title = {Defending 'Foodies': A Rancher Takes a Bite out of BR Myers},
 year = {2011},
 journal = {The Atlantic},
 date = {February 17 2011}
@@ -6909,7 +6615,7 @@ date = {February 17 2011}
 
 
 @misc{Arends2020,
-title = {‘Totally bizarre!’ — nutritionists see red over study downplaying the serious health risks of red meat.},
+title = {‘Totally bizarre!’ — nutritionists see red over study downplaying the serious health risks of red meat},
 year = {2020},
 author = {Brett Arends},
 journal = {Market Watch},
@@ -6931,7 +6637,7 @@ date = {March 3 2022}
 
 
 @misc{Reynolds2012,
-title = {Can Athletes Perform Well on a Vegan Diet?},
+title = {Can Athletes Perform Well on a Vegan Diet},
 author = {Gretchen Reynolds},
 year = {2012},
 journal = {The New York Times},
@@ -6942,7 +6648,7 @@ date = {June 20, 2012}
 
 @misc{Bloom2009,
 author = {Lois Bloom},
-note = {Letter to the Editor; author is of Easton, CT},
+title = {Letter to the Editor author is of Easton CT.},
 date = {November 2 2009},
 journal = {The New York Times},
 year = {2009}
@@ -7003,7 +6709,7 @@ urldate = {2021-07-01}
 
 
 @misc{EilperinDennis2017,
-title = {How James Inhofe is upending the nation’s energy and environmental policies},
+title = {How James Inhofe is upending the nation's energy and environmental policies},
 author = {Juliet Eilperin and Brady Dennis},
 publication = {Washington Post},
 year = {2017},
@@ -7013,8 +6719,7 @@ date = {March 14, 2017}
 
 
 @misc{Reiley2020,
-title = {Author of study saying red meat is fine failed to disclose
-industry funding, journal reveals},
+title = {Author of study saying red meat is fine failed to disclose industry funding, journal reveals},
 publication = {Washington Post},
 author = {Laura Reiley},
 year = {2020},
@@ -7029,8 +6734,7 @@ urldate = {2021-06-25}
 
 
 @misc{Reiley2019,
-title = {Research group that discounted risks of red meat has ties to
-program partly backed by beef industry},
+title = {Research group that discounted risks of red meat has ties to program partly backed by beef industry},
 publication = {Washington Post},
 author = {Laura Reiley},
 year = {2019},
@@ -7060,7 +6764,7 @@ urldate = {2021-06-24}
 
 
 @misc{USDAfoodData,
-title = {Food Data: USDA Nutrtional Database},
+title = {Food Data: USDA Nutrtional Database.},
 author = {USDA-ARS},
 url = {\url{https://fdc.nal.usda.gov}},
 institution = {United States Department of Agriculture, Agricultural
@@ -7179,8 +6883,7 @@ doi = {10.5713/ajas.18.0428}
 
 @article{HayekGarrett2018,
 author = {Matthew N. Hayek and Rachael D. Garrett},
-title = {Nationwide shift to grass-fed beef requires larger cattle
-population},
+title = {Nationwide shift to grass-fed beef requires larger cattle population},
 journal = {Environmental Research Letters},
 year = {2018},
 volume = {13},
@@ -7194,10 +6897,7 @@ doi = {10.1088/1748-9326/aad401}
 @article{MaherEtAl2021,
 author = {A. T. Maher an d and N. E. Quintana Ashwell and K. A. Maczko and
 D. T. Taylor and J. A. Tanaka and M. C. Reeves},
-title = {Valuation of beef cattle ecosystem services An economic
-valuation of federal and private grazing lands
-ecosystem services supported by beef cattle ranching
-in the U.S.},
+title = {Valuation of beef cattle ecosystem services An economic valuation of federal and private grazing lands ecosystem services supported by beef cattle ranching in the U.S.},
 journal = {Translational Animal Science},
 year = {2021},
 month = {05},
@@ -7210,9 +6910,7 @@ doi = {10.1093/tas/txab054}
 
 @article{OgleEtAl2004,
 author = {Ogle, S. and Conant, R. and Paustian, K.},
-title = {Deriving Grassland Management Factors for a Carbon Accounting
-Method Developed by the Intergovernmental Panel on
-Climate Change},
+title = {Deriving Grassland Management Factors for a Carbon Accounting Method Developed by the Intergovernmental Panel on Climate Change},
 journal = {Environmental Management},
 volume = {33},
 pages = {474-484},
@@ -7267,10 +6965,7 @@ doi = "10.1007/978-3-642-10637-8_34"
 
 
 @article{PengEtAl2018,
-title = {Adherence to the Mediterranean diet was positively associated
-with micronutrient adequacy and negatively
-associated with dietary energy density among
-adolescents},
+title = {Adherence to the Mediterranean diet was positively associated with micronutrient adequacy and negatively associated with dietary energy density among adolescents},
 author = {W. Peng and E. M. Berry and R. Goldsmith},
 journal = {The Journal of Human Nutrition and Dietetics},
 year = {2019},
@@ -7310,9 +7005,7 @@ doi = {10.3945/ajcn.116.139535}
 
 
 @article{TidballEtAl2014,
-title = {The Absence of Wild Game and Fish Species from the USDA
-National Nutrient Database for Standard Reference:
-Addressing Information Gaps in Wild Caught Foods},
+title = {The Absence of Wild Game and Fish Species from the USDA National Nutrient Database for Standard Reference: Addressing Information Gaps in Wild Caught Foods},
 author = {Moira M. Tidball and Keith G. Tidball and Paul Curtis},
 journal = {Ecology of Food and Nutrition},
 volume = {53},
@@ -7343,7 +7036,7 @@ doi = {10.3945/ajcn.116.139535}
 }
 
 @article{CambesesFrancoEtAl2021,
-title = {Is the Paleo diet safe for health and the environment?},
+title = {Is the Paleo diet safe for health and the environment},
 author = {Cristina Cambeses-Franco and Sara González-García and
 Gumersindo Feijoo and María Teresa Moreira},
 journal = {Science of The Total Environment},
@@ -7357,8 +7050,7 @@ doi = {10.1016/j.scitotenv.2021.146717},
 
 @article{EshelEtAl2016,
 author = {Gidon Eshel and Alon Shepon and Elad Noor and Ron Milo},
-title = {Environmentally optimal, nutritionally aware beef replacement
-plant-based diets},
+title = {Environmentally optimal, nutritionally aware beef replacement plant-based diets},
 journal = {Environmental science \& technology},
 volume = {50},
 issue = {15},
@@ -7372,8 +7064,7 @@ doi = {10.1021/acs.est.6b01006}
 @article{EshelEtAl2019a,
 author = {Eshel, Gidon and Dayalu, Archana and Wofsy, Steven C. and
 Munger, J. William and Tziperman, Eli},
-title = {Listening to the Forest: An Artificial Neural Network-Based
-Model of Carbon Uptake at Harvard Forest},
+title = {Listening to the Forest: An Artificial Neural Network-Based Model of Carbon Uptake at Harvard Forest},
 journal = {Journal of Geophysical Research: Biogeosciences},
 volume = {124},
 number = {3},
@@ -7387,9 +7078,7 @@ year = {2019}
 @article{EshelEtAl2019,
 author = {Gidon Eshel and Paul Stainier and Alon Shepon and Akshay
 Swaminathan},
-title = {Environmentally Optimal, Nutritionally Sound, Protein and
-Energy Conserving Plant Based Alternatives to
-U.S. Meat},
+title = {Environmentally Optimal, Nutritionally Sound, Protein and Energy Conserving Plant-Based Alternatives to U.S. Meat},
 year = {2019},
 journal = {Scientific Reports},
 volume = {9},
@@ -7415,9 +7104,7 @@ doi = {10.1038/s41559-017-0390-5}
 
 @article{SheponEtAl2016,
 author = {Alon Shepon and Gidon Eshel and Elad Noor and Ron Milo},
-title = {Energy and protein feed-to-food conversion efficiencies in
-the US and potential food security gains from
-dietary changes},
+title = {Energy and protein feed-to-food conversion efficiencies in the US and potential food security gains from dietary changes},
 year = {2016},
 journal = {Environmental Research Letters},
 volume = {11},
@@ -7430,9 +7117,7 @@ doi = {10.1088/1748-9326/11/10/105002}
 
 @article{EshelEtAl2014a,
 author = {Gidon Eshel and Alon Shepon and Tamar Makov and Ron Milo},
-title = {Land, irrigation water, greenhouse gas, and reactive
-nitrogen burdens of meat, eggs, and dairy production
-in the United States},
+title = {Land, irrigation water, greenhouse gas, and reactive nitrogen burdens of meat, eggs, and dairy production in the United States},
 year = {2014},
 journal = {Proceedings of the National Academy of Sciences},
 volume = {111},
@@ -7445,9 +7130,7 @@ doi = {10.1073/pnas.1402183111}
 
 @article{EshelEtAl2014b,
 author = {Gidon Eshel and Alon Shepon and Tamar Makov and Ron Milo},
-title = {Partitioning United States' feed consumption among
-livestock categories for improved environmental cost
-assessments},
+title = {Partitioning United States' feed consumption among livestock categories for improved environmental cost assessments},
 year = {2014},
 journal = {The Journal of Agricultural Science },
 volume = {153},
@@ -7459,8 +7142,7 @@ doi = {10.1017/S0021859614000690}
 
 
 @book{Ketcham2019,
-title = {This Land: How Cowboys, Capitalism, and Corruption are
-Ruining the American West},
+title = {This Land: How Cowboys, Capitalism, and Corruption are Ruining the American West},
 author = {Christopher Ketcham},
 year = {2019},
 isbn = {978-0735220980},
@@ -7477,8 +7159,7 @@ Garine-Wichatitsky, M. and Perrotton, A. and
 Courbin, N. and Miguel, E. and Guerbois, C. and
 Caron, A. and Loveridge, A. and Stapelkamp, B. and
 Muzamba, M. and Fritz, H.},
-title = {Water and cattle shape habitat selection by wild herbivores
-at the edge of a protected area},
+title = {Water and cattle shape habitat selection by wild herbivores at the edge of a protected area},
 journal = {Animal Conservation},
 volume = {21},
 number = {5},
@@ -7492,8 +7173,7 @@ year = {2018}
 @article{DiBitettiEtAl2020,
 author = {Mario S. {Di Bitetti} and María Eugenia Iezzi and Paula Cruz
 and Diego Varela and Carlos {De Angelo}},
-title = {Effects of cattle on habitat use and diel activity of large
-native herbivores in a South American rangeland},
+title = {Effects of cattle on habitat use and diel activity of large native herbivores in a South American rangeland},
 journal = {Journal for Nature Conservation},
 volume = {58},
 pages = {125900},
@@ -7504,7 +7184,7 @@ doi = {10.1016/j.jnc.2020.125900},
 
 
 @misc {Jaster2021,
-title = {Ditching meat isn't the answer for climate change. Better farming is},
+title = {Ditching meat isn't the answer for climate change Better farming is},
 author = {Kyle Jaster},
 year = {2021},
 date = {May 14},
@@ -7519,8 +7199,7 @@ urldate = {2021-06-23},
 
 
 @misc{IPBES2019,
-title = {Global assessment report on biodiversity and ecosystem
-services},
+title = {Global assessment report on biodiversity and ecosystem services},
 author = {S. Diaz and J. Settele and E. S. Brondízio et al.},
 institution = {IPBES, the Intergovernmental Science-Policy Platform
 on Biodiversity and Ecosystem Services},
@@ -7537,8 +7216,7 @@ doi = {10.5281/zenodo.3553579}
 @article{DettenmaierEtAl2017,
 author = {Seth J. Dettenmaier and Terry A. Messmer and Torre J. Hovick
 and David K. Dahlgren},
-title = {Effects of livestock grazing on rangeland biodiversity: A
-meta-analysis of grouse populations},
+title = {Effects of livestock grazing on rangeland biodiversity: A meta-analysis of grouse populations},
 journal = {Ecology and Evolution},
 volume = {7},
 issue = {19},
@@ -7629,8 +7307,7 @@ urldate = {2021-07-7}
 
 @book{Schaff2017,
 author = "Philip Schaff",
-title = "History of the Christian Church, Volume II:
-Ante-Nicene Christianity. A.D. 100-325",
+title = "History of the Christian Church, Volume II: Ante-Nicene Christianity AD 100-325",
 year = "2017",
 isbn = "978-1520593401",
 publisher = "Independently published",
@@ -7667,8 +7344,7 @@ doi = {10.1016/j.quascirev.2009.05.023}
 
 
 @article{SingarayerEtAl2011,
-title = {Late Holocene methane rise caused by orbitally controlled
-increase in tropical sources},
+title = {Late Holocene methane rise caused by orbitally controlled increase in tropical sources},
 author = {J. Singarayer and P. Valdes and P. Friedlingstein and Sarah
 R Nelson and D. Beerling},
 journal = {Nature},
@@ -7681,8 +7357,7 @@ doi = {10.1038/nature09739}
 
 
 @article{ZinkLieberman2016,
-title = {Impact of meat and Lower Palaeolithic food processing
-techniques on chewing in humans},
+title = {Impact of meat and Lower Palaeolithic food processing techniques on chewing in humans},
 author = {Katherine D. Zink and Daniel E. Lieberman},
 journal = {Nature},
 volume = {531},
@@ -7700,8 +7375,7 @@ PMID: 28579800
 
 @article{WilliamsHill2017,
 author = {Adrian C Williams and Lisa J Hill},
-title = {Meat and Nicotinamide: A Causal Role in Human Evolution,
-History, and Demographics},
+title = {Meat and Nicotinamide: A Causal Role in Human Evolution, History, and Demographics},
 journal = {International Journal of Tryptophan Research},
 year = {2017},
 volume = {10},
@@ -7724,8 +7398,7 @@ doi = {10.1590/S0100-84551997000100023}
 
 
 @article{PoulsenEtAl2008,
-title = {Why epidemiological and clinical intervention studies often
-give different or diverging results?},
+title = {Why epidemiological and clinical intervention studies often give different or diverging results},
 author = {Henrik E. Poulsen and Jon Traerup Andersen and Niels Keiding
 and Tina Ken Schramm and Rikke Sorensen and Gunnar
 Gislasson and Emil Loldrup Fosbol and Christian
@@ -7743,9 +7416,7 @@ doi = {10.1002/iub.141}
 @article{YoonEtAl2000,
 author = {Yoon H. and Benamouzig R. and Little J. and
 Francois-Collange M. and Tome D.},
-title = {Systematic review of epidemiological studies on meat, dairy
-products and egg consumption and risk of colorectal
-adenomas},
+title = {Systematic review of epidemiological studies on meat, dairy products and egg consumption and risk of colorectal adenomas},
 journal = {European Journal of Cancer Prevention},
 year = {2000},
 volume = {9},
@@ -7756,7 +7427,7 @@ pages = {151-164}
 
 
 @article{MariottiGardner2019,
-title = {Dietary Protein and Amino Acids in Vegetarian Diets—A Review},
+title = {Dietary Protein and Amino Acids in Vegetarian Diets-A Review},
 author = {Francois Mariotti and Christopher D. Gardner},
 journal = {Nutrients},
 year = {2019},
@@ -7772,10 +7443,7 @@ doi = {10.3390/nu11112661}
 author = {Gardner, Christopher D. and Hartle, Jennifer C. and Garrett,
 Rachael D. and Offringa, Lisa C. and Wasserman,
 Arlin S.},
-title = {Maximizing the intersection of human health and the health
-of the environment with regard to the amount and
-type of protein produced and consumed in the United
-States},
+title = {Maximizing the intersection of human health and the health of the environment with regard to the amount and type of protein produced and consumed in the United States},
 journal = {Nutrition Reviews},
 volume = {77},
 number = {4},
@@ -7830,8 +7498,7 @@ doi = {10.1080/02646811.2016.1133983}
 
 
 @article{KatzEtAl2019,
-title = {Perspective: The Public Health Case for Modernizing the
-Definition of Protein Quality},
+title = {Perspective: The Public Health Case for Modernizing the Definition of Protein Quality},
 author = {David L Katz and Kimberly N Doughty an Kate Geagan and David
 A Jenkins an Christopher D Gardner},
 journal = {Advances in Nutrition},
@@ -7859,9 +7526,7 @@ doi = {10.1002/1099-1212(200009/10)10:5<281::AID-OA568>3.0.CO;2-9}
 @article{StockerEtAl2017,
 author = {Stocker, Benjamin David and Yu, Zicheng and Massa,
 Charly and Joos, Fortunat},
-title = {Holocene peatland and ice-core data constraints on
-the timing and magnitude of CO2 emissions from past
-land use},
+title = {Holocene peatland and ice-core data constraints on the timing and magnitude of CO2 emissions from past land use},
 volume = {114},
 number = {7},
 pages = {1492-1497},
@@ -7908,9 +7573,7 @@ author = {Claire C. Treat and Miriam C. Jones and Laura Brosius and
 Guido Grosse and Katey Walter Anthony and Steve Frolking},
 journal = {Quaternary Science Reviews},
 pages = {},
-title = {The role of wetland expansion and successional processes in
-methane emissions from northern wetlands during the
-Holocene},
+title = {The role of wetland expansion and successional processes in methane emissions from northern wetlands during the Holocene},
 volume = {257},
 number = {106864},
 year = {2021},
@@ -7925,8 +7588,7 @@ D. W. Beilman and O. K. Borisova and K. E. Frey and
 K. V. Kremenetski and Y. Sheng},
 journal = {Science},
 pages = {353-356},
-title = {Siberian Peatlands a Net Carbon Sink and Global Methane
-Source Since the Early Holocene},
+title = {Siberian Peatlands a Net Carbon Sink and Global Methane Source Since the Early Holocene},
 volume = {303},
 number = {5656},
 year = {2004},
@@ -7951,8 +7613,7 @@ doi = {10.1007/s10682-016-9821-z}
 author = {Christoph Ratzke and Jeff Gore},
 journal = {PLOS Biology},
 pages = {e2004248},
-title = {Modifying and reacting to the environmental pH can drive
-bacterial interactions},
+title = {Modifying and reacting to the environmental pH can drive bacterial interactions},
 volume = {16},
 number = {3},
 year = {2018},
@@ -7991,8 +7652,7 @@ doi = {10.1073/pnas.1018700108}
 author = {W. F. Ruddiman and J. E. Kutzbach and S. J. Vavrus},
 journal = {The Holocene},
 pages = {865-879},
-title = {Can natural or anthropogenic explanations of late-Holocene
-CO$_2$ and CH$_4$ increases be falsified?},
+title = {Can natural or anthropogenic explanations of late-Holocene CO2 and CH4 increases be falsified},
 volume = {21},
 number = {5},
 year = {2011},
@@ -8008,9 +7668,7 @@ Ralph Fyfe and Laurent Marquer and Florence
 Mazier and Anne Birgitte Nielsen},
 journal = {Land},
 pages = {91},
-title = {Constraining the Deforestation History of Europe: Evaluation
-of Historical Land Use Scenarios with Pollen-Based
-Land Cover Reconstructions},
+title = {Constraining the Deforestation History of Europe: Evaluation of Historical Land Use Scenarios with Pollen-Based Land Cover Reconstructions},
 volume = {6},
 number = {4},
 year = {2017},
@@ -8020,9 +7678,7 @@ doi = {10.3390/land6040091 }
 
 
 @article{RahamanEtAl2021,
-title = {The increasing hunger concern and current need in the
-development of sustainable food security in the
-developing countries},
+title = {The increasing hunger concern and current need in the development of sustainable food security in the developing countries},
 author = {Abdul Rahaman and Ankita Kumari and Xin-An Zeng and Ibrahim
 Khalifa and Muhammad Adil Farooq and Narpinder Singh
 and Shahid Ali and Mahafooj Alee and Rana Muhammad
@@ -8079,8 +7735,7 @@ pages = "368"
 author = {Klein Goldewijk, K. and Beusen, A. and van Drecht, G. and de Vos, M.},
 journal = {Global Ecology and Biogeography},
 pages = {73-86},
-title = {The HYDE 3.1 spatially explicit database of human-induced
-global land-use change over the past 12,000 years},
+title = {The HYDE 3.1 spatially explicit database of human-induced global land-use change over the past 12,000 years},
 volume = {20},
 year = {2011},
 doi = {10.1111/j.1466-8238.2010.00587.x}
@@ -8090,8 +7745,7 @@ doi = {10.1111/j.1466-8238.2010.00587.x}
 
 @book{Ruddiman2005,
 author = "William F. Ruddiman",
-title = "Plows, Plagues, and Petroleum: How Humans Took
-Control of Climate",
+title = "Plows, Plagues, and Petroleum: How Humans Took Control of Climate",
 year = "2005",
 isbn = "0691121648",
 publisher = "Princeton University Press",
@@ -8121,7 +7775,7 @@ C. Lemmen and J. Woodbridge},
 journal = {Reviews of Geophysics},
 number = {1},
 pages = {93-118},
-title = {Late Holocene climate: Natural or anthropogenic?},
+title = {Late Holocene climate: Natural or anthropogenic},
 volume = {54},
 year = {2016},
 doi = {10.1002/2015RG000503}
@@ -8144,8 +7798,7 @@ doi = {10.1029/2006RG000207}
 
 
 @misc{IPCC2023AR6SYR,
-title = {Synthesis Report of the IPCC Sixth Assessment
-Report (AR6)},
+title = {Synthesis Report of the IPCC Sixth Assessment Report (AR6)},
 editor = {Hoesung Lee and Katherine Calvin et al.},
 year = {2023},
 key = {IPCC AR6 SYR},
@@ -8192,10 +7845,7 @@ address = {Cambridge, United Kingdom and New York, NY, USA}
 
 
 @inbook{IPCC2001,
-title = "Climate Change 2001: The Scientific
-Basis. Contribution of Working Group I to the Third
-Assessment Report of the Intergovernmental Panel on
-Climate Change",
+title = "Climate Change 2001: The Scientific Basis Contribution of Working Group I to the Third Assessment Report of the Intergovernmental Panel on Climate Change",
 editor = {J. T. Houghton and Y. Ding and D. J. Griggs and
 M. Noguer and P. J. van der Linden and X. Dai and
 K. Maskell and C. A. Johnson},
@@ -8209,9 +7859,7 @@ pages = "881"
 
 
 @article{LiEtAl2022,
-title = {Woody plant encroachment of grassland and the reversibility
-of shrub dominance: Erosion, fire, and feedback
-processes},
+title = {Woody plant encroachment of grassland and the reversibility of shrub dominance: Erosion, fire, and feedback processes},
 author = {Junran Li and Sujith Ravi and Guan Wang and R. Scott Van
 Pelt and Thomas E. Gill and Joel B. Sankey},
 journal = {Ecosphere},
@@ -8259,10 +7907,7 @@ year = {2012},
 
 
 @inbook{IPCC2013wg1,
-title = "Climate Change 2013: The Physical Science
-Basis. Contribution of Working Group I to the Fifth
-Assessment Report of the Intergovernmental Panel on
-Climate Change",
+title = "Climate Change 2013: The Physical Science Basis Contribution of Working Group I to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change",
 editor = "Stocker, T. F. and D. Qin and G.-K. Plattnerand
 M. Tignor and S. K. Allen and J. Boschung and
 A. Nauels and Y. Xia and V. Bex and P. M. Midgley",
@@ -8276,9 +7921,7 @@ pages = "1535"
 
 
 @article{HancockVallely2020,
-title = {Effects of grazing exclusion on soil organic carbon:
-Hillslope and soil profile results (an Australian
-example)},
+title = {Effects of grazing exclusion on soil organic carbon: Hillslope and soil profile results (an Australian example)},
 journal = {Science of The Total Environment},
 volume = {705},
 month = {February},
@@ -8309,9 +7952,7 @@ author = {Chang, Qing and Xu, Tongtong and Ding, Shiwen and Wang, Ling
 and Liu, Jushan and Wang, Deli and Wang, Ying and
 Li, Zhiqiang and Zhao, Xuan and Song, Xuxin and Pan,
 Duofeng},
-title = {Herbivore Assemblage as an Important Factor Modulating
-Grazing Effect on Ecosystem Carbon Fluxes in a
-Meadow Steppe in Northeast China},
+title = {Herbivore Assemblage as an Important Factor Modulating Grazing Effect on Ecosystem Carbon Fluxes in a Meadow Steppe in Northeast China},
 journal = {Journal of Geophysical Research: Biogeosciences},
 volume = {125},
 number = {9},
@@ -8323,9 +7964,7 @@ year = {2020}
 
 
 @article{MosierEtAl2021,
-title = {Adaptive multi-paddock grazing enhances soil carbon and
-nitrogen stocks and stabilization through mineral
-association in southeastern U.S. grazing lands},
+title = {Adaptive multi-paddock grazing enhances soil carbon and nitrogen stocks and stabilization through mineral association in southeastern U.S. grazing lands},
 author = {Samantha Mosier and Steven Apfelbaum and Peter Byck and
 Francisco Calderon and Richard Teague and Ry
 Thompson and M. Francesca Cotrufo},
@@ -8339,9 +7978,7 @@ doi = {10.1016/j.jenvman.2021.112409}
 
 
 @article{TeagueEtAl2011,
-title = {Grazing management impacts on vegetation, soil biota and soil
-chemical, physical and hydrological properties in
-tall grass prairie},
+title = {Grazing management impacts on vegetation, soil biota and soil chemical, physical and hydrological properties in tall grass prairie},
 author = {W. R.Teague and S. L. Dowhower and S. A. Baker and N.Haile
 and P. B. DeLaune and D. M.Conover},
 journal = {Agriculture, Ecosystems \& Environment},
@@ -8355,8 +7992,7 @@ doi = {10.1016/j.agee.2011.03.009}
 
 
 @article{TeagueKreuter2020,
-title = {Managing Grazing to Restore Soil Health, Ecosystem Function,
-and Ecosystem Services},
+title = {Managing Grazing to Restore Soil Health, Ecosystem Function, and Ecosystem Services},
 author = {Richard Teague and Urs Kreuter},
 journal = {Frontiers in Sustainable Food Systems},
 volume = {29},
@@ -8367,9 +8003,7 @@ doi = {10.3389/fsufs.2020.534187}
 
 
 @article{TeagueEtAl2013,
-title = {Multi-paddock grazing on rangelands: Why the perceptual
-dichotomy between research results and rancher
-experience?},
+title = {Multi-paddock grazing on rangelands: Why the perceptual dichotomy between research results and rancher experience},
 author = {Richard Teague and Fred Provenza and Urs Kreuter and Tim
 Steffens and Matt Barnes},
 journal = {Journal of Environmental Management},
@@ -8382,8 +8016,7 @@ doi = {10.1016/j.jenvman.2013.05.064}
 
 
 @article{TeagueEtAl2016,
-title = {The role of ruminants in reducing agriculture's carbon
-footprint in North America},
+title = {The role of ruminants in reducing agriculture's carbon footprint in North America},
 author = {W. R. Teague and S. Apfelbaum and R. Lal and U. P. Kreuter
 and J. Rowntree and C. A. Davies and R. Conser and
 M. Rasmussen and J. Hatfield and T. Wang and F. Wang
@@ -8518,8 +8151,7 @@ M. Schoeneberger and J. Six and C. van Kessel and
 R. Venterea and T. West",
 editor = "Eve, M. and D. Pape and M. Flugge and R. Steele and
 D. Man and M. Riley-Gilbert and S. Biggar",
-title = "Quantifying Greenhouse Gas Sources and Sinks in
-Cropland and Grazing Land Systems",
+title = "Quantifying Greenhouse Gas Sources and Sinks in Cropland and Grazing Land Systems",
 booktitle = "Quantifying Greenhouse Gas Fluxes in Agriculture
 and Forestry: Methods for Entity-Scale Inventory",
 year = 2014,
@@ -8684,7 +8316,7 @@ doi = {10.1073/pnas.1906908116}
 
 
 @article{SatijaHua2019,
-title = { Plant-based diets and cardiovascular health},
+title = {Plant-based diets and cardiovascular health},
 author = {Ambika Satija and Frank B. Hu},
 journal = {Trends in Cardiovascular Medicine},
 year = {2018},
@@ -8697,9 +8329,7 @@ doi = {10.1016/j.tcm.2018.02.004}
 
 
 @article{SatijaEtAl2016,
-title = {Plant-Based Dietary Patterns and Incidence of Type 2 Diabetes
-in US Men and Women: Results from Three Prospective
-Cohort Studies},
+title = {Plant-Based Dietary Patterns and Incidence of Type 2 Diabetes in US Men and Women: Results from Three Prospective Cohort Studies},
 author = {Ambika Satija and Shilpa N. Bhupathiraju and Eric B. Rimm
 and Donna Spiegelman and Stephanie E. Chiuve and Lea
 Borgi and Walter C. Willett and JoAnn E. Manson and
@@ -8717,9 +8347,7 @@ doi = {10.1371/journal.pmed.1002039}
 @article{DinuEtAl2017,
 author = {Monica Dinu and Rosanna Abbate and Gian Franco Gensini and
 Alessandro Casini and Francesco Sofi},
-title = {Vegetarian, vegan diets and multiple health outcomes: A
-systematic review with meta-analysis of
-observational studies},
+title = {Vegetarian, vegan diets and multiple health outcomes: A systematic review with meta-analysis of observational studies},
 journal = {Critical Reviews in Food Science and Nutrition},
 volume = {57},
 number = {17},
@@ -8731,8 +8359,7 @@ doi = {10.1080/10408398.2016.1138447}
 
 
 @article{IguacelEtAl2019,
-title = {Veganism, vegetarianism, bone mineral density, and fracture
-risk: a systematic review and meta-analysis},
+title = {Veganism, vegetarianism, bone mineral density, and fracture risk: a systematic review and meta-analysis},
 author = {Isabel Iguacel and Maria L. Miguel-Berges and Alejandro
 Gomez-Bruton and Luis A. Moreno and Cristina Julian},
 journal = {Nutrition Reviews},
@@ -8746,9 +8373,7 @@ doi = {10.1093/nutrit/nuy045}
 
 
 @article{ZelberSagiEtAl2018,
-title = {High red and processed meat consumption is associated with
-non-alcoholic fatty liver disease and insulin
-resistance},
+title = {High red and processed meat consumption is associated with non-alcoholic fatty liver disease and insulin resistance},
 author = {Shira Zelber-Sagi and Dana Ivancovsky-Wajcman and Naomi
 {Fliss Isakov} and Muriel Webb and Dana Orenstein
 and Oren Shibolet and Revital Kariv},
@@ -8763,8 +8388,7 @@ doi = {10.1016/j.jhep.2018.01.015}
 
 
 @article{FrielEtAl2009,
-title = {Public health benefits of strategies to reduce greenhouse-gas
-emissions: food and agriculture},
+title = {Public health benefits of strategies to reduce greenhouse-gas emissions: food and agriculture},
 author = {Sharon Friel and Alan D. Dangour and Tara Garnett and Karen
 Lock and Zaid Chalabi and Ian Roberts and Ainslie
 Butler and Colin D. Butler and Jeff Waage and
@@ -8780,9 +8404,7 @@ doi = {10.1016/S0140-6736(09)61753-0}
 
 
 @article{VanHeckeEtAl2016,
-title = {Short-term beef consumption promotes systemic oxidative
-stress, TMAO formation and inflammation in rats, and
-dietary fat content modulates these effects},
+title = {Short-term beef consumption promotes systemic oxidative stress, TMAO formation and inflammation in rats, and dietary fat content modulates these effects},
 author = {Thomas Van Hecke and Louise M. A. Jakobsen and Els Vossen
 and Francoise Gueraud and Filip De Vos and Fabrice
 Pierre and Hanne C. S. Bertram and Stefaan De Smet},
@@ -8809,9 +8431,7 @@ doi = {10.1080/01635581.2018.1460684}
 
 
 @article{WannametheeEtAl2018,
-title = {Serum Conjugated Linoleic Acid and Risk of Incident Heart
-Failure in Older Men: The British Regional Heart
-Study},
+title = {Serum Conjugated Linoleic Acid and Risk of Incident Heart Failure in Older Men: The British Regional Heart Study},
 author = {S. Goya Wannamethee and Barbara J. Jefferis and Lucy Lennon
 and Olia Papacosta and Peter H. Whincup and Aroon
 D. Hingoran},
@@ -8843,10 +8463,7 @@ author = {de Souza, R. J. and Mente, A. and Maroleanu, A. and Cozma,
 A. I. and Ha, V. and Kishibe, T. and Uleryk, E. and
 Budylowski, P. and Schunemann H. and Beyene, J. and
 Anand, S. S.},
-title = {Intake of saturated and trans unsaturated fatty acids and
-risk of all cause mortality, cardiovascular disease,
-and type 2 diabetes: systematic review and
-meta-analysis of observational studies},
+title = {Intake of saturated and trans unsaturated fatty acids and risk of all cause mortality, cardiovascular disease, and type 2 diabetes: systematic review and meta-analysis of observational studies},
 journal = {British Medical Journal},
 year = {2015},
 volume = {351},
@@ -8858,8 +8475,7 @@ doi = {10.1136/bmj.h3978}
 
 @article{BrouwerEtAl2013,
 author = {Brouwer, I. A. and Wanders, A. J. and Katan, M. B.},
-title = {Trans fatty acids and cardiovascular health: research
-completed?},
+title = {Trans fatty acids and cardiovascular health: research completed},
 journal = {European Journal of Clinical Nutrition},
 year = {2013},
 volume = {67},
@@ -8870,8 +8486,7 @@ doi = {10.1038/ejcn.2013.43}
 
 
 @article{ChanEtAl2011,
-title = {Red and Processed Meat and Colorectal Cancer Incidence:
-Meta-Analysis of Prospective Studies},
+title = {Red and Processed Meat and Colorectal Cancer Incidence: Meta-Analysis of Prospective Studies},
 author = {Doris S. M. Chan and Rosa Lau and Dagfinn Aune and Rui
 Vieira and Darren C. Greenwood and Ellen Kampman and
 Teresa Norat},
@@ -8903,8 +8518,7 @@ doi = {10.1371/journal.pone.0182960}
 author = {Mingyang Song M. and Fung T. T. and Hu F. B. and Walter
 C. Willett and and Valter D. Longo and Andrew
 T. Chan and Edward L. Giovannucci},
-title = {Association of Animal and Plant Protein Intake With All-Cause
-and Cause-Specific Mortality},
+title = {Association of Animal and Plant Protein Intake With All-Cause and Cause-Specific Mortality},
 journal = {JAMA Internal Medicine},
 year = {2016},
 volume = {176},
@@ -8964,9 +8578,7 @@ journal = {Science}
 
 @article{PelletierEtAl2010,
 author = {Nathan Pelletier and Rich Pirog and Rebecca Rasmussen},
-title = {Comparative life cycle environmental impacts of three
-beef production strategies in the Upper Midwestern
-United States},
+title = {Comparative life cycle environmental impacts of three beef production strategies in the Upper Midwestern United States},
 volume = {103},
 issue = {6},
 year = {2010},
@@ -9075,8 +8687,7 @@ address = {Cambridge, UK, New York, USA}
 
 
 @book{LangmuirBroecker2012,
-title = {How to Build a Habitable Planet: The Story of Earth from the
-Big Bang to Humankind},
+title = {How to Build a Habitable Planet: The Story of Earth from the Big Bang to Humankind},
 author = {Charles H. Langmuir and Wally Broecker},
 year = {2012},
 isbn = {9780691140063},
@@ -9152,9 +8763,7 @@ doi = {10.1073/pnas.2006323117}
 author = {Rau, B. M. and Johnson, D. W. and Blank, R. R. and Lucchesi
 and A., Caldwell, T. G. and Schupp, E. W.},
 year = {2011},
-title = {Transition from sagebrush steppe to annual grass (Bromus
-tectorum): influence on belowground carbon and
-nitrogen},
+title = {Transition from sagebrush steppe to annual grass (Bromus tectorum): influence on belowground carbon and nitrogen},
 journal = {Rangeland Ecology and Management},
 volume = {64},
 issue = {2},
@@ -9165,8 +8774,7 @@ doi = {10.2111/REM-D-10-00063.1}
 
 
 @article{WilliamsEtAl2017,
-title = {The 2016 Southeastern U.S. Drought: An Extreme Departure From
-Centennial Wetting and Cooling},
+title = {The 2016 Southeastern U.S. Drought: An Extreme Departure From Centennial Wetting and Cooling},
 author = {A. Park Williams and Benjamin I. Cook and Jason E. Smerdon
 and Daniel A. Bishop and Richard Seager and Justin
 S. Mankin},
@@ -9183,8 +8791,7 @@ doi = {10.1002/2017JD027523}
 @article{MankinEtAl2019,
 author = {Mankin, J. S. and Seager, R. and Smerdon, J. E. and Benjamin
 I. Cook and A. Park Williams},
-title = {Mid-latitude freshwater availability reduced by projected
-vegetation responses to climate change},
+title = {Mid-latitude freshwater availability reduced by projected vegetation responses to climate change},
 journal = {Nature Geosciences},
 volume = {12},
 pages = {983-988},
@@ -9211,8 +8818,7 @@ doi = {10.1038/370204a0}
 @article{OliveiraEtAl2005,
 author = {Aureo S. de Oliveira and Edward C. Martin and Donald
 C. Slack and Edward J. Pegelow},
-title = {Water use and crop coefficient of subsurface drip-irrigated
-lettuce in Central Arizona},
+title = {Water use and crop coefficient of subsurface drip-irrigated lettuce in Central Arizona},
 journal = {Brazilian Journal of Agricultural and Environmental
 Engineering},
 volume = {9},
@@ -9243,8 +8849,7 @@ doi = {10.1038/ngeo1765}
 
 
 @article{Rubin2020,
-title = {Backlash Over Meat Dietary Recommendations Raises Questions
-About Corporate Ties to Nutrition Scientists},
+title = {Backlash Over Meat Dietary Recommendations Raises Questions About Corporate Ties to Nutrition Scientists},
 author = {Rita Rubin},
 journal = {Journal of the American Medical Association},
 year = {2020},
@@ -9257,8 +8862,7 @@ doi = {10.1001/jama.2019.21441}
 
 
 @article{SawalhahEtAl2019,
-title = {Rangeland Livestock Production in Relation to Climate and
-Vegetation Trends in New Mexico},
+title = {Rangeland Livestock Production in Relation to Climate and Vegetation Trends in New Mexico},
 author = {Sawalhah, Mohammed N. and Holechek, Jerry L. and Cibils,
 Andres F. and Geli, Hatim M. E. and Zaied, Ashraf.},
 journal = {Rangeland Ecology and Management},
@@ -9275,7 +8879,7 @@ doi = {10.1016/j.rama.2019.03.001}
 Author = {United States Department of Agriculture},
 Howpublished = {\url{https://quickstats.nass.usda.gov/}},
 Publisher = {United States Department of Agriculture},
-title = {Quick Stats.},
+title = {Quick Stats},
 Year = {2021}
 }
 
@@ -9325,9 +8929,7 @@ accessed = {April 11 2023}
 
 @misc{Savory2013,
 author = {Savory, Allan},
-title = {Response to request for information on the "science" and
-"methodology" underpinning Holistic Management and
-holistic planned grazing},
+title = {Response to request for information on the "science" and "methodology" underpinning Holistic Management and holistic planned grazing},
 publisher = {Savory Institute},
 url = {\url{http://www.savoryinstitute.com}},
 year = {2013}
@@ -9336,7 +8938,7 @@ year = {2013}
 
 
 @misc{SavoryTedTalk2013,
-title = {How to fight desertification and reverse climate change.},
+title = {How to fight desertification and reverse climate change},
 author = {Allan Savory},
 year = {2013},
 publisher = {TED2013, Technology, Entertainment, Design},
@@ -9347,8 +8949,7 @@ accessed = {April 27 2022},
 
 
 @misc{EPAClimateIndicatoersExplorer,
-title = {Climate Indicators Explorer, Atmospheric Concentrations of
-Greenhouse Gases},
+title = {Climate Indicators Explorer, Atmospheric Concentrations of Greenhouse Gases},
 year = {2023},
 key = {US EPA},
 publisher = {United States Environmental Protection Agency},
@@ -9394,7 +8995,7 @@ address = {New York NY}
 
 
 @book{Niman2014,
-title = {Defending Beef: The Case for Sustainable Meat Production.},
+title = {Defending Beef: The Case for Sustainable Meat Production},
 author = {Nicolette Hahn Niman},
 year = {2014},
 isbn = {9781603585378},
@@ -9479,7 +9080,7 @@ address = {New York NY}
 
 
 @book{Oreskes2019,
-title = {Why Trust Science?},
+title = {Why Trust Science},
 author = {Naomi Oreskes},
 year = {2019},
 pages = {376},
@@ -9541,7 +9142,7 @@ address = {Chicago IL},
 
 
 @book{Berry2004,
-title = {The Unsettling of America: Culture \& Agriculture},
+title = {The Unsettling of America: Culture & Agriculture},
 author = {Wendell Berry},
 isbn = {9780871568779},
 pages = {246},
@@ -9591,8 +9192,7 @@ isbn = {978-0385529822}
 
 
 @book{Rinella2015,
-title = {The Complete Guide to Hunting, Butchering, and Cooking Wild
-Game: Volume 1: Big Game},
+title = {The Complete Guide to Hunting, Butchering, and Cooking Wild Game: Volume 1: Big Game},
 author = {Steven Rinella},
 publisher = {Spiegel and Grau},
 address = {New York NY},
@@ -9616,7 +9216,7 @@ address = {Washington DC}
 
 
 @article{SherrenKent2019,
-title = {Who's afraid of Allan Savory? Scientometric polarization on Holistic Management as competing understandings},
+title = {Who's afraid of Allan Savory Scientometric polarization on Holistic Management as competing understandings 2019},
 author = {Kate Sherren and Carlisle Kent},
 year = {2019},
 journal = {Renewable Agriculture and Food Systems},
@@ -9681,7 +9281,7 @@ address = {New York NY}
 
 
 @book{Jurek2012,
-title = {Eat \& Run: My Unlikely Journey to Ultramarathon Greatness},
+title = {Eat & Run: My Unlikely Journey to Ultramarathon Greatness},
 author = {Scott Jurek},
 publisher = {Houghton Mifflin Harcourt},
 year = {2012},
@@ -9838,7 +9438,7 @@ accessed = {June 17 2023}
 
 
 @techreport{NordborgRoos2016,
-title = {Holistic management – a critical review of Allan Savory’s grazing method},
+title = {Holistic management - a critical review of Allan Savory's grazing method},
 author = {Maria Nordborg and Elin Roos},
 year = {2016},
 institution = {SLU, Swedish University of Agricultural Sciences \&
@@ -9945,7 +9545,7 @@ isbn = {978-0670033379}
 
 
 @book{Emerson2022,
-title = {Society and Solitude: Twelve Chapters; The Works of Ralph Waldo Emerson, vol. 7},
+title = {Society and Solitude: Twelve Chapters; The Works of Ralph Waldo Emerson, vol 7},
 author = {Ralph Waldo Emerson},
 year = {2022},
 pages = {166},
@@ -10033,7 +9633,7 @@ isbn = {978-0143135968}
 
 
 @book{Vallis2006,
-title = {Atmospheric and Oceanic Fluid Dynamics: Fundamentals and Large-scale Circulation.},
+title = {Atmospheric and Oceanic Fluid Dynamics: Fundamentals and Large-scale Circulation},
 author = {Geoffrey K. Vallis},
 edition = {1st},
 year = {2006},

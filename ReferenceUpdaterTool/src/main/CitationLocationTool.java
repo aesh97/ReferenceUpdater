@@ -44,7 +44,7 @@ public class CitationLocationTool {
                 else if (line.length() >= 9 && line.substring(0,5).equals("title")) {
                 	String title = line.substring(9);
                 	if (title.length()-3 > 0) {
-                		this.citation_to_string_id.put(title.substring(0, title.length()-3).toLowerCase(), current_article);                
+                		this.citation_to_string_id.put(title.substring(0, title.length()-2).toLowerCase(), current_article);                
                 	}
                 }
             }
@@ -52,7 +52,7 @@ public class CitationLocationTool {
             e.printStackTrace();
         }
 	}
-	
+	 
 	private String find_citation_by_id(Integer id) {
 		return this.id_to_citation.get(id).toLowerCase();
 	}
@@ -64,7 +64,7 @@ public class CitationLocationTool {
 			return parts[1];
 		}
 		return null;
-	}
+	} 
 	
 	public String find_string_id_by_id(Integer id) {
 		String title = this.find_title_by_id(id);
