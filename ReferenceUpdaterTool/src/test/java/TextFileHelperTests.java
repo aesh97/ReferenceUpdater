@@ -1,4 +1,4 @@
-package test;
+package test.java;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 import java.io.BufferedReader;
@@ -10,8 +10,8 @@ import java.lang.reflect.Method;
 import java.util.ArrayList;
 import java.util.List;
 
-import main.Reference;
-import main.TextFileHelper;
+import main.java.Reference;
+import main.java.TextFileHelper;
 
 public class TextFileHelperTests {
 	

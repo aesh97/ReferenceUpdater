@@ -1,4 +1,4 @@
-package main;
+package main.java;
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.FileReader;
@@ -29,7 +29,7 @@ public class TextFileHelper {
 						throw new Exception("] found without corresponding [");
 					} else {
 						index += 1; 
-					}
+					} 
 				} else {
 					if (current_character == '[') {
 						throw new Exception("Nested [ characters at location: " + String.valueOf(index));

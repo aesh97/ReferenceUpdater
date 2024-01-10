@@ -1,9 +1,10 @@
-package test;
+package test.java;
 import static org.junit.jupiter.api.Assertions.*;
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
 import org.junit.jupiter.api.Test;
-import main.CitationLocationTool;
+
+import main.java.CitationLocationTool;
 
 class CitationLocationTests {
 

@@ -1,7 +1,7 @@
-package test;
+package test.java;
 import org.junit.jupiter.api.Test;
 
-import main.CitationLocationTool;
+import main.java.CitationLocationTool;
 
 import static org.junit.jupiter.api.Assertions.*;
 
