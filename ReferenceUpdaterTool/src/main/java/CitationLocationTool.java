@@ -1,4 +1,4 @@
-package main;
+package main.java;
 import java.io.IOException;
 import java.util.HashMap;
 import java.util.Map;
@@ -61,7 +61,7 @@ public class CitationLocationTool {
 		String citation = this.find_citation_by_id(id);
 		String[] parts = citation.split("(?<!\\..)[.?!]\\s+");
 		if (parts.length > 1) {
-			return parts[1];
+			return parts[1]; 
 		}
 		return null;
 	} 

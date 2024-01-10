@@ -1,4 +1,4 @@
-package main;
+package main.java;
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.FileReader;
@@ -18,16 +18,18 @@ public class TextFileHelper {
 		while (index < text.length()) {
 			char current_character = text.charAt(index);
 			if (Character.isDigit(current_character) || current_character == ' ' || current_character == ','
-					|| current_character == '[' || current_character == ']') {
+					|| current_character == '[' || current_character == ']' || current_character == '{' 
+					|| current_character == '}' || current_character == '\\' || current_character == '_'
+					|| current_character == '\n') {
 				if (in_progress_reference == null) {
 					if (current_character == '[') {
 						in_progress_reference = new Reference(index);
 						index += 1;
 					} else if (current_character == ']') {
-						throw new Exception("Partial Reference Detected");
+						throw new Exception("] found without corresponding [");
 					} else {
 						index += 1; 
-					}
+					} 
 				} else {
 					if (current_character == '[') {
 						throw new Exception("Nested [ characters at location: " + String.valueOf(index));
@@ -50,6 +52,7 @@ public class TextFileHelper {
 					}
 				}
 			} else {
+				in_progress_reference = null;
 				index += 1;
 			}
 		}

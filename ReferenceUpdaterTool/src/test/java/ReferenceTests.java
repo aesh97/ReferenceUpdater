@@ -1,6 +1,8 @@
-package test;
-import main.Reference;
+package test.java;
 import org.junit.jupiter.api.Test;
+
+import main.java.Reference;
+
 import static org.junit.jupiter.api.Assertions.*;
 
 
