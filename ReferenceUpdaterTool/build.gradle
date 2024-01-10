@@ -1,0 +1,18 @@
+plugins {
+    id 'java'
+}
+repositories {
+    mavenCentral()
+}
+task runTool(type: JavaExec) {
+    main = 'main.java.Main' 
+    classpath = sourceSets.main.runtimeClasspath
+   
+    if (project.hasProperty('args')) {
+        args = project.args
+    }
+}
+dependencies {
+    testImplementation 'org.junit.jupiter:junit-jupiter-api:5.8.1'
+    testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.8.1'
+}
