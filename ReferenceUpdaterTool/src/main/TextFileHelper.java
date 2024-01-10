@@ -18,13 +18,15 @@ public class TextFileHelper {
 		while (index < text.length()) {
 			char current_character = text.charAt(index);
 			if (Character.isDigit(current_character) || current_character == ' ' || current_character == ','
-					|| current_character == '[' || current_character == ']') {
+					|| current_character == '[' || current_character == ']' || current_character == '{' 
+					|| current_character == '}' || current_character == '\\' || current_character == '_'
+					|| current_character == '\n') {
 				if (in_progress_reference == null) {
 					if (current_character == '[') {
 						in_progress_reference = new Reference(index);
 						index += 1;
 					} else if (current_character == ']') {
-						throw new Exception("Partial Reference Detected");
+						throw new Exception("] found without corresponding [");
 					} else {
 						index += 1; 
 					}
@@ -50,6 +52,7 @@ public class TextFileHelper {
 					}
 				}
 			} else {
+				in_progress_reference = null;
 				index += 1;
 			}
 		}

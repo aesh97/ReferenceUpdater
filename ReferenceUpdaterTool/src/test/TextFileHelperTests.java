@@ -122,7 +122,7 @@ public class TextFileHelperTests {
 	}
 	
 	@Test
-	void write_to_file_test() throws NoSuchMethodException, SecurityException, IllegalAccessException, InvocationTargetException {
+	void write_to_file_test() throws NoSuchMethodException, SecurityException, IllegalAccessException, InvocationTargetException, IOException {
 		
 		TextFileHelper line_parser = new TextFileHelper();
 		Method privateMethod = TextFileHelper.class.getDeclaredMethod("write_lines", List.class, String.class);
@@ -140,20 +140,17 @@ public class TextFileHelperTests {
 		lines_to_write.add("line 2");
 		lines_to_write.add("line 3");
 		lines_to_write.add("line 1111awefsfa");
-		try (BufferedReader reader = new BufferedReader(new FileReader(filePath))) {
+		BufferedReader reader = new BufferedReader(new FileReader(filePath));
             String line;
             int lineNumber = 0; 
             while ((line = reader.readLine()) != null) {
             	assertEquals(lines_to_write.get(lineNumber), line);
                 lineNumber++; 
             }
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
 	}
 	
 	@Test 
-	void process_input_chapter_test() {
+	void process_input_chapter_test() throws IOException {
 		String input_filepath = "src/test/dummy_data/ch6_dummy.txt";
 		String actual_output_filepath = "src/test/dummy_data/ch6_dummy_actual_output.txt";
 		String expected_output_filepath = "src/test/dummy_data/ch6_dummy_expected_output.txt";
@@ -161,26 +158,17 @@ public class TextFileHelperTests {
 		clear_file(actual_output_filepath);
 		TextFileHelper line_parser = new TextFileHelper();
 		line_parser.generate_output_document(input_filepath, actual_output_filepath, 2);
-		try (BufferedReader reader = new BufferedReader(new FileReader(actual_output_filepath))) {
+		BufferedReader reader = new BufferedReader(new FileReader(actual_output_filepath));
             String line;
             while ((line = reader.readLine()) != null) {
             	actual_output.add(line); 
             }
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
-		
-		try (BufferedReader reader = new BufferedReader(new FileReader(expected_output_filepath))) {
-            String line;
+		BufferedReader reader2 = new BufferedReader(new FileReader(expected_output_filepath));
             int lineNumber = 0; 
-            while ((line = reader.readLine()) != null) {
+            while ((line = reader2.readLine()) != null) {
             	assertEquals(actual_output.get(lineNumber), line);
                 lineNumber++; 
             }
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
-		
 	}
 	
 	void clear_file(String filePath) {
