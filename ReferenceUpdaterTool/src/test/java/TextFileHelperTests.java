@@ -1,4 +1,5 @@
 package test.java;
+
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 import java.io.BufferedReader;
@@ -14,7 +15,7 @@ import main.java.Reference;
 import main.java.TextFileHelper;
 
 public class TextFileHelperTests {
-	
+
 	@Test
 	void parse_test_case_1_test() throws Exception {
 		String line = "[10, 2, 5]";
@@ -27,11 +28,11 @@ public class TextFileHelperTests {
 		ArrayList<Reference> expected = new ArrayList<>();
 		expected.add(ref);
 		Method privateMethod = TextFileHelper.class.getDeclaredMethod("find_instances", String.class);
-		privateMethod.setAccessible(true); 
-		ArrayList<Reference> result = (ArrayList<Reference>)privateMethod.invoke(line_parser, line);
+		privateMethod.setAccessible(true);
+		ArrayList<Reference> result = (ArrayList<Reference>) privateMethod.invoke(line_parser, line);
 		assertEquals(expected, result);
 	}
-	
+
 	@Test
 	void parse_test_case_2_test() throws Exception {
 		String line = "stressed cattle[112, 280]. ";
@@ -43,8 +44,8 @@ public class TextFileHelperTests {
 		ArrayList<Reference> expected = new ArrayList<>();
 		expected.add(ref);
 		Method privateMethod = TextFileHelper.class.getDeclaredMethod("find_instances", String.class);
-		privateMethod.setAccessible(true); 
-		ArrayList<Reference> result = (ArrayList<Reference>)privateMethod.invoke(line_parser, line);
+		privateMethod.setAccessible(true);
+		ArrayList<Reference> result = (ArrayList<Reference>) privateMethod.invoke(line_parser, line);
 		assertEquals(expected, result);
 	}
 
@@ -64,69 +65,73 @@ public class TextFileHelperTests {
 		expected.add(ref_1);
 		expected.add(ref_2);
 		Method privateMethod = TextFileHelper.class.getDeclaredMethod("find_instances", String.class);
-		privateMethod.setAccessible(true); 
-		ArrayList<Reference> result = (ArrayList<Reference>)privateMethod.invoke(line_parser, line);
+		privateMethod.setAccessible(true);
+		ArrayList<Reference> result = (ArrayList<Reference>) privateMethod.invoke(line_parser, line);
 		assertEquals(expected, result);
 	}
-	
+
 	@Test
 	void parse_test_should_throw_exception_1() throws Exception {
 		String line = "[41, ";
 		TextFileHelper line_parser = new TextFileHelper();
 		Method privateMethod = TextFileHelper.class.getDeclaredMethod("find_instances", String.class);
-		privateMethod.setAccessible(true); 
+		privateMethod.setAccessible(true);
 		assertThrows(Exception.class, () -> {
 			privateMethod.invoke(line_parser, line);
 		});
 	}
-	
+
 	@Test
 	void parse_test_should_throw_exception_2() throws Exception {
 		String line = "272]";
 		TextFileHelper line_parser = new TextFileHelper();
 		Method privateMethod = TextFileHelper.class.getDeclaredMethod("find_instances", String.class);
-		privateMethod.setAccessible(true); 
+		privateMethod.setAccessible(true);
 		assertThrows(Exception.class, () -> {
 			privateMethod.invoke(line_parser, line);
 		});
 	}
-	
-	@Test 
-	void replace_text_example_1() throws NoSuchMethodException, SecurityException, IllegalAccessException, InvocationTargetException {
+
+	@Test
+	void replace_text_example_1()
+			throws NoSuchMethodException, SecurityException, IllegalAccessException, InvocationTargetException {
 		String line = "[331]";
 		String expected = "\\cite{Moodie2016}";
 		TextFileHelper line_parser = new TextFileHelper();
 		Method privateMethod = TextFileHelper.class.getDeclaredMethod("replace_text", String.class);
-		privateMethod.setAccessible(true); 
-		assertEquals(expected, privateMethod.invoke(line_parser,  line));
+		privateMethod.setAccessible(true);
+		assertEquals(expected, privateMethod.invoke(line_parser, line));
 	}
-	
-	@Test 
-	void replace_text_example_2() throws NoSuchMethodException, SecurityException, IllegalAccessException, InvocationTargetException {
+
+	@Test
+	void replace_text_example_2()
+			throws NoSuchMethodException, SecurityException, IllegalAccessException, InvocationTargetException {
 		String line = "skeptical journalists [331, 205, 16] to rebut naive [346, 348, 433] or self serving [233] claims about food, this is where things";
 		String expected = "skeptical journalists \\cite{Moodie2016, Heid2016, Arends2020} to rebut naive \\cite{Niman2009, Niman2014, SavoryTedTalk2013} or self serving \\cite{JohnstonEtAl2019} claims about food, this is where things";
 		TextFileHelper line_parser = new TextFileHelper();
 		Method privateMethod = TextFileHelper.class.getDeclaredMethod("replace_text", String.class);
-		privateMethod.setAccessible(true); 
-		assertEquals(expected, privateMethod.invoke(line_parser,  line));
+		privateMethod.setAccessible(true);
+		assertEquals(expected, privateMethod.invoke(line_parser, line));
 	}
-	
-	@Test 
-	void replace_text_example_3() throws IllegalAccessException, InvocationTargetException, NoSuchMethodException, SecurityException {
+
+	@Test
+	void replace_text_example_3()
+			throws IllegalAccessException, InvocationTargetException, NoSuchMethodException, SecurityException {
 		String line = "was 48, 48, 32, 25, and 14 [353]. Another food that fits the bill is sweet cherry, which 9, 8, 3, and 3 states grew nontrivial ";
 		String expected = "was 48, 48, 32, 25, and 14 \\cite{quickstats}. Another food that fits the bill is sweet cherry, which 9, 8, 3, and 3 states grew nontrivial ";
 		TextFileHelper line_parser = new TextFileHelper();
 		Method privateMethod = TextFileHelper.class.getDeclaredMethod("replace_text", String.class);
-		privateMethod.setAccessible(true); 
-		assertEquals(expected, privateMethod.invoke(line_parser,  line));
+		privateMethod.setAccessible(true);
+		assertEquals(expected, privateMethod.invoke(line_parser, line));
 	}
-	
+
 	@Test
-	void write_to_file_test() throws NoSuchMethodException, SecurityException, IllegalAccessException, InvocationTargetException, IOException {
-		
+	void write_to_file_test() throws NoSuchMethodException, SecurityException, IllegalAccessException,
+			InvocationTargetException, IOException {
+
 		TextFileHelper line_parser = new TextFileHelper();
 		Method privateMethod = TextFileHelper.class.getDeclaredMethod("write_lines", List.class, String.class);
-		privateMethod.setAccessible(true); 
+		privateMethod.setAccessible(true);
 		String filePath = "src/test/dummy_data/write_lines.txt";
 		clear_file(filePath);
 		List<String> lines_to_write = new ArrayList<>();
@@ -141,15 +146,16 @@ public class TextFileHelperTests {
 		lines_to_write.add("line 3");
 		lines_to_write.add("line 1111awefsfa");
 		BufferedReader reader = new BufferedReader(new FileReader(filePath));
-            String line;
-            int lineNumber = 0; 
-            while ((line = reader.readLine()) != null) {
-            	assertEquals(lines_to_write.get(lineNumber), line);
-                lineNumber++; 
-            }
+		String line;
+		int lineNumber = 0;
+		while ((line = reader.readLine()) != null) {
+			assertEquals(lines_to_write.get(lineNumber), line);
+			lineNumber++;
+		}
+		reader.close();
 	}
-	
-	@Test 
+
+	@Test
 	void process_input_chapter_test() throws IOException {
 		String input_filepath = "src/test/dummy_data/ch6_dummy.txt";
 		String actual_output_filepath = "src/test/dummy_data/ch6_dummy_actual_output.txt";
@@ -159,23 +165,25 @@ public class TextFileHelperTests {
 		TextFileHelper line_parser = new TextFileHelper();
 		line_parser.generate_output_document(input_filepath, actual_output_filepath, 2);
 		BufferedReader reader = new BufferedReader(new FileReader(actual_output_filepath));
-            String line;
-            while ((line = reader.readLine()) != null) {
-            	actual_output.add(line); 
-            }
+		String line;
+		while ((line = reader.readLine()) != null) {
+			actual_output.add(line);
+		}
+		reader.close();
 		BufferedReader reader2 = new BufferedReader(new FileReader(expected_output_filepath));
-            int lineNumber = 0; 
-            while ((line = reader2.readLine()) != null) {
-            	assertEquals(actual_output.get(lineNumber), line);
-                lineNumber++; 
-            }
+		int lineNumber = 0;
+		while ((line = reader2.readLine()) != null) {
+			assertEquals(actual_output.get(lineNumber), line);
+			lineNumber++;
+		}
+		reader2.close();
 	}
-	
+
 	void clear_file(String filePath) {
 		try (FileWriter writer = new FileWriter(filePath)) {
-            writer.write(""); 
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
+			writer.write("");
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
 	}
 }

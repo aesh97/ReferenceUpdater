@@ -1,14 +1,14 @@
 package test.java;
+
 import org.junit.jupiter.api.Test;
 
 import main.java.Reference;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-
 public class ReferenceTests {
-	
-	@Test 
+
+	@Test
 	void equality_test() {
 		Reference reference = new Reference(15);
 		assertEquals(reference, reference);
