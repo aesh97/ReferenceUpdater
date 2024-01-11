@@ -85,6 +85,9 @@ public class MainTests {
 		String expected = "The specified path is not a directory or does not exist.";
 		assertEquals(result, expected);
 	}
+	
+	//NOTE: Git doesn't track empty directories so you might have to manually add a 'src/test/empty_folder/' directory manually to get
+	//process_directory_on_empty_directory_test to pass
 
 	@Test
 	void process_directory_on_empty_directory_test()
